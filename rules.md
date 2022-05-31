@@ -442,13 +442,11 @@ Additionally, teams are **not permitted** to add new players to their roster in 
 
 Proof of play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
 
-When proof of play is required, the following is required:
-1. A **recording** or **stream POV** of the match must be provided. This can be from any player in the match
-2. A screenshot of the end-game scoreboard *with all players present* must be provided by the team Captain
+When proof of play is required, the following **must** be provided:
+1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed. So the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
+2. A screenshot of the end-game scoreboard *with all players present*
 
-**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.**
-
-Note that **spectators** are *not* allowed. So the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
+**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** It is recommended that the team's **Captain** deliver these directly to the one of the Tournament Directors.
 
 In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match will be subject to the **Scheduling Deadline**, should one exist.
 In the worst case, a team will earn a **zero score** for the match.
