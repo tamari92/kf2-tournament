@@ -34,7 +34,7 @@
     - [5.2.2 - Player Grouping](#522---player-grouping)
     - [5.2.3 - Captain Assignment](#523---mentor-assignment)
     - [5.2.4 - Co-Captain Assignment](#524---co-mentor-assignment)
-    - [5.2.5 - Player Assignment](#525---player-assignment)
+    - [5.2.5 - Player Draft](#525---player-draft)
   - [5.3 - Roster Integrity](#53---roster-integrity)
     - [5.3.1 - Alternate Accounts](#531---alternate-accounts)
 - [Section 6: Match Scheduling](#section-6-match-scheduling)
@@ -335,7 +335,7 @@ Captains will be informed of the players who have directly expressed an interest
 There must be written confirmation from both the Captain and the prospective Co-Captain for the assignment to be finalized.
 
 #### 5.2.5 - Player Draft
-When all Captains and Co-Captain pairs have been established, the Player Draft phase will begin. In this phase, the remaining players are selected by the Captains using the previously-formed Player Groups.
+When all Captain and Co-Captain pairs have been established, the **Player Draft** phase will begin. In this phase, the remaining players are selected by the Captains using the previously-formed Player Groups.
 
 To start the process, all Captains will be placed into a hat and shuffled to produce a random ordering. **This represents the order in which the Captains will choose prospective teammates.** Random ordering is used to prevent any bias and/or favoritism in the process.
 
