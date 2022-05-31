@@ -1,4 +1,4 @@
-![alt_text](https://i.imgur.com/yAG0ngM.png)
+![alt_text]()
 
 # Tournament Streamer Guidelines
 This document is meant to give **Tournament Streamers** a few guidelines on streaming matches for the tournament.

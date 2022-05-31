@@ -1,7 +1,4 @@
-![alt_text](https://i.imgur.com/U74VLiR.png)
-Todo:
-- Update Substitutions to allow substitutions between individual games in a match, but not DURING the match
-- Update Overflow Pool to use Player Groups to ensure groups are filled appropriately
+![alt_text]()
 
 # Official Tournament Guidelines
 **Note:** These guidelines are subject to change at any time!
@@ -35,8 +32,8 @@ Todo:
   - [5.2 - Team Formation](#52---team-formation)
     - [5.2.1 - Player Sign-ups](#521---player-sign-ups)
     - [5.2.2 - Player Grouping](#522---player-grouping)
-    - [5.2.3 - Mentor Assignment](#523---mentor-assignment)
-    - [5.2.4 - Co-Mentor Assignment](#524---co-mentor-assignment)
+    - [5.2.3 - Captain Assignment](#523---mentor-assignment)
+    - [5.2.4 - Co-Captain Assignment](#524---co-mentor-assignment)
     - [5.2.5 - Player Assignment](#525---player-assignment)
   - [5.3 - Roster Integrity](#53---roster-integrity)
     - [5.3.1 - Alternate Accounts](#531---alternate-accounts)
@@ -53,7 +50,7 @@ Todo:
   - [6.8 - Tardiness](#68---tardiness)
   - [6.9 - No-shows](#69---no-shows)
   - [6.10 - Ringers & Substitutes](#610---ringers--substitutes)
-  - [6.11 - Mentor Participation](#611---mentor-participation)
+  - [6.11 - Captain Participation](#611---mentor-participation)
   - [6.12 - Proof of Play](#612---proof-of-play)
   - [6.13 - Multiple Attempts](#613---multiple-attempts)
     - [6.13.1 - Group Stage](#6131---group-stage)
@@ -112,9 +109,9 @@ Todo:
   - [11.2 - Insufficient Effort to Win](#112---insufficient-effort-to-win)
   - [11.3 - Delay of Game](#113---delay-of-game)
   - [11.4 - Communication to Harass or Impede](#114---communication-to-harass-or-impede)
-  - [11.5 - Player Avatars](#115---player-avatars)
-  - [11.6 - Respect the Server Hosts](#116---respect-the-server-hosts)
-  - [11.7 - Bad Sportsmanship](#117---bad-sportsmanship)
+  - [11.5 - Lack of Professionalism](#115---lack-of-professionalism)
+  - [11.6 - Player Avatars](#116---player-avatars)
+  - [11.7 - Respect the Server Hosts](#117---respect-the-server-hosts)
 - [Section 12: Servers](#section-12-servers)
 - [Section 13: Legal](#section-13-legal)
 
@@ -122,7 +119,7 @@ Todo:
 
 # Section 1: Introduction & Objective
 ### 1.1 - Objective
-Welcome to the Tamari’s KF2 CD Mentor Tournament(s)!
+Welcome to the Tamari’s KF2 CD Captain Tournament(s)!
 
 This is a tournament for **KILLING FLOOR 2** centered around the **Controlled Difficulty** mod -- a mod which allows for fine tuning of difficulty-specific game variables and obtaining a level of consistency and intensity that drives a team experience simply not available in the vanilla game.
 
@@ -159,16 +156,16 @@ Through CD, the following can be achieved:
 # Section 2: Tournament Administration
 ### 2.1 - Tournament Staff
 **Tournament Director**
-- Tamari
+- TBD
 
 **Assistant Director(s)**
 - TBD
 
 **Commentator(s)**
-- Tamari
+- TBD
 
 **Streamer(s)**
-- Tamari
+- TBD
 
 ### 2.2 - Disputes
 The Tournament Directors are the sole arbiters and court of last resort for all disputes. Their decisions are final and cannot be appealed.
@@ -191,42 +188,15 @@ The Tournament Directors reserve the right to impose any sanction on any competi
 
 #### [Preliminary Schedule]
 ```
-Apr 29      Official Tournament Announcement.
-            Regular sign-ups open.
-            Map Pool announced.
--------------------------------------------------------------------
-May 27      Regular sign-ups close.      
-            Overflow sign-ups begin.
--------------------------------------------------------------------
-May 28      Players sorted into Player Groups.
-            Mentor Assignments announced.
-            Co-Mentor Assignments begin.
--------------------------------------------------------------------
-May 30      Co-Mentor Assignments announced.
-            Players assigned to teams.
-            Map Pool finalized.
--------------------------------------------------------------------
-Jun 6       Overflow sign-ups end.
+TBD
 ```
 #### [Group Stage Schedule]
 ```
-Jun 6       Group Stage Round 1 begins and match details revealed.
--------------------------------------------------------------------
-Jun 13      Group Stage Round 1 ends.
-            Group Stage Round 2 begins and match details revealed.
--------------------------------------------------------------------
-Jun 20      Group Stage Round 2 ends.
-            Group Stage Round 3 begins and match details revealed.
--------------------------------------------------------------------
-Jun 27      Group Stage Round 3 ends.
+TBD
 ```
 #### [Playoffs Schedule]
 ```
-Jun 27              Playoff Brackets and match details revealed.
--------------------------------------------------------------------
-Jun 27 - Jul 4      Semifinals
--------------------------------------------------------------------
-Jul 4 - Jul 11      Finals
+TBD
 ```
 
 ### 3.2 - Format
@@ -278,10 +248,10 @@ TBD
 The regular registration period begins **Apr 29, 2022** and closes on **May 27, 2022**, lasting exactly **28 days.**
 
 ### 4.2 - Double Registration
-Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the tournament staff.
+Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
 
 ### 4.3 - Overflow Pool
-Following the conclusion of the **regular registration** period, the **Overflow Pool** will be formed. If more players have signed up than there are available Mentors, and there are not enough extra players to form a new team, the extra players will be moved to the Overflow Pool. Players in the pool will be ordered by the date and time they signed up, meaning players who signed up earlier are prioritized higher.
+Following the conclusion of the **regular registration** period, the **Overflow Pool** will be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players will be moved to the Overflow Pool. Players in the pool will be ordered by the date and time they signed up, meaning players who signed up earlier are prioritized higher.
 
 The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the buffer will be drawn from in order of priority in order to fill the vacant slot on the team.
 
@@ -297,7 +267,7 @@ Integrity is of the utmost importance. If a Steam account possesses a **VAC Ban*
 ### 4.5 - Names
 All players will be required to give a name during the registration phase. **Players will be required to use these names for the duration of the tournament.**
 
-If a player must change their name, the tournament staff must be informed. It is permitted for players to make minor adjustments to their name (such as adding clan tags or symbols to denote their team) without having to inform the Tournament Staff.
+If a player must change their name, the Tournament Staff must be informed. It is permitted for players to make minor adjustments to their name (such as adding clan tags or symbols to denote their team) without having to inform the Tournament Staff.
 
 **Names displaying obscenities or showing an overall lack of maturity or sensitivity will not be tolerated and can result in the team's suspension from the tournament.**
 
@@ -305,38 +275,40 @@ If a player must change their name, the tournament staff must be informed. It is
 # Section 5: Team Structure
 ### 5.1 - Team Roster
 A single team shall contain the following members in its roster:
-- 1 **Mentor**
-- 1 **Co-Mentor**
+- 1 **Captain**
+- 1 **Co-Captain**
 - 6 **Players**
 
 Though there can only be six players in-game at a time, a full roster contains eight players, allowing for two backup players to be available in the event that players are unable to make it to the match.
 
-### [Mentor]
-The team’s **Mentor** shall be an experienced player who possesses a high degree of skill, knowledge, and experience within CD. **The Mentor’s primary objective in this tournament is to act as a coach**, sharing their knowledge with their teammates and training them to improve their skill and game knowledge.
+### [Captain]
+The team’s **Captain** shall be an experienced player who possesses a high degree of skill, knowledge, and experience within CD.
 
-**The Mentor is the team leader and is ultimately responsible for their team.**
+**The Captain is the team leader and is ultimately responsible for their team.**
 
-Mentors are required to coordinate with Tournament Staff and other Mentors for scheduling matches and resolving disputes / other administrative-level endeavors. Mentors are typically handpicked by Tournament Staff, but players can opt to sign up to be a Mentor as well. In the second scenario, a review will be conducted by the Tournament Staff to determine eligibility. This will be based on several factors, including game time (hours) / general knowledge of the game, player attitude, and overall performance in CD matches.
+Captains are primarily required to coordinate with Tournament Staff and other Captains for scheduling matches and resolving disputes / other administrative-level endeavors. Captains are typically handpicked by Tournament Staff, but players can opt to sign up to be a Captain as well. In the second scenario, a review will be conducted by the Tournament Staff to determine eligibility. This will be based on several factors, including game time (hours) / general knowledge of the game, player attitude, and overall performance in CD matches.
 
-### [Co-Mentor]
-The team's **Co-Mentor** shall be the secondary leader.
+**The Captain’s secondary objective in this tournament is to act as a coach**, sharing their knowledge with their teammates and training them to improve their skill and game knowledge.
 
-The Co-Mentor can be a player of any skill level that has not already been assigned to a team and is handpicked by the Mentor directly. The Co-Mentor is responsible for filling in for the Mentor when needed and is the Mentor’s primary support. Players who do not desire the full responsibility of leadership, but still want to be in a team-wide supporting role will likely find this position to be ideal. Like Mentors, players can sign up to be Co-Mentors as well.
+### [Co-Captain]
+The team's **Co-Captain** shall be the secondary leader.
+
+The Co-Captain can be a player of any skill level that has not already been assigned to a team and is handpicked by the Captain directly. The Co-Captain is responsible for filling in for the Captain when needed and is the Captain’s primary support. Players who do not desire the full responsibility of leadership, but still want to be in a team-wide supporting role will likely find this position to be ideal. Like Captains, players can sign up to be Co-Captains as well.
 
 ### 5.2 - Team Formation
 The formation of teams is conducted in five distinct phases:
 - [Player Sign-ups](#521---player-sign-ups)
 - [Player Grouping](#522---player-grouping)
-- [Mentor Assignment](#523---mentor-assignment)
-- [Co-Mentor Assignment](#524---co-mentor-assignment)
-- [Player Assignment](#525---player-assignment)
+- [Captain Assignment](#523---mentor-assignment)
+- [Co-Captain Assignment](#524---co-mentor-assignment)
+- [Player Draft](#525---player-draft)
 
 #### 5.2.1 - Player Sign-ups
 As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **28 days.**
 
-On the signup form, an option is given that allows the participant to specify their preferred role within the team, either **Mentor**, **Co-Mentor**, or **Player**. Note that a player’s specified preference may not reflect their actual assigned role when the teams are finally established.
+On the signup form, an option is given that allows the participant to specify their preferred role within the team, either **Captain**, **Co-Captain**, or **Player**. Note that a player’s specified preference may not reflect their actual assigned role when the teams are finally established.
 
-The number of players that sign up directly influences the number of Mentors that can be chosen (and therefore the maximum number of teams).
+The number of players that sign up directly influences the number of Captains that can be chosen (and therefore the maximum number of teams).
 
 #### 5.2.2 - Player Grouping
 After sign-ups close, the Tournament Staff will divide the registered players into **Player Groups** based on their experience level.
@@ -348,41 +320,41 @@ There are three Groups:
 
 These groups exist to better ensure a more even balance between teams and become relevant when the teams are actually filled out with players.
 
-#### 5.2.3 - Mentor Assignment
-Next, **Mentors** are to be chosen/selected. Most of the time, these individuals will be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Mentors, the Tournament Staff will review those applications at this time.
+#### 5.2.3 - Captain Assignment
+Next, **Captains** are to be chosen/selected. Most of the time, these individuals will be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Captains, the Tournament Staff will review those applications at this time.
 
-**The number of Mentor slots available is limited by the number of players participating in the tournament.** This is to ensure each team has a full roster.
+**The number of Captain slots available is limited by the number of players participating in the tournament.** This is to ensure each team has a full roster.
 
-#### 5.2.4 - Co-Mentor Assignment
-Once the Mentors have been chosen, each will be asked to select a **Co-Mentor** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
+#### 5.2.4 - Co-Captain Assignment
+Once the Captains have been chosen, each will be asked to select a **Co-Captain** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
 
-Mentors will be informed of the players who have directly expressed an interest in being a Co-Mentor, however this does not mean that Mentors are necessarily required to choose those players.
+Captains will be informed of the players who have directly expressed an interest in being a Co-Captain, however this does not mean that Captains are necessarily required to choose those players.
 
-**Co-Mentor selection is done on a first come first serve basis.**
+**Co-Captain selection is done on a first come first serve basis.**
 
-There must be written confirmation from both the Mentor and the prospective Co-Mentor for the assignment to be finalized.
+There must be written confirmation from both the Captain and the prospective Co-Captain for the assignment to be finalized.
 
-#### 5.2.5 - Player Assignment
-When all Mentors and Co-Mentor pairs have been established, the Player Assignment phase will begin. In this phase, the remaining players are assigned to their teams using the previously-formed Player Groups. **Neither the Mentor or Co-Mentor have the ability to influence this process in any way.**
+#### 5.2.5 - Player Draft
+When all Captains and Co-Captain pairs have been established, the Player Draft phase will begin. In this phase, the remaining players are selected by the Captains using the previously-formed Player Groups.
 
-To start the process, all Mentors will be placed into a hat and shuffled to produce a random ordering. **This represents the order in which players will be allocated to teams from the Player Groups.** Random ordering is used to prevent any bias and/or favoritism in the process.
+To start the process, all Captains will be placed into a hat and shuffled to produce a random ordering. **This represents the order in which the Captains will choose prospective teammates.** Random ordering is used to prevent any bias and/or favoritism in the process.
 
-Once the team assignment order has been set, actual assignment of the players will begin.
+Once the order has been set, actual assignment of the players will begin.
 
-First, the players in **Group 3** will be randomly assigned to each team in a Round Robin fashion. For example, the first Mentor receives a random player, then the second, then the third, and so on.
+To start, Captains will take turn choosing players from **Group 3** in a Round Robin fashion as per the order established previously. For example, the first Captain picks a player, then the second, then the third, and so on. This process continues until all of the players in the group have been selected.
 
 The same process then repeats for the players in **Group 2.**
 
 ..and finally again for **Group 1.**
 
-The result of this process is (hopefully) a set of teams which have a similar average skill level across their rosters due to the even distribution of players of varying experience. The Round Robin random assignment is conducted to discourage bias or favoritism in the process.
+The result of this process is (hopefully) a set of teams which have a similar average skill level across their rosters due to the even distribution of players of varying experience.
 
-**Note** that due to the random assignment, it is entirely possible for an imbalanced set of teams to be produced. In this scenario, the tournament staff reserve the right to make adjustments as they see fit to ensure the best possible balance. This, however, will only be exercised in extreme cases.
+**Note** The Tournament Staff reserve the right to make adjustments to team rosters as they see fit to ensure the best possible balance. This, however, will only be exercised in extreme cases.
 
 ### 5.3 - Roster Integrity
-Teams may only use the players which have been assigned to them in [5.2.5](#525---player-assignment). If a player leaves, exits, or is removed from the team, the team Mentor is required to inform the tournament staff immediately, so that a replacement can be found (typically drawn from the overflow pool).
+Teams may *only* use the players in the rosters formed from [5.2.5](#525---player-draft). If a player leaves, exits, or is removed from the team, the team Captain is required to inform the Tournament Staff immediately so that a replacement can be found (typically drawn from the overflow pool).
 
-STEAMIDs will be checked regularly. **Using players not in the team’s assigned roster is grounds for suspension from the tournament.**
+STEAMIDs will be checked regularly. **Using players not in the team’s assigned roster is grounds for the team's immediate suspension from the tournament.**
 
 #### 5.3.1 - Alternate Accounts
 **Alternate accounts are not allowed under any circumstances.** Please make sure that the account you intend to play on has full access to the game.
@@ -393,90 +365,95 @@ STEAMIDs will be checked regularly. **Using players not in the team’s assigned
 Pairings, brackets, and other pertinent information for each round will be posted by the Tournament Staff at the beginning of the round.
 
 ### 6.2 - Scheduling Duties
-For all phases of the tournament, matches must be confirmed with the Tournament Staff at least **24 hours** before the match start time to allow for time to prepare.
+For all phases of the tournament, matches must be confirmed with the Tournament Staff at least **48 hours** before the projected match start time to allow for time to prepare.
 
-**It is the responsibility of all Mentors involved in a given match to schedule and finalize match times with one another and relay these times to the Tournament Staff.**
+**It is the responsibility of all Captains involved in a given match to schedule and finalize match times with one another and relay these times to the Tournament Staff.**
 
 ### 6.3 - Scheduling Format
-Team Mentors should submit the following to the Tournament Staff when scheduling a match:
+Team Captains shall submit the following to the Tournament Staff when scheduling a match:
 - The **Start Time** AND **Date** for the match, *with time zones*
-- The **Server Number** AND **IP** of the **server** to be used for the match. See [Section 12: Servers](#section-12-servers) for a list of applicable servers.
+- The preferred **Server Region** (e.g. US, EU, AS)
 
 ### 6.4 - Scheduling Deadline
 The **Scheduling Deadline** refers to the point in time after which teams are no longer able to schedule matches. Note that this does not mean the match must be *played* by this deadline, but rather *scheduled*.
 
-In the **Group Stage**, the Scheduling Deadline is **24 hours** before the end of the round. For example, if the round ends on **Jan 6 @ 23:59 EST**, then the latest that a match can be scheduled for that round is on **Jan 5 @ 23:59 EST**, exactly **24 hours** before.
+In the **Group Stage**, the Scheduling Deadline is **48 hours** before the end of the round. For example, if the round ends on **Jan 6 @ 23:59 EST**, then the latest that a match can be scheduled for that round is on **Jan 4 @ 23:59 EST**, exactly **48 hours** before.
 
-In the **Playoffs**, the Mentors from both teams are required to coordinate a time to play their games and relay this information to the tournament staff at least **24 hours** before the agreed-upon match start time. The earlier, the better.
+In the **Playoffs**, the Captains from both teams are required to coordinate a time to play their games and relay this information to the Tournament Staff at least **48 hours** before the agreed-upon match start time. The earlier, the better.
 
 ### 6.5 - Matches With Multiple Games
 #### 6.5.1 - Intermission
-For matches where a single team plays multiple games (such as during the playoffs), there must be **no scheduled intermission** between games. In other words, the games must be each be played "back-to-back". Teams are allowed a maximum of **ten minutes** between each individual game to be back in the server and readied up to begin the next game.
+For matches where a single team plays multiple games (such as during the Playoffs), there must be **no scheduled intermission** between games. In other words, the games must be each be played "back-to-back". Teams are allowed a maximum of **ten minutes** between each individual game to be back in the server and readied up to begin the next game.
 
 #### 6.5.2 - Substitutions
-**The same set of players from a team's roster must be used for ALL games played within an individual match.** Barring major emergencies, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match. Please ensure that players have allotted enough time to be present at all individual games in a specified matchup.
+**Substitutions ARE allowed, but ONLY between games.** Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and will be made within reason. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match. Please ensure that players have allotted enough time to be present at all individual games in a specified matchup.
 
 ### 6.6 - Matches Between Two Teams
 For matches that occur between two separate teams (for example during the Playoffs), **an eight hour grace period is to be granted between each teams' individual set of games.**
 
-For example, if Team A schedules their match on **March 1 @ 12:00 PM**, then Team B's game(s) must begin **no earlier than March 1 @ 4:00 AM (8 hours prior)** and **no later than March 1 @ 8:00 PM (8 hours after)**. Note that the eight hour grace period applies to the match **start time** specifically, rather than the time the team finishes playing their game(s). This means that if Team A schedule to play their set of games at some time, then Team B has eight hours from that time to play their game(s). Team B need not *finish* their game(s) by the end of the grace period, but rather *start* them.
+For example, if Team A schedules their match on **March 1 @ 12:00 PM**, then Team B's game(s) must begin **no earlier than March 1 @ 4:00 AM (8 hours prior)** and **no later than March 1 @ 8:00 PM (8 hours after)**. Note that the eight hour grace period is applied relative to the **start time** of the **first game in the set** specifically, rather than the time the team finishes playing *all* of their game(s). This means that if Team A schedule to play their set of games at some time, then Team B has eight hours from that time to play their game(s). Team B need not *finish* their game(s) by the end of the grace period, but rather *start* them.
 
-This grace period is to account for the differing timezones within an individual team and is aimed to ease some of the pressure of scheduling for the mentors.
+This grace period is to account for the differing timezones within an individual team and is aimed to ease some of the pressure of scheduling for the Captains.
 
-**If possible, the best case scenario would involve both teams playing back-to-back.** This situation would provide ultimate convenience for the teams as well as the tournament staff in attendence.
+**If possible, the best case scenario would involve both teams playing back-to-back.** This situation would provide ultimate convenience for the teams as well as the Tournament Staff in attendence.
 
-**This is an international tournament.** By signing up to play, competitors are expected to understand that their opponents may be based in a distant time zone, which means that some or all players in a team may be required to play at inopportune / abnormal times throughout the day. To help remedy this, Mentors should be prompt and negotiate the schedule for the match as early as possible.
+Also, please note that **this is an international tournament.** By signing up to play, competitors are expected to understand that their opponents may be based in a distant time zone, which means that some or all players in a team may be required to play at inopportune / abnormal times throughout the day. To help remedy this, Captains should be prompt and negotiate the schedule for the match as early as possible.
 
 For all matches between two teams where each team plays multiple games in a row, the rules outlined in [6.5](#65---matches-with-multiple-games) still apply.
 
 ### 6.7 - Servers
-Only specific servers may be used to play matches. See [Section 12: Servers](#section-12-servers) for a list of all servers that are allowed to be used in the tournament.
+Only specific servers may be used to play matches. See [Section 12: Servers](#section-12-servers) for more information.
 
 ### 6.8 - Tardiness
 Each team has **15 minutes** after the scheduled time to have six players in the server and readied up.
 
-Please be on time. It is not only disrespectful to the tournament staff and your opponents, but also to the viewers who have committed time to watching the match. **Please plan to join the server 10-15 minutes before the start time to reduce the likelihood of being late.**
+Please be on time. It is disrespectful to your opponents, the Tournament Staff who have given up some of their time to attend, and finally to the viewers who have committed time to watching the match. **Please plan to join the server 10-15 minutes before the start time to reduce the likelihood of being late.**
 
 **The standard penalty for tardiness will be a zero score for the match.** In the Playoffs, this constitutes a **forfeit loss** in the event that one team is late to the match, or a **double forfeit** if both teams are late.
 
 In the event one team is disqualified, **it is still required that the second team play their round in full.**
 
-If something comes up that might affect the team’s ability to be present at the planned time, Mentors are required to inform the Tournament Staff as soon as possible so that accommodations can be made. The earlier we are informed, the better.
+If something comes up that might affect the team’s ability to be present at the planned time, Captains are required to inform the Tournament Staff as soon as possible so that accommodations can be made. The earlier we are informed, the better.
 
 ### 6.9 - No-shows
 No-shows distort the results by unbalancing the tiebreakers. Moreover, they disappoint other competitors who have joined the tournament to participate in the competition.
 
 If you wish to withdraw from the tournament, please notify one of the tournament directors by the start of the **second round** of the Group Stage.
 
-In the Group Stage, if a team fails to appear to any match, a **zero score** will be assigned and that team must then contact tournament staff to confirm that they will play in the next round **by the scheduling deadline for that round**. Failure to do this will result the **team's removal from the tournament** without notice.
+In the Group Stage, if a team fails to appear to any match, a **zero score** will be assigned and that team must then contact Tournament Staff to confirm that they will play in the next round **by the scheduling deadline for that round**. Failure to do this will result the **team's removal from the tournament** without notice.
 
 In the Playoffs, if a team fails to appear to any match, a zero score will be assigned and that team will be **eliminated** from the tournament automatically.
 
-### 6.10 - Ringers & Substitutes
-**Utilizing ringers (also referred to as substitute players) is not allowed in this tournament**.
+### 6.10 - Ringers & Substitutions
+A **ringer** is a player not part of the team's active roster who substitutes to fill out the roster for a given match.
+**Utilizing ringers is not allowed in this tournament**.
 
-Within the context of a single scheduled match, a team is required to choose a subset of exactly **six players** from its roster who will participate in the match. Once the players have been chosen for the match, the squad is *locked in* and **substitutions of additional players from the team's roster are forbidden between or during any of the individual games played in the match.** Note that the pre-game lobby period is considered to be "during" the match for this purpose.
+Substitutions **ARE** allowed, but **ONLY** using players from the team's **established** roster. Furthermore, substitutions can *only* be made **between** games in a set, and not *during* a game, barring extenuating circumstances. See [6.5.2](#652---substitutions) for more information.
 
-The above regulation includes matches where multiple games are played in a row (e.g. during the Playoffs phase) and re-attempted matches during the Group Stage. See [6.5.2](#652---substitutions) for more information. Situations presenting extenuating circumstances will be handled as deemed appropriate by tournament staff at the moment of occurrence.
+The above regulation includes matches where multiple games are played in a row (e.g. during the Playoffs phase). See [6.5.2](#652---substitutions) for more information. Situations presenting extenuating circumstances will be handled as deemed appropriate by Tournament Staff at the moment of occurrence.
 
-Additionally, teams are **not permitted** to add new players to their roster in the event that a member drops out of or is removed from the tournament. **Should a vacancy be created in a team for any reason, the team Mentor must inform the tournament staff as soon as possible so that a player may be drawn from the Overflow Pool.**
+Additionally, teams are **not permitted** to add new players to their roster in the event that a member drops out of or is removed from the tournament. **Should a vacancy be created in a team for any reason, the team Captain must inform the Tournament Staff as soon as possible so that a player may be drawn from the Overflow Pool.**
 
-### 6.11 - Mentor Participation
-**The Mentor and Co-Mentor are not required to play in matches in this tournament, however they are strongly encouraged to participate in order to better lead their team.**
+### 6.11 - Captain Participation
+**The Captain and Co-Captain are not required to play in matches in this tournament, however they are strongly encouraged to participate in order to better lead their team.**
 
 ### 6.12 - Proof of Play
-For matches that are not streamed by an official **tournament streamer**, the Mentor will be required to submit **screenshots** of the final results of the match to the tournament staff.
+"Proof of Play" refers to the team providing evidence or "proof" that a match was played in its entirety and with respect to the rules outlined in this document.
 
-This includes the following:
-1. A screenshot of the in-game scoreboard (press and hold TAB) **OR** a screenshot of the final results screen. **ALL players MUST be present.**
-2. A screenshot of the final score for the match (type !score into the in-game Chat Box).
+Proof of play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
 
-Please note that **POV streams or otherwise are NOT suitable replacements for end game screenshots!**
+When proof of play is required, the following is required:
+1. A **recording** or **stream POV** of the match must be provided. This can be from any player in the match
+2. A screenshot of the end-game scoreboard *with all players present* must be provided by the team Captain
 
-In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match will be subject to the **scheduling deadline**, should one exist.
+**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.**
+
+Note that **spectators** are *not* allowed. So the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
+
+In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match will be subject to the **Scheduling Deadline**, should one exist.
 In the worst case, a team will earn a **zero score** for the match.
 
-**Please be honest. All match results will be recorded by the server automatically. If a screenshot does not match our recorded statistics, it will be considered cheating and the team may be disqualified from the tournament entirely.**
+**Please be honest. All match results will be recorded by the server automatically. If a screenshot/recording/etc does not match our recorded statistics, it will be considered cheating and the team may be disqualified from the tournament entirely.**
 
 ### 6.13 - Multiple Attempts
 #### 6.13.1 - Group Stage
@@ -490,7 +467,7 @@ Additionally, for ANY re-attempted match, **the newly-earned score supersedes th
 In the Playoffs phase, **multiple attempts are strictly forbidden.**
 
 #### 6.13.3 - Integrity & Sportsmanship
-A retry may **only** be used in the event that the team wipes. It is considered bad sportsmanship to purposely throw the game in order to earn a retry. Tournament staff reserve the right to enact disciplinary measures if it is determined this is being abused.
+A retry may **only** be used in the event that the team wipes. It is considered bad sportsmanship to purposely throw the game in order to earn a retry. Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
 
 For matches that are not streamed by an official Tournament Streamer, *Proof of Play* (described in [6.12](#612---proof-of-play)) is required. **Records of all tournament matches played on the Match Servers are kept automatically by the server.** These reports will clearly display tampering should a team attempt to abuse this clause.
 
@@ -513,29 +490,7 @@ All matches in this tournament will be played on **10-Wave Survival Hell On Eart
 ### 8.2 - CD Parameters
 The CD Parameters to be used are as follows:
 ```
-SpawnCycle=asl_v3
-MaxMonsters=X  (depends on map/round)
-WaveSizeFakes=6
-CohortSize=7
-SpawnMod=0.0
-SpawnPoll=1.0
-DoshKill=1.0
-LargeHPFakes=6
-TrashHPFakes=6
-BossHPFakes=6
-FakesMode=ignore_humans
-Boss=X  (depends on map/round)
-StartWithFullAmmo=True
-VentSpawns=False
-HeadlessFleshpoundDamageTakenMult=4.0
-HeadlessScrakeDamageTakenMult=2.0
-DropAllWeapons=False
-TraderAutoPause=False
-TraderDash=True
-TraderDashSpeed=2.0
-FleshpoundRageSpawns=False
-FleshpoundRageStuns=False
-ZedsTeleportCloser=False
+TBD
 ```
 
 ### 8.3 - Streaming & Casting
@@ -548,11 +503,11 @@ All matches will be streamed primarily at any the following links:
 
 For matches that are streamed on the official channels, commentators and streamers will be present to shoutcast the match.
 
-Though they are part of the tournament staff, commentators and streamers are **NOT** admins. Should an issue arise that requires the attention of an admin, one of the tournament directors should be contacted immediately.
+Though they are part of the Tournament Staff, commentators and streamers are **NOT** admins. Should an issue arise that requires the attention of an admin, one of the tournament directors should be contacted immediately.
 
 Despite this, commentators and streamers still exercise some control over the match as **referees**. Should something occur that either partially or completely violates one of the rules, they are permitted to ask the offending players to stop or take other appropriate actions within reason.
 
-If all else fails, a tournament director should be informed as soon as possible so that appropriate further action can be taken.
+If all else fails, a Tournament Director should be informed as soon as possible so that appropriate further action can be taken.
 
 **The tournament organization does not own the content created from the matches by the commentators and streamers.** Commentators and streamers are free to upload their recordings to their own media channels, however the Tournament Staff is also permitted to download and upload the recordings to the official tournament channel(s).
 
@@ -564,31 +519,24 @@ As stated in [2.4](#24---conflicts-of-interest), **Tournament Commentators** and
 ### 8.4 - Voice Chat
 Teams will each be assigned a Voice Channel in the Tournament Discord Server that they are **required** to use for the match, even if they do not intend to use it to communicate with one another.
 
-Furthermore, **only the players currently playing in the match are allowed to be in Voice Chat.** Both the Mentor and Co-Mentor are subject to this rule as well. Violating this will result in receiving a **zero score** for the match and possible suspension from the tournament.
+Furthermore, **only the players currently playing in the match are allowed to be in Voice Chat.** Both the Captain and Co-Captain are subject to this rule as well. Violating this will result in receiving a **zero score** for the match and possible suspension from the tournament.
 
 #### 8.4.1 - War Rooms
 War Rooms will be utilized in this tournament. A War Room refers to the streamers and commentators occasionally dropping into the team’s Voice Chat room to “listen in”. War Rooms will typically last for about 30 seconds and will only occur a few times per match.
 
-**Teams are allowed to veto the use of their Voice Channel as a War Room.** The team Mentor must inform the Tournament Staff of this decision prior to the match Start Time.
+**Teams are allowed to veto the use of their Voice Channel as a War Room.** The team Captain must inform the Tournament Staff of this decision prior to the match Start Time.
 
 Commentators will not speak nor create any distractions when entering a channel, and players should generally not feel disturbed by their presence.
 
 ### 8.5 - Spectators
-Aside from tournament staff and other authorized parties (such as commentators and streamers), no Spectators will be allowed in the server at any time during a match.
+Aside from Tournament Staff and other authorized parties (such as commentators and streamers), no Spectators will be allowed in the server at any time during a match.
 
 This includes members of the team who are not playing in the match. If a non-participating team member joins the server as a spectator, the team will receive a **zero point score** for the round.
 
 ### 8.6 - Perks
 #### 8.6.1 - Perk Limits
 There are limits in place on the Perk composition the team can possess at any given time:
-- Maximum **one** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist
-- Maximum **two** from the Perk Group:
-  - Berserker
-  - Demolitionist
-  - Firebug
-  - Survivalist
-- Maximum **two** Sharpshooter, Gunslinger
-- Field Medic and Demolitionist are **mutually exclusive** and cannot co-exist on a team
+TBD
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
@@ -601,15 +549,7 @@ There are no restrictions on the changing of **Perk Skills** in this tournament.
 ### 8.7 - Weapons
 #### 8.7.1 - Banned Weapons
 The following Weapons are **banned** and are prohibited from being used in this tournament:
-- **Sharpshooter:** M99 AMR, Rail Gun, HRG Beluga Beat, Compound Bow, HRG Head Hunter
-- **Gunslinger:** HRG Winterbite, Piranha Pistol, HRG Disruptor
-- **Field Medic:** HRG Incision, HRG Healthrower, Hemoclobber, HMTech-501 Grenade Rifle
-- **Survivalist:** HRG Arc Generator, Killerwatt, Freezethrower, Reducto Ray
-- **Berserker:** HRG Teslauncher
-- **Firebug:** Thermite Bore, Microwave Gun
-- **Demolitionist:** Gravity Imploder
-- **Support:** HRG Blast Brawlers, Frost Fang, Blunderbuss
-- **SWAT:** HRG Bastion, Glock 18 & Riot Shield, HRG Stunner
+TBD
 
 **Banned weapons are completely removed from the Trader Pod and will be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
 
@@ -618,8 +558,7 @@ All **DLC Weapons** which are not banned will be automatically unlocked on the t
 
 #### 8.7.3 - Weapon Upgrade Restrictions
 The following **Weapon Upgrades** are restricted:
-- Weapons cannot be upgraded to Tier 5
-- The Desert Eagle cannot be upgraded
+TBD
 
 ### 8.8 - Map Objectives
 Throughout the match, objectives in the form of “Stand Your Ground” zones will appear. Some maps have built-in objectives as well, such as KF-Airship.
@@ -690,7 +629,7 @@ Example of the HUD in action:
 The minimum penalty for a breach of competitive integrity is a match loss by forfeit. There is no maximum penalty, which may include team expulsion from the tournament, forfeiture of already played matches, and forfeiture of team eligibility for any prizes.
 
 #### 9.1.1 - Guilt by Association
-An entire team may be held responsible for any team member who is found to be breaching competitive integrity. If foul play is suspected, the team must inform tournament staff as soon as possible so that the situation can be addressed. The outcome of this situation depends on various factors, and significant proof will be needed to take any degree of action.
+An entire team may be held responsible for any team member who is found to be breaching competitive integrity. If foul play is suspected, the team must inform Tournament Staff as soon as possible so that the situation can be addressed. The outcome of this situation depends on various factors, and significant proof will be needed to take any degree of action.
 
 **In scenarios involving a breach of competitive integrity, inaction or lack of cooperation from the team may be seen as a suggestion of possible complicity.**
 
@@ -727,7 +666,7 @@ Edits which attempt to completely remove objects from the environment in order t
 The tournament servers restrict most of these values and enforces them to their defaults should they be found to be in use.
 
 #### 9.4.3 - Local Game Files
-The only local game files that can be changed are:
+The local game files that can be changed are:
 - Weapon Skins
 - Weapon Sounds
 - Game Music
@@ -746,12 +685,12 @@ All other modifications, edits, tools, and utilities NOT listed in [9.4](#94---p
 There are situations in which either the clients or the server may lose connection. These are handled separately in two subcases:
 
 #### 9.6.1 - Client Disconnects
-In the event that players crash or are disconnected involuntarily at other points throughout the match, Tournament Directors and Assistant Directors reserve the power to adjust all Score and Bonus values as well as the Match Timer to compensate if the situation presents extenuating circumstances. **There is no guarantee in these scenarios and the Tournament Director and Assistant Directors are the court of last resort for deciding whether or not points are to be reimbursed.** Their decisions are final and cannot be appealed.
+In the event that players crash or are disconnected involuntarily at other points throughout the match, Tournament Directors and Assistant Directors reserve the right to adjust all Score and Bonus values as well as the Match Timer to compensate if the situation presents extenuating circumstances. **There is no guarantee in these scenarios and the Tournament Director and Assistant Directors are the court of last resort for deciding whether or not points are to be reimbursed.** Their decisions are final and cannot be appealed.
 
 **It is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service. Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.**
 
 #### 9.6.2 - Server Disconnects
-In the event that the **server** itself crashes or otherwise loses connection, Tournament Directors in attendance are permitted to set the game state, which includes:
+In the event that the **server** itself crashes or otherwise loses connection, Tournament Directors in attendance are **permitted** to set the game state, which includes:
 - Changing the wave manually
 - Granting Dosh
 - Setting Score and Bonus values manually
@@ -763,7 +702,7 @@ In situations where a match was not streamed by an official Tournament Streamer,
 
 # Section 10: Exploits
 ### 10.1 - Permitted Exploits
-Though the following exploits are allowed, tournament staff and commentators retain the ability to ask users to refrain if they feel they are being abused in a way that reflects unsportsmanlike conduct, distasteful intent, or are otherwise excessive in nature. Failure to comply can result in earning a zero score for the round, or possibly more, dependent on severity. Tournament staff have full discretion in these matters and are not required to justify their decision(s).
+Though the following exploits are allowed, Tournament Staff and commentators reserve the right to ask players to refrain if they feel they are being abused in a way that reflects unsportsmanlike conduct, distasteful intent, or are otherwise excessive in nature. Failure to comply can result in earning a zero score for the round, or possibly more, dependent on severity. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
 
 #### 10.1.1 - Reload Cancelling
 Reload cancelling, of any form, is permitted in this tournament.
@@ -820,13 +759,13 @@ Utilizing any spots in a map which cause ZEDs to become completely stuck and una
 
 
 # Section 11: Unsportsmanlike Conduct
-Each participant is expected conduct themselves respectfully toward others at all times. Abusive, harassing, disrespectful, or otherwise unsportsmanlike conduct will not be tolerated -- neither during a tournament match, nor in any other context.
+Each participant is expected to conduct themselves respectfully toward others at all times. Abusive, harassing, disrespectful, or otherwise unsportsmanlike conduct will not be tolerated -- neither during a tournament match, nor in any other context.
 
 ### 11.1 - Penalties
 The minimum penalty for unsportsmanlike conduct is a match loss by forfeit. There is no maximum penalty, which may include team expulsion from the tournament, forfeiture of already played matches, and forfeiture of team eligibility for any prizes.
 
 #### 11.1.1 - Guilt by Association
-An entire team may be held responsible for the unsportsmanlike conduct of any team member. Should problems arise within a team, the members of that team are expected to present the issue to the tournament staff so that further action can be taken.
+An entire team may be held responsible for the unsportsmanlike conduct of any team member. Should problems arise within a team, the members of that team are expected to present the issue to the Tournament Staff so that further action can be taken.
 
 **In scenarios involving unsportsmanlike conduct, inaction or lack of cooperation from the team may be seen as a suggestion of possible complicity.**
 
@@ -834,56 +773,52 @@ An entire team may be held responsible for the unsportsmanlike conduct of any te
 Any competitor who, in the judgment of a staff member, has not committed to winning the match is guilty of unsportsmanlike conduct.
 
 ### 11.3 - Delay of Game
-Intentionally stalling or delaying the progress of the match is prohibited and will be regarded as unsportsmanlike conduct.
+Intentionally stalling or delaying the progress of the match will be regarded as unsportsmanlike conduct.
 
 This includes but IS NOT LIMITED to:
 - Excessive and/or lengthy use of the game pause feature
 - Excessive time spent in the Trader period without readying up
 - Excessive time spent completing the wave (such as leaving ZEDs alive without killing them)
 
-These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They will be regarded as unsportsmanlike conduct if it is judged by staff to be excessive, regardless of the reason. Tournament staff have full discretion in these matters and are not required to justify their decision(s).
+These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They will be regarded as unsportsmanlike conduct if it is judged by staff to be excessive, regardless of the reason. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
 
 ### 11.4 - Communication to Harass or Impede
-Any form of **written, verbal, or other communication** or actions which are excessive, toxic, or otherwise meant to harass players or impede the progress of the match are prohibited and can be regarded as unsportsmanlike conduct.
+Any form of **written, verbal, or other communication** or actions which are excessive, toxic, or otherwise meant to harass players or impede the progress of the match will be regarded as unsportsmanlike conduct.
 
 This includes but IS NOT LIMITED to:
-- Excessive use of text chat in the form of binds or callouts that are spammy in nature
-- Excessive use of text chat in the form of binds or callouts that are toxic or meant to mock or taunt other individuals
-- Excessive use of voice chat that does not reflect traditional team communication norms, are spammy and/or obnoxious, or are otherwise not in reference to the events occurring within the match itself (off-topic)
+- Excessive use of text chat in the form of binds or callouts that are spammy in nature (grenade binds are okay)
+- Excessive use of text chat in the form of binds or callouts that are toxic or meant to mock/taunt other individuals
+- Excessive use of voice chat that does not reflect traditional team communication norms or are spammy and/or obnoxious
 - Use of movement mechanics and/or animations which aim to mock or taunt individuals (t-bagging, etc)
 
-These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They also display a toxic disregard for common courtesy, respect, and maturity and have the capability to hurt the public image of the tournament as a whole. They will be regarded as unsportsmanlike conduct if it is judged by the tournament staff to be excessive, regardless of the reason. Tournament staff have full discretion in these matters and are not required to justify their decision(s).
+These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They also display a toxic disregard for common courtesy, respect, and maturity and have the capability to hurt the public image of the tournament as a whole. They will be regarded as unsportsmanlike conduct if it is judged by the Tournament Staff to be excessive, regardless of the reason. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
 
-### 11.5 - Player Avatars
-Do not use Steam Avatars that are grotesque, violent, obscene, or depict other disturbing or offensive imagery such as sexually suggestive or explicit content, racist logos, or “shock” images. These will not be tolerated and can result in suspension from the tournament.
-
-Players who violate these rules will be given one chance to change their avatar, after which they will be removed from the tournament entirely.
-
-### 11.6 - Respect the Server Hosts
-Server hosts invest time and money to provide and maintain servers at no charge to anyone using them. This competition depends on their continued generosity. Therefore, do not break the rules of the server being used for the current match(es).
-
-### 11.7 - Bad Sportsmanship
-Any competitor who displays **bad sportsmanship** within their team or to their opponent(s) is guilty of unsportsmanlike conduct.
+### 11.5 - Lack of Professionalism
+Any competitor who displays a **lack of professionalism** within their team or to their opponent(s) is guilty of unsportsmanlike conduct.
 
 This includes but IS NOT LIMITED TO:
-- Lack of professionalism in acknowledging the outcome of a match (ie: being a "sore loser")
+- In the event of a loss, failing to acknowledge the outcome of the match in a mature and positive way (ie: being a "sore loser")
 - Flammatory, abusive, or otherwise toxic behavior toward teammates or opponents for any reason (see [11.4](#114---communication-to-harass-or-impede))
 - Excessive celebration and/or behavior akin to "rubbing it in" to teammates or opponents
 
 Just play nice and say GG when the match is over, no matter who wins, and remember that this is just a game. Of all of the forms of unsportsmanlike conduct listed in this section, these will be held to the highest standard. A lack of professionalism and courtesy hurts the event as a whole and frustrates the expectations of the players who have signed up to play in the event.
 
+### 11.6 - Player Avatars
+Do not use Steam Avatars that are grotesque, violent, obscene, or depict other disturbing or offensive imagery such as sexually explicit content, racist logos, or “shock” images. These will not be tolerated and can result in suspension from the tournament.
+
+Players who violate these rules will be given one chance to change their avatar, after which they will be removed from the tournament entirely.
+
+### 11.7 - Respect the Server Hosts
+Server hosts invest time and money to provide and maintain servers at no charge to anyone using them. This competition depends on their continued generosity. Therefore, do not break the rules of the server being used for the current match(es).
+
 
 # Section 12: Servers
 These are the servers that are available to be used for this tournament. **No other servers may be used for matches.**
 
-**Match Servers**
 ```
 TBD
 ```
-**Practice Servers**
-```
-TBD
-```
+
 
 # Section 13: Legal
 Copyright (C) 2022 Tamari.

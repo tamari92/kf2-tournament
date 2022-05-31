@@ -1,4 +1,4 @@
-![Alt text](https://i.imgur.com/cIddPp4.png)
+![alt_text]()
 
 # Tournament Scoring System
 The Scoring System used in this tournament assigns teams **Points** based on their overall performance in the match.
