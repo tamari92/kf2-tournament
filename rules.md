@@ -119,7 +119,7 @@
 
 # Section 1: Introduction & Objective
 ### 1.1 - Objective
-Welcome to the Tamari’s KF2 CD Captain Tournament(s)!
+Welcome to the Tamari’s KF2 Summer Showdown 2022 Tournament!
 
 This is a tournament for **KILLING FLOOR 2** centered around the **Controlled Difficulty** mod -- a mod which allows for fine tuning of difficulty-specific game variables and obtaining a level of consistency and intensity that drives a team experience simply not available in the vanilla game.
 
