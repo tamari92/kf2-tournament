@@ -32,8 +32,8 @@
   - [5.2 - Team Formation](#52---team-formation)
     - [5.2.1 - Player Sign-ups](#521---player-sign-ups)
     - [5.2.2 - Player Grouping](#522---player-grouping)
-    - [5.2.3 - Captain Assignment](#523---mentor-assignment)
-    - [5.2.4 - Co-Captain Assignment](#524---co-mentor-assignment)
+    - [5.2.3 - Captain Assignment](#523---captain-assignment)
+    - [5.2.4 - Co-Captain Assignment](#524---co-captain-assignment)
     - [5.2.5 - Player Draft](#525---player-draft)
   - [5.3 - Roster Integrity](#53---roster-integrity)
     - [5.3.1 - Alternate Accounts](#531---alternate-accounts)
@@ -299,8 +299,8 @@ The Co-Captain can be a player of any skill level that has not already been assi
 The formation of teams is conducted in five distinct phases:
 - [Player Sign-ups](#521---player-sign-ups)
 - [Player Grouping](#522---player-grouping)
-- [Captain Assignment](#523---mentor-assignment)
-- [Co-Captain Assignment](#524---co-mentor-assignment)
+- [Captain Assignment](#523---captain-assignment)
+- [Co-Captain Assignment](#524---co-captain-assignment)
 - [Player Draft](#525---player-draft)
 
 #### 5.2.1 - Player Sign-ups
