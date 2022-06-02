@@ -245,7 +245,7 @@ TBD
 
 # Section 4: Registration Process
 ### 4.1 - Registration
-The regular registration period begins **Apr 29, 2022** and closes on **May 27, 2022**, lasting exactly **28 days.**
+The regular registration period begins `TBD` and closes on `TBD`, lasting exactly `TBD`.
 
 ### 4.2 - Double Registration
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
