@@ -491,7 +491,30 @@ All matches in this tournament will be played on **10-Wave Survival Hell On Eart
 ### 8.2 - CD Parameters
 The CD Parameters to be used are as follows:
 ```
-TBD
+SpawnCycle=asl_v3
+MaxMonsters=X  (depends on map/round)
+WaveSizeFakes=6
+CohortSize=7
+SpawnMod=0.0
+SpawnPoll=1.0
+DoshKill=1.0
+LargeHPFakes=6
+TrashHPFakes=6
+BossHPFakes=6
+FakesMode=ignore_humans
+Boss=X  (depends on map/round)
+StartWithFullAmmo=True
+VentSpawns=False
+HeadlessFleshpoundDamageTakenMult=4.0
+HeadlessScrakeDamageTakenMult=2.0
+DropAllWeapons=False
+TraderAutoPause=False
+TraderDash=True
+TraderDashSpeed=2.0
+FleshpoundRageSpawns=False
+FleshpoundRageStuns=False
+ZedsTeleportCloser=False
+ZedsReactToFriendlyFire=False
 ```
 
 ### 8.3 - Streaming & Casting
