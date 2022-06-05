@@ -561,7 +561,7 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 ##### Field Medic
 ```diff
 - Resilience skill damage resistance reduced to 50%, down from 60%.
-- Resilience skill now reduces the Field Medic's maximum Armor by 100%, meaning it is no longer possible to use Armor while having the skill selected.
+- Resilience skill now reduces the Field Medic's maximum Armor by 100%.
 + Symbiotic Health skill healing amount increased to 8%, up from 6%.
 + Passive Armor bonus restored to 3% per level (175 @ L25), up from 2% per level (150 @ L25).
 ```
@@ -571,7 +571,7 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 ```
 #### Survivalist
 ```diff
-- Lockdown skill reverted to increase Stun, Stumble, and Knockdown Powers of all weapons by 200%, instead of granting an instant stun.
+- Lockdown skill reverted to increase Stun, Stumble, and Knockdown Powers of all weapons by 200%, rather than an instant stun.
 - Grenade selection is disabled. The only usable grenade is the HE Grenade.
 ```
 
