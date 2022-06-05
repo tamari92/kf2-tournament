@@ -73,6 +73,7 @@
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
     - [8.7.3 - Weapon Upgrade Restrictions](#873---weapon-upgrade-restrictions)
+    - [8.7.4 - Modified Weapons](#874---modified-weapons)
   - [8.8 - Map Objectives](#88---map-objectives)
   - [8.9 - Trader Time](#89---trader-time)
   - [8.10 - Custom Interface](#810---custom-interface)
@@ -547,7 +548,15 @@ There are no restrictions on the changing of **Perk Skills** in this tournament.
 ### 8.7 - Weapons
 #### 8.7.1 - Banned Weapons
 The following Weapons are **banned** and are prohibited from being used in this tournament:
-TBD
+- **Sharpshooter:** M99 AMR, Rail Gun, HRG Beluga Beat, Compound Bow, HRG Head Hunter
+- **Gunslinger:** HRG Winterbite, Piranha Pistol, HRG Disruptor
+- **Field Medic:** HRG Incision, HRG Healthrower, Hemoclobber, HMTech-501 Grenade Rifle
+- **Survivalist:** HRG Arc Generator, Killerwatt, Freezethrower, Reducto Ray
+- **Berserker:** HRG Teslauncher
+- **Firebug:** Thermite Bore, Microwave Gun
+- **Demolitionist:** Gravity Imploder, HRG Kaboomstick
+- **Support:** HRG Blast Brawlers, Frost Fang, Blunderbuss
+- **SWAT:** HRG Bastion, Glock 18 & Riot Shield, HRG Stunner
 
 **Banned weapons are completely removed from the Trader Pod and will be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
 
@@ -556,7 +565,15 @@ All **DLC Weapons** which are not banned will be automatically unlocked on the t
 
 #### 8.7.3 - Weapon Upgrade Restrictions
 The following **Weapon Upgrades** are restricted:
-TBD
+- Weapons cannot be upgraded to Tier 5
+- The Desert Eagle cannot be upgraded
+
+#### 8.7.4 - Modified Weapons
+Several weapons have been modified for use in this tournament:
+- **Hemogoblin:** Tier: 3 -> 4, Trader price: 1100 -> 1500, Healing per dart: 25 -> 18, Time to fully recharge: 10s -> 14s
+- **HRG Crossboom:** Self-damage multiplier: 0.25 -> 0.50
+
+A majority of these changes are for balance reasons.
 
 ### 8.8 - Map Objectives
 Throughout the match, objectives in the form of “Stand Your Ground” zones will appear. Some maps have built-in objectives as well, such as KF-Airship.
