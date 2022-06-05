@@ -69,16 +69,18 @@
     - [8.6.1 - Perk Limits](#861---perk-limits)
     - [8.6.2 - Perk Swapping](#862---perk-swapping)
     - [8.6.3 - Perk Skills](#863---perk-skills)
+    - [8.6.4 - Modified Perks](#864---modified-perks)
   - [8.7 - Weapons](#87---weapons)
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
     - [8.7.3 - Weapon Upgrade Restrictions](#873---weapon-upgrade-restrictions)
     - [8.7.4 - Modified Weapons](#874---modified-weapons)
-  - [8.8 - Map Objectives](#88---map-objectives)
-  - [8.9 - Trader Time](#89---trader-time)
-  - [8.10 - Custom Interface](#810---custom-interface)
-    - [8.10.1 - Player Interface](#8101---player-interface)
-    - [8.10.2 - Spectator Interface](#8102---spectator-interface)
+  - [8.8 - Mechanics](#88---mechanics)
+  - [8.9 - Map Objectives](#89---map-objectives)
+  - [8.10 - Trader Time](#810---trader-time)
+  - [8.11 - Custom Interface](#811---custom-interface)
+    - [8.11.1 - Player Interface](#8111---player-interface)
+    - [8.11.2 - Spectator Interface](#8112---spectator-interface)
 - [Section 9: Competitive Integrity](#section-9-competitive-integrity)
   - [9.1 - Penalties](#91---penalties)
     - [9.1.1 - Guilt by Association](#911---guilt-by-association)
@@ -545,6 +547,34 @@ In the Lobby, players are freely allowed to change Perks, however after the matc
 #### 8.6.3 - Perk Skills
 There are no restrictions on the changing of **Perk Skills** in this tournament. Players can alter their Perk's skills as often as they desire during the Trader period.
 
+#### 8.6.4 - Modified Perks
+Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
+##### Berserker
+```diff
+- Dreadnaught skill health bonus reduced to 50%, down from 100%.
+- Berserker Rage skill healing reduced to 25%, down from 50%.
+- Berserker Rage skill no longer affects Large ZEDs at all.
++ Resistance skill damage resistance restored to 25%, with 25% additional resistance to Poison and Sonic damage, up from 15%.
++ Parry skill damage resistance restored to 40% for 8 seconds, up from 30% for 8 seconds.
++ Passive damage resistance bonus restored to 3% per 5 levels (15% @ L25), up from 2% per 5 levels (10% @ L25).
+```
+##### Field Medic
+```diff
+- Resilience skill damage resistance reduced to 50%, down from 60%.
+- Resilience skill now reduces the Field Medic's maximum Armor by 100%, meaning it is no longer possible to use Armor while having the skill selected.
++ Symbiotic Health skill healing amount increased to 8%, up from 6%.
++ Passive Armor bonus restored to 3% per level (175 @ L25), up from 2% per level (150 @ L25).
+```
+#### Sharpshooter
+```diff
+- Ranger skill reverted to increase the Stun Power of Perk Weapons by 300%, instead of granting an instant stun.
+```
+#### Survivalist
+```diff
+- Lockdown skill reverted to increase Stun, Stumble, and Knockdown Powers of all weapons by 200%, instead of granting an instant stun.
+- Grenade selection is disabled. The only usable grenade is the HE Grenade.
+```
+
 ### 8.7 - Weapons
 #### 8.7.1 - Banned Weapons
 The following Weapons are **banned** and are prohibited from being used in this tournament:
@@ -569,13 +599,52 @@ The following **Weapon Upgrades** are restricted:
 - The Desert Eagle cannot be upgraded
 
 #### 8.7.4 - Modified Weapons
-Several weapons have been modified for use in this tournament:
-- **Hemogoblin:** Tier: 3 -> 4, Trader price: 1100 -> 1500, Healing per dart: 25 -> 18, Time to fully recharge: 10s -> 14s
-- **HRG Crossboom:** Self-damage multiplier: 0.25 -> 0.50
+Several weapons have been modified for use in this tournament. A majority of these changes are for balance reasons.
 
-A majority of these changes are for balance reasons.
+They are as follows:
+#### Hemogoblin
+```diff
++ Tier increased from 3 to 4.
+- Trader price increased from 1100 to 1500.
+- Healing per dart reduced to from 25 to 18.
+- Time to fully recharge increased from 10s to 14s.
+```
+#### HRG Crossboom
+```diff
+- Self-damage multiplier increased from 0.25 to 0.50.
+```
 
-### 8.8 - Map Objectives
+### 8.8 - Mechanics
+Several game mechanics have been modified for use in this tournament. A majority of these changes are for balance reasons.
+#### ZED Stomping (aka "Goomba Stomping")
+ZED Stomping has been reverted to its pre-nerf state.
+This means that any and all ZEDs can be stomped (excluding bosses) and there is also no cooldown on stomps.
+
+#### Afflictions (aka "debuffs" or "incaps")
+Afflictions in the vanilla game have been mistakenly broken by TWI in recent updates to the game, and are either more powerful or significantly weaker than intended (in specific cases). Some examples of Afflictions are Stun, Stumble, and Freeze. In most cases, all of these sources were either multiplying or dividing their effects, resulting in unintended behavior.
+
+These issues have been fixed entirely on our servers. Though the current state of the Affliction system is broken in the vanilla game, I am still listing our fixed version as a "deviation" since the broken state is technically the new "norm".
+
+Examples of what is fixed/reverted:
+```diff
+- Gunslinger Nail Bombs no longer instantly stun targets.
++ Sharpshooter Freeze Grenades and SWAT Flashbangs no longer sometimes fail.
++ All sources of Afflictions now properly apply, instead of sometimes doubling or tripling their effects.
+```
+#### Perk Skills that alter Maximum Health
+In the base game, some Perk Skills can be exploited to infinitely earn money, namely those skills which increase or decrease the player's maximum health.
+
+These skills have been modified such that the player will now be automatically completely healed should their health already be at 100% upon switching skills. If the player's health is below 100%, their health will not be set automatically. This is to allow Field Medics to heal the player and earn Dosh from the healing. However, once the player is at 100% Health, it will be impossible to lose health due to players being invincible during the Trader period.
+
+The skills affected include:
+```prolog
+1. Berserker: Dreadnaught
+2. Commando: Tenacious
+3. Support: Fortitude
+4. Field Medic: Symbiotic Health
+```
+
+### 8.9 - Map Objectives
 Throughout the match, objectives in the form of “Stand Your Ground” zones will appear. Some maps have built-in objectives as well, such as KF-Airship.
 
 Completing these objectives grants **200 Bonus** points to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
@@ -586,7 +655,7 @@ If the next wave has a set objective, the Objective Zone will be **highlighted**
 
 ![alt text](https://i.imgur.com/BBptYvC.png)
 
-### 8.9 - Trader Time
+### 8.10 - Trader Time
 During Trader Time, the following is in effect:
 - **ALL** Trader Pods in the map are open simultaneously
 - Trader Timer increased to **120 seconds** (2 minutes)
@@ -597,8 +666,8 @@ All Trader Pods are open to ensure equality and fairness across runs and to help
 
 **The Trader Timer will not pause automatically.** Although this is the typical behavior in CD, it is restricted in this tournament to prevent teams from consuming an unfair amount of time during the Trader period to prepare. It is not possible for teams to vote to Pause (!pt) or Unpause (!upt) the Trader.
 
-### 8.10 - Custom Interface
-#### 8.10.1 - Player Interface
+### 8.11 - Custom Interface
+#### 8.11.1 - Player Interface
 ![alt text](https://i.imgur.com/LSTryek.png)
 
 During the match, players will find that a new **Match Timer** has been added at the top-middle of their screen.
@@ -610,7 +679,7 @@ This timer shows the following:
 
 The timer begins counting the moment the round begins and never stops, even during the Trader period. See [Section 7: Scoring](#section-7-scoring) for more information on the Par Time and Max Time.
 
-#### 8.10.2 - Spectator Interface
+#### 8.11.2 - Spectator Interface
 ![alt text](https://i.imgur.com/CDGbiMR.png)
 
 Similarly to players, **spectators/viewers** also have a custom interface for this tournament.
