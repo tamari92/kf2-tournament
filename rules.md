@@ -549,7 +549,7 @@ There are no restrictions on the changing of **Perk Skills** in this tournament.
 
 #### 8.6.4 - Modified Perks
 Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
-##### Berserker
+#### Berserker
 ```diff
 - Dreadnaught skill health bonus reduced to 50%, down from 100%.
 - Berserker Rage skill healing reduced to 25%, down from 50%.
@@ -558,7 +558,7 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 + Parry skill damage resistance restored to 40% for 8 seconds, up from 30% for 8 seconds.
 + Passive damage resistance bonus restored to 3% per 5 levels (15% @ L25), up from 2% per 5 levels (10% @ L25).
 ```
-##### Field Medic
+#### Field Medic
 ```diff
 - Resilience skill damage resistance reduced to 50%, down from 60%.
 - Resilience skill now reduces the Field Medic's maximum Armor by 100%.
