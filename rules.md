@@ -598,13 +598,13 @@ This includes members of the team who are not playing in the match. If a non-par
 ### 8.6 - Perks
 #### 8.6.1 - Perk Limits
 There are limits in place on the Perk composition the team can possess at any given time:
-- Maximum **one** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist
-- Maximum **two** from the Perk Group:
+- Maximum **one of each** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist
+- Maximum **two total** from the Perk Group:
   - Berserker
   - Demolitionist
   - Firebug
   - Survivalist
-- Maximum **two** Sharpshooter, Gunslinger
+- Maximum **two of each** Sharpshooter, Gunslinger
 - Field Medic and Demolitionist are **mutually exclusive** and cannot co-exist on a team
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
