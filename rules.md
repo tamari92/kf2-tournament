@@ -475,7 +475,7 @@ In the Playoffs phase, **multiple attempts are strictly forbidden** except in th
 There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.3 - Integrity & Sportsmanship
-Retries may **only** be used in the situations outlined [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. It is considered bad sportsmanship to purposely throw the game in order to earn a retry. Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
+Retries may **only** be used in the situations outlined in [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. It is considered bad sportsmanship to purposely throw the game in order to earn a retry. Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
 
 For matches that are not streamed by an official Tournament Streamer, *Proof of Play* (described in [6.12](#612---proof-of-play)) is required. **Records of all tournament matches played on the Match Servers are kept automatically by the server.** These reports will clearly display tampering should a team attempt to abuse this clause.
 
