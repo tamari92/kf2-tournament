@@ -519,7 +519,7 @@ Teams are permitted to ask a Tournament Director or Assistant Director to be pre
 # Section 7: Scoring
 All matches played in this tournament are scored using a unique **Scoring System**. The Scoring System assigns teams **Points** based on their overall performance in the match.
 
-[Click here](https://github.com/tamari92/kf2-mentor-tournament/blob/cdmt1/scoring.md) for more information on how the Scoring System works (with examples).
+[Click here](https://github.com/tamari92/kf2-tournament/blob/summer22/scoring.md) for more information on how the Scoring System works (with examples).
 
 
 # Section 8: Match Structure
