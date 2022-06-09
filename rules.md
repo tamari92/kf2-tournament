@@ -69,12 +69,12 @@
     - [8.6.1 - Perk Limits](#861---perk-limits)
     - [8.6.2 - Perk Swapping](#862---perk-swapping)
     - [8.6.3 - Perk Skills](#863---perk-skills)
-    - [8.6.4 - Modified Perks](#864---modified-perks)
+    - [8.6.4 - Perk Modifications](#864---perk-modifications)
   - [8.7 - Weapons](#87---weapons)
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
     - [8.7.3 - Weapon Upgrade Restrictions](#873---weapon-upgrade-restrictions)
-    - [8.7.4 - Modified Weapons](#874---modified-weapons)
+    - [8.7.4 - Weapon Modifications](#874---weapon-modifications)
   - [8.8 - Mechanics](#88---mechanics)
   - [8.9 - Map Objectives](#89---map-objectives)
   - [8.10 - Trader Time](#810---trader-time)
@@ -577,7 +577,7 @@ In the Lobby, players are freely allowed to change Perks, however after the matc
 #### 8.6.3 - Perk Skills
 There are no restrictions on the changing of **Perk Skills** in this tournament. Players can alter their Perk's skills as often as they desire during the Trader period.
 
-#### 8.6.4 - Modified Perks
+#### 8.6.4 - Perk Modifications
 Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
 #### Berserker
 ```diff
@@ -628,7 +628,7 @@ The following **Weapon Upgrades** are restricted:
 - Weapons cannot be upgraded to Tier 5
 - The Desert Eagle cannot be upgraded
 
-#### 8.7.4 - Modified Weapons
+#### 8.7.4 - Weapon Modifications
 Several weapons have been modified for use in this tournament. A majority of these changes are for balance reasons.
 
 They are as follows:
