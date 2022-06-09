@@ -74,15 +74,18 @@
     - [8.6.1 - Perk Limits](#861---perk-limits)
     - [8.6.2 - Perk Swapping](#862---perk-swapping)
     - [8.6.3 - Perk Skills](#863---perk-skills)
+  - [8.6.4 - Perk Modifications](#864---perk-modifications)
   - [8.7 - Weapons](#87---weapons)
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
     - [8.7.3 - Weapon Upgrade Restrictions](#873---weapon-upgrade-restrictions)
-  - [8.8 - Map Objectives](#88---map-objectives)
-  - [8.9 - Trader Time](#89---trader-time)
-  - [8.10 - Custom Interface](#810---custom-interface)
-    - [8.10.1 - Player Interface](#8101---player-interface)
-    - [8.10.2 - Spectator Interface](#8102---spectator-interface)
+  - [8.7.4 - Weapon Modifications](#874---weapon-modifications)
+  - [8.8 - Mechanics](#88---mechanics)
+  - [8.9 - Map Objectives](#89---map-objectives)
+  - [8.10 - Trader Time](#810---trader-time)
+  - [8.11 - Custom Interface](#811---custom-interface)
+    - [8.11.1 - Player Interface](#8111---player-interface)
+    - [8.11.2 - Spectator Interface](#8112---spectator-interface)
 - [Section 9: Competitive Integrity](#section-9-competitive-integrity)
   - [9.1 - Penalties](#91---penalties)
     - [9.1.1 - Guilt by Association](#911---guilt-by-association)
@@ -582,10 +585,18 @@ In the Lobby, players are freely allowed to change Perks, however after the matc
 #### 8.6.3 - Perk Skills
 There are no restrictions on the changing of **Perk Skills** in this tournament. Players can alter their Perk's skills as often as they desire during the Trader period.
 
+#### 8.6.4 - Perk Modifications
+Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
+```
+TBD
+```
+
 ### 8.7 - Weapons
 #### 8.7.1 - Banned Weapons
 The following Weapons are **banned** and are prohibited from being used in this tournament:
+```
 TBD
+```
 
 **Banned weapons are completely removed from the Trader Pod and will be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
 
@@ -594,9 +605,23 @@ All **DLC Weapons** which are not banned will be automatically unlocked on the t
 
 #### 8.7.3 - Weapon Upgrade Restrictions
 The following **Weapon Upgrades** are restricted:
+```
 TBD
+```
 
-### 8.8 - Map Objectives
+#### 8.7.4 - Weapon Modifications
+Several weapons have been modified for use in this tournament. The modifications made are as follows:
+```
+TBD
+```
+
+### 8.8 - Mechanics
+Several game mechanics have been modified for use in this tournament. The modifications made are as follows:
+```
+TBD
+```
+
+### 8.9 - Map Objectives
 Throughout the match, objectives in the form of “Stand Your Ground” zones will appear. Some maps have built-in objectives as well, such as KF-Airship.
 
 Completing these objectives grants **200 Bonus** points to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
@@ -607,7 +632,7 @@ If the next wave has a set objective, the Objective Zone will be **highlighted**
 
 ![alt text](https://i.imgur.com/BBptYvC.png)
 
-### 8.9 - Trader Time
+### 8.10 - Trader Time
 During Trader Time, the following is in effect:
 - **ALL** Trader Pods in the map are open simultaneously
 - Trader Timer increased to **120 seconds** (2 minutes)
@@ -618,8 +643,8 @@ All Trader Pods are open to ensure equality and fairness across runs and to help
 
 **The Trader Timer will not pause automatically.** Although this is the typical behavior in CD, it is restricted in this tournament to prevent teams from consuming an unfair amount of time during the Trader period to prepare. It is not possible for teams to vote to Pause (!pt) or Unpause (!upt) the Trader.
 
-### 8.10 - Custom Interface
-#### 8.10.1 - Player Interface
+### 8.11 - Custom Interface
+#### 8.11.1 - Player Interface
 ![alt text](https://i.imgur.com/LSTryek.png)
 
 During the match, players will find that a new **Match Timer** has been added at the top-middle of their screen.
@@ -631,7 +656,7 @@ This timer shows the following:
 
 The timer begins counting the moment the round begins and never stops, even during the Trader period. See [Section 7: Scoring](#section-7-scoring) for more information on the Par Time and Max Time.
 
-#### 8.10.2 - Spectator Interface
+#### 8.11.2 - Spectator Interface
 ![alt text](https://i.imgur.com/CDGbiMR.png)
 
 Similarly to players, **spectators/viewers** also have a custom interface for this tournament.
