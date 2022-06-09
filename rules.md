@@ -639,7 +639,7 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 ```
 #### Survivalist
 ```diff
-- Lockdown skill reverted to increase Stun, Stumble, and Knockdown Powers of all weapons by 200%, instead of granting an instant stun.
+- Lockdown skill reverted to increase incapacitation powers of all weapons by 200%, instead of granting an instant stun.
 - Grenade selection is disabled. The only usable grenade is the HE Grenade.
 ```
 
