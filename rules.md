@@ -503,7 +503,9 @@ It shall be the responsibility of the Tournament Staff in attendance (specifical
 After a restart, should further action be necessary, the Assistant Director and/or the Director shall be permitted to take action as they see fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
 
 #### 6.14.4 - Integrity & Sportsmanship
-As in [6.13.3](#6133-integrity---sportsmanship), it is considered bad sportsmanship for a player to falsify or manipulate their connection(s) in any way that would lead to loss of connection with the intent of achieving an advantage or otherwise circumventing the rules. For client disconnections, it is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service. For server disconnections, it is seen as a breach of Competitive Integrity to intentionally abuse an exploit or bug that would cause the server to crash or disconnect players with the intent of achieving an advantage or otherwise circumventing the rules. 
+As in [6.13.3](#6133-integrity---sportsmanship), integrity and sportsmanship are demanded from players in regards to the above clauses.
+
+For client disconnections, it is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service with the intent of achieving an advantage or otherwise circumventing the rules. For server disconnections, it is seen as a breach of Competitive Integrity to intentionally abuse an exploit or bug that would cause the server to crash or disconnect players with the intent of achieving an advantage or otherwise circumventing the rules. 
 
 Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.
 
