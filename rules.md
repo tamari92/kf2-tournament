@@ -494,6 +494,7 @@ In the event that the **server** itself crashes or otherwise loses connection, T
 - Granting Dosh
 - Setting Score and Bonus values manually
 - Setting the Match Timer manually
+
 ... so that play may resume as normal.
 
 In situations where a match was not streamed by an official Tournament Streamer, incontrovertible evidence must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken.
@@ -673,12 +674,12 @@ Several weapons have been modified for use in this tournament. The modifications
 ```diff
 + Tier increased from 3 to 4.
 - Trader price increased from 1100 to 1500.
-- Healing per dart reduced to from 25 to 18.
+- Healing per dart reduced to from 25 to 17.
 - Time to fully recharge increased from 10s to 14s.
 ```
 #### HRG Crossboom
 ```diff
-- Self-damage multiplier increased from 0.25 to 0.50.
+- Self-damage multiplier increased from 0.25 to 0.75.
 ```
 
 ### 8.8 - Mechanics
@@ -691,7 +692,7 @@ This means that any and all ZEDs can be stomped (excluding bosses) and there is 
 #### Afflictions (aka "debuffs" or "incaps")
 Afflictions in the vanilla game have been mistakenly broken by TWI in recent updates to the game, and are either more powerful or significantly weaker than intended (in specific cases). Some examples of Afflictions are Stun, Stumble, and Freeze. In most cases, all of these sources were either multiplying or dividing their effects, resulting in unintended behavior.
 
-These issues have been fixed entirely on our servers. Though the current state of the Affliction system is broken in the vanilla game, I am still listing our fixed version as a "deviation" since the broken state is technically the new "norm".
+Most of these issues have been fixed entirely for the tournament.
 
 Examples of what is fixed/reverted:
 ```diff
