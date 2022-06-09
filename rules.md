@@ -461,13 +461,15 @@ In the worst case, a team will earn a **zero score** for the match.
 #### 6.13.1 - Group Stage
 In the **Group Stage**, teams are permitted to make a **single re-attempt** at a match in the event that the squad is wiped out.
 
-**In the event that the second attempt results in a VICTORY (boss killed), the team suffers a 50% reduction to the Total Score earned**. This reduction occurs **after** all bonuses and penalties are applied to the Total Score. The score reduction cannot reduce the team's score beyond the value of the maximum Completion Score (CS) for the match. See [Section 7: Scoring](#section-7-scoring) for more information.
+**In the event that the second attempt results in a VICTORY (boss killed), the team suffers a 50% reduction to the Total Score earned**. This reduction occurs **after** all bonuses and penalties are applied to the Total Score. The score reduction cannot reduce the team's score beyond the maximum value of the Completion Score (CS) for the match. See [Section 7: Scoring](#section-7-scoring) for more information.
 
 Additionally, for ANY re-attempted match, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
 
 In the event that a crash occurs (either player or server), a retry may be granted by the Tournament Staff. See [9.6.3](#963---restarts) for more information.
 
-There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
+Formally, retries as a result of the squad being wiped out are considered separately from retries made as the result of a loss of connection (9.6.3).
+
+Otherwise, there are no exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.2 - Playoffs
 In the Playoffs phase, **multiple attempts are strictly forbidden** except in the case where a crash occurs. See [9.6.3](#963---restarts) for more information.
