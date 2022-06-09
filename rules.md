@@ -60,6 +60,7 @@
     - [6.14.1 - Client Disconnects](#6141---client-disconnects)
     - [6.14.2 - Server Disconnects](#6142---server-disconnects)
     - [6.14.3 - Restarts](#6143---restarts)
+    - [6.14.4 - Integrity & Sportsmanship](#6144---integrity--sportsmanship)
   - [6.15 - Oversight](#615---oversight)
 - [Section 7: Scoring](#section-7-scoring)
 - [Section 8: Match Structure](#section-8-match-structure)
@@ -475,7 +476,7 @@ In the Playoffs phase, **multiple attempts are strictly forbidden** except in th
 There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.3 - Integrity & Sportsmanship
-Retries may **only** be used in the situations outlined in [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. **It is considered bad sportsmanship to purposely throw the game or manipulate the game's state in order to earn a retry.** For retries made as the result of a loss of connection, it is bad sportsmanship for a player to falsify or manipulate their connection(s). Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
+Retries may **only** be used in the situations outlined in [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. **It is considered bad sportsmanship to purposely throw the game or manipulate the game's state in order to earn a retry.** Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
 
 For matches that are not streamed by an official Tournament Streamer, *Proof of Play* (described in [6.12](#612---proof-of-play)) is required. **Records of all tournament matches played on the Match Servers are kept automatically by the server.** These reports will clearly display tampering should a team attempt to abuse this clause.
 
@@ -505,6 +506,9 @@ In the event of a Loss of Connection, a team may request a restart with no penal
 It shall be the responsibility of the Tournament Staff in attendance (specifically the Assistant Directors and/or the Director) to approve/deny a request to restart in the wake of a client or server crash/disconnect. Only one restart may be made **per match** in this manner. Should a match consists of multiple games, **only one restart** shall be allowed between all games.
 
 After a restart, should further action be necessary, the Assistant Director and/or the Director shall be permitted to take action as they see fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
+
+#### 6.14.4 - Integrity & Sportsmanship
+As in [6.13.3](#6133-integrity---sportsmanship), it is considered bad sportsmanship for a player to falsify or manipulate their connection(s) in any way that would lead to loss of connection with the intent of achieving an advantage or otherwise circumventing the rules. All regulations outlined in [6.13.3](#6133-integrity---sportsmanship) apply to this clause as well.
 
 ### 6.15 - Oversight
 Teams are permitted to ask a Tournament Director or Assistant Director to be present at the match to provide oversight and resolve any disputes.
