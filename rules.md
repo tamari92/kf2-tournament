@@ -504,7 +504,7 @@ In the event of a Loss of Connection, a team may request a restart with no penal
 
 It shall be the responsibility of the Tournament Staff in attendance (specifically the Assistant Directors and/or the Director) to approve/deny a request to restart in the wake of a client or server crash/disconnect. Only one restart may be made **per match** in this manner. Should a match consists of multiple games, **only one restart** shall be allowed between all games.
 
-After a restart, should further action become necessary, the Assistant Director and/or the Director shall be permitted to take action as they seem fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
+After a restart, should further action be necessary, the Assistant Director and/or the Director shall be permitted to take action as they see fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
 
 ### 6.15 - Oversight
 Teams are permitted to ask a Tournament Director or Assistant Director to be present at the match to provide oversight and resolve any disputes.
