@@ -682,7 +682,8 @@ Several weapons have been modified for use in this tournament. The modifications
 ```
 
 ### 8.8 - Mechanics
-Several game mechanics have been modified for use in this tournament. A majority of these changes are for balance reasons.
+Several game mechanics have been modified for use in this tournament. The modifications made are as follows:
+
 #### ZED Stomping (aka "Goomba Stomping")
 ZED Stomping has been reverted to its pre-nerf state.
 This means that any and all ZEDs can be stomped (excluding bosses) and there is also no cooldown on stomps.
