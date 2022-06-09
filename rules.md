@@ -778,6 +778,8 @@ Example of the HUD in action:
 
 
 # Section 9: Competitive Integrity
+Participants have a duty to conform to the generally accepted standards of fair play. Deviation from those standards is cheating, and threatens the legitimacy of the competition as a whole. Therefore, everyone shall be held to a strict standard of competitive integrity.
+
 ### 9.1 - Penalties
 The minimum penalty for a breach of competitive integrity is a match loss by forfeit. There is no maximum penalty, which may include team expulsion from the tournament, forfeiture of already played matches, and forfeiture of team eligibility for any prizes.
 
@@ -799,8 +801,6 @@ Cheating ruins the integrity of the sport, undermines the efforts of everyone in
 Should a member of a team be caught cheating, the cheater at minimum shall be immediately removed from the tournament and banned from all future events as well as from Tamari’s KF2 servers entirely.
 
 ### 9.4 - Permitted Game Modifications
-Participants have a duty to conform to the generally accepted standards of fair play. Deviation from those standards is cheating, and threatens the legitimacy of the competition as a whole. Therefore, everyone shall be held to a strict standard of competitive integrity.
-
 #### 9.4.1 - Crosshairs
 Use of a **crosshair** of any sort is permitted in this tournament.
 
