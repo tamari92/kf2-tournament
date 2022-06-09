@@ -465,9 +465,7 @@ In the **Group Stage**, teams are permitted to make a **single re-attempt** at a
 
 Additionally, for ANY re-attempted match, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
 
-In the event that a crash occurs (either player or server), a retry may be granted by the Tournament Staff. See [9.6.3](#963---restarts) for more information.
-
-Formally, retries as a result of the squad being wiped out are considered separately from retries made as the result of a loss of connection (9.6.3).
+In the event that a crash occurs (either player or server), a retry may be granted by the Tournament Staff. See [9.6.3](#963---restarts) for more information. Retries as a result of a loss of connection are considered separately from retries made as the result of the squad being wiped out.
 
 Otherwise, there are no exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
