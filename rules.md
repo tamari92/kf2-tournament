@@ -56,7 +56,11 @@
     - [6.13.1 - Group Stage](#6131---group-stage)
     - [6.13.2 - Playoffs](#6132---playoffs)
     - [6.13.3 - Integrity & Sportsmanship](#6133---integrity--sportsmanship)
-  - [6.14 - Oversight](#614---oversight)
+  - [6.14 - Loss of Connection](#614---loss-of-connection)
+    - [6.14.1 - Client Disconnects](#6141---client-disconnects)
+    - [6.14.2 - Server Disconnects](#6142---server-disconnects)
+    - [6.14.3 - Restarts](#6143---restarts)
+  - [6.15 - Oversight](#615---oversight)
 - [Section 7: Scoring](#section-7-scoring)
 - [Section 8: Match Structure](#section-8-match-structure)
   - [8.1 - Game Settings](#81---game-settings)
@@ -91,10 +95,6 @@
     - [9.4.2 - INI Edits](#942---ini-edits)
     - [9.4.3 - Local Game Files](#943---local-game-files)
   - [9.5 - Prohibited Game Modifications](#95---prohibited-game-modifications)
-  - [9.6 - Loss of Connection](#96---loss-of-connection)
-    - [9.6.1 - Client Disconnects](#961---client-disconnects)
-    - [9.6.2 - Server Disconnects](#962---server-disconnects)
-    - [9.6.3 - Restarts](#963---restarts)
 - [Section 10: Exploits](#section-10-exploits)
   - [10.1 - Permitted Exploits](#101---permitted-exploits)
     - [10.1.1 - Reload Cancelling](#1011---reload-cancelling)
@@ -465,23 +465,48 @@ In the **Group Stage**, teams are permitted to make a **single re-attempt** at a
 
 Additionally, for ANY re-attempted match, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
 
-In the event that a crash occurs (either player or server), a retry may be granted by the Tournament Staff. See [9.6.3](#963---restarts) for more information. Retries as a result of a loss of connection are considered separately from retries made as the result of the squad being wiped out.
+In the event that a crash occurs (either player or server), a retry may be granted by the Tournament Staff. See [6.14](#614---loss-of-connection) for more information. Retries as a result of a loss of connection are considered separately from retries made as the result of the squad being wiped out.
 
 Otherwise, there are no exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.2 - Playoffs
-In the Playoffs phase, **multiple attempts are strictly forbidden** except in the case where a crash occurs. See [9.6.3](#963---restarts) for more information.
+In the Playoffs phase, **multiple attempts are strictly forbidden** except in the case where a crash occurs. See [6.14](#614---loss-of-connection) for more information.
 
 There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.3 - Integrity & Sportsmanship
-Retries may **only** be used in the situations outlined in [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. It is considered bad sportsmanship to purposely throw the game in order to earn a retry. Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
+Retries may **only** be used in the situations outlined in [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. **It is considered bad sportsmanship to purposely throw the game or manipulate the game's state in order to earn a retry.** For retries made as the result of a loss of connection, it is bad sportsmanship for a player to falsify or manipulate their connection(s). Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
 
 For matches that are not streamed by an official Tournament Streamer, *Proof of Play* (described in [6.12](#612---proof-of-play)) is required. **Records of all tournament matches played on the Match Servers are kept automatically by the server.** These reports will clearly display tampering should a team attempt to abuse this clause.
 
 **It is considered a breach of Competitive Integrity to make more attempts at a match than are allowed, especially if the team attempts to hide or obfuscate the results of these attempts from the Tournament Staff in any way. Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.**
 
-### 6.14 - Oversight
+### 6.14 - Loss of Connection
+There are situations in which either the clients or the server may lose connection. These are handled separately in two subcases:
+
+#### 6.14.1 - Client Disconnects
+In the event that players crash or are disconnected involuntarily at other points throughout the match, Tournament Directors and Assistant Directors reserve the right to adjust all Score and Bonus values as well as the Match Timer to compensate if the situation presents extenuating circumstances. **There is no guarantee in these scenarios and the Tournament Director and Assistant Directors are the court of last resort for deciding whether or not points are to be reimbursed.** Their decisions are final and cannot be appealed.
+
+**It is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service. Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.**
+
+#### 6.14.2 - Server Disconnects
+In the event that the **server** itself crashes or otherwise loses connection, Tournament Directors in attendance are **permitted** to set the game state, which includes:
+- Changing the wave manually
+- Granting Dosh
+- Setting Score and Bonus values manually
+- Setting the Match Timer manually
+... so that play may resume as normal.
+
+In situations where a match was not streamed by an official Tournament Streamer, incontrovertible evidence must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken.
+
+#### 6.14.3 - Restarts
+In the event of a Loss of Connection, a team may request a restart with no penalty provided that the event occurred **prior to the beginning of Wave 3**. After the beginning of Wave 3, restarts in the wake of a crash or disconnect shall (formally) be forbidden. This is primarily for the respect of the time of all parties involved in the match as well as the spectators/viewers.
+
+It shall be the responsibility of the Tournament Staff in attendance (specifically the Assistant Directors and/or the Director) to approve/deny a request to restart in the wake of a client or server crash/disconnect. Only one restart may be made **per match** in this manner. Should a match consists of multiple games, **only one restart** shall be allowed between all games.
+
+After a restart, should further action become necessary, the Assistant Director and/or the Director shall be permitted to take action as they seem fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
+
+### 6.15 - Oversight
 Teams are permitted to ask a Tournament Director or Assistant Director to be present at the match to provide oversight and resolve any disputes.
 
 
@@ -801,31 +826,6 @@ The tournament servers restrict the use of alternate ZED models, which ensures t
 
 ### 9.5 - Prohibited Game Modifications
 All other modifications, edits, tools, and utilities NOT listed in [9.4](#94---permitted-game-modifications) are **prohibited** and will result in disciplinary action should it be discerned that a team / player is taking advantage of them.
-
-### 9.6 - Loss of Connection
-There are situations in which either the clients or the server may lose connection. These are handled separately in two subcases:
-
-#### 9.6.1 - Client Disconnects
-In the event that players crash or are disconnected involuntarily at other points throughout the match, Tournament Directors and Assistant Directors reserve the right to adjust all Score and Bonus values as well as the Match Timer to compensate if the situation presents extenuating circumstances. **There is no guarantee in these scenarios and the Tournament Director and Assistant Directors are the court of last resort for deciding whether or not points are to be reimbursed.** Their decisions are final and cannot be appealed.
-
-**It is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service. Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.**
-
-#### 9.6.2 - Server Disconnects
-In the event that the **server** itself crashes or otherwise loses connection, Tournament Directors in attendance are **permitted** to set the game state, which includes:
-- Changing the wave manually
-- Granting Dosh
-- Setting Score and Bonus values manually
-- Setting the Match Timer manually
-... so that play may resume as normal.
-
-In situations where a match was not streamed by an official Tournament Streamer, incontrovertible evidence must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken.
-
-#### 9.6.3 - Restarts
-In the event of a Loss of Connection, a team may request a restart with no penalty provided that the event occurred **prior to the beginning of Wave 3**. After the beginning of Wave 3, restarts in the wake of a crash or disconnect shall (formally) be forbidden. This is primarily for the respect of the time of all parties involved in the match as well as the spectators/viewers.
-
-It shall be the responsibility of the Tournament Staff in attendance (specifically the Assistant Directors and/or the Director) to approve/deny a request to restart in the wake of a client or server crash/disconnect. Only one restart may be made **per match** in this manner. Should a match consists of multiple games, **only one restart** shall be allowed between all games.
-
-After a restart, should further action become necessary, the Assistant Director and/or the Director shall be permitted to take action as they seem fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
 
 
 # Section 10: Exploits
