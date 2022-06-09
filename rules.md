@@ -94,6 +94,7 @@
   - [9.6 - Loss of Connection](#96---loss-of-connection)
     - [9.6.1 - Client Disconnects](#961---client-disconnects)
     - [9.6.2 - Server Disconnects](#962---server-disconnects)
+    - [9.6.3 - Restarts](#963---restarts)
 - [Section 10: Exploits](#section-10-exploits)
   - [10.1 - Permitted Exploits](#101---permitted-exploits)
     - [10.1.1 - Reload Cancelling](#1011---reload-cancelling)
@@ -460,12 +461,18 @@ In the worst case, a team will earn a **zero score** for the match.
 #### 6.13.1 - Group Stage
 In the **Group Stage**, teams are permitted to make a **single re-attempt** at a match in the event that the squad is wiped out.
 
-**In the event that the second attempt results in a VICTORY (boss killed), the team suffers a 50% global reduction to the total Score**. This reduction occurs **after** all bonuses and penalties are applied to the total score. The score reduction cannot reduce the team's total score beyond the value of the maximum Completion Score (CS) for the match. See [Section 7: Scoring](#section-7-scoring) for more information.
+**In the event that the second attempt results in a VICTORY (boss killed), the team suffers a 50% reduction to the Total Score earned**. This reduction occurs **after** all bonuses and penalties are applied to the Total Score. The score reduction cannot reduce the team's score beyond the value of the maximum Completion Score (CS) for the match. See [Section 7: Scoring](#section-7-scoring) for more information.
 
-Additionally, for ANY re-attempted match, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.** There are no exceptions.
+Additionally, for ANY re-attempted match, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
+
+In the event that a crash occurs (either player or server), a retry may be granted by the Tournament Staff. See [9.6.3](#963---restarts) for more information.
+
+There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.2 - Playoffs
-In the Playoffs phase, **multiple attempts are strictly forbidden.**
+In the Playoffs phase, **multiple attempts are strictly forbidden** except in the case where a crash occurs. See [9.6.3](#963---restarts) for more information.
+
+There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.3 - Integrity & Sportsmanship
 A retry may **only** be used in the event that the team wipes. It is considered bad sportsmanship to purposely throw the game in order to earn a retry. Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
@@ -812,6 +819,13 @@ In the event that the **server** itself crashes or otherwise loses connection, T
 ... so that play may resume as normal.
 
 In situations where a match was not streamed by an official Tournament Streamer, incontrovertible evidence must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken.
+
+#### 9.6.3 - Restarts
+In the event of a Loss of Connection, a team may request a restart with no penalty provided that the event occurred **prior to the beginning of Wave 3**. After the beginning of Wave 3, restarts in the wake of a crash or disconnect shall (formally) be forbidden. This is primarily for the respect of the time of all parties involved in the match as well as the spectators/viewers.
+
+It shall be the responsibility of the Tournament Staff in attendance (specifically the Assistant Directors and/or the Director) to approve/deny a request to restart in the wake of a client or server crash/disconnect. Only one restart may be made **per match** in this manner. Should a match consists of multiple games, **only one restart** shall be allowed between all games.
+
+After a restart, should further action become necessary, the Assistant Director and/or the Director shall be permitted to take action as they seem fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
 
 
 # Section 10: Exploits
