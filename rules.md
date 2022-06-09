@@ -212,7 +212,7 @@ The tournament will consist of two stages:
 #### 3.2.1 - Group Stage
 In the **Group Stage**, all teams play in a series of **rounds** with the goal being to achieve qualification for the **Playoffs.**
 
-The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map using predetermined [CD Parameters](#82---cd-parameters). These parameters will be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
+The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map using predetermined [CD Parameters](#82---cd-parameters). These parameters shall be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
 
 There are no brackets in this stage. Instead, ALL teams play simultaneously and aim to achieve the best results they can for a given round. Matches are **scored** using a new [Scoring System](#section-7-scoring) created specifically for this tournament.
 
@@ -241,7 +241,7 @@ This stage begins **immediately after the last Semifinals match is played** and 
 In this stage, **both teams play two games in a row.** The cumulative score earned across both games becomes the team's final score for the match. The team that earns the highest score wins the tournament.
 
 ### 3.3 - Map Pool
-This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
+This list is subject to change at any time and does not necessarily represent the exact order the maps shall be played.
 
 ```
 TBD
@@ -256,21 +256,21 @@ The regular registration period begins `TBD` and closes on `TBD`, lasting exactl
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
 
 ### 4.3 - Overflow Pool
-Following the conclusion of the **regular registration** period, the **Overflow Pool** will be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players will be moved to the Overflow Pool. Players in the pool will be ordered by the date and time they signed up, meaning players who signed up earlier are prioritized higher.
+Following the conclusion of the **regular registration** period, the **Overflow Pool** shall be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players shall be moved to the Overflow Pool. Players in the pool shall be ordered by the date and time they signed up, meaning players who signed up earlier are prioritized higher.
 
-The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the buffer will be drawn from in order of priority in order to fill the vacant slot on the team.
+The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the buffer shall be drawn from in order of priority in order to fill the vacant slot on the team.
 
-After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage.** Players who sign up at this time will be automatically placed into the Overflow Pool.
+After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage.** Players who sign up at this time shall be automatically placed into the Overflow Pool.
 
 ### 4.4 - Banned Players
-Players who have already been banned from Tamari’s KF2 Servers for any reason are barred from participating in this tournament and any applications or sign-ups from these users will be discarded.
+Players who have already been banned from Tamari’s KF2 Servers for any reason are barred from participating in this tournament and any applications or sign-ups from these users shall be discarded.
 
-Players will be required to submit their STEAMID during the sign-up phase, which will be checked against our global bans list.
+Players shall be required to submit their STEAMID during the sign-up phase, which shall be checked against our global bans list.
 
-Integrity is of the utmost importance. If a Steam account possesses a **VAC Ban** or **Game Ban**, the account holder will be required to explain why they were banned. Refusing will be seen as suspicious and may result in the sign-up being revoked.
+Integrity is of the utmost importance. If a Steam account possesses a **VAC Ban** or **Game Ban**, the account holder shall be required to explain why they were banned. Refusing shall be seen as suspicious and may result in the sign-up being revoked.
 
 ### 4.5 - Names
-All players will be required to give a name during the registration phase. **Players will be required to use these names for the duration of the tournament.**
+All players shall be required to give a name during the registration phase. **Players shall be required to use these names for the duration of the tournament.**
 
 If a player must change their name, the Tournament Staff must be informed. It is permitted for players to make minor adjustments to their name (such as adding clan tags or symbols to denote their team) without having to inform the Tournament Staff.
 
@@ -291,7 +291,7 @@ The team’s **Captain** shall be an experienced player who possesses a high deg
 
 **The Captain is the team leader and is ultimately responsible for their team.**
 
-Captains are primarily required to coordinate with Tournament Staff and other Captains for scheduling matches and resolving disputes / other administrative-level endeavors. Captains are typically handpicked by Tournament Staff, but players can opt to sign up to be a Captain as well. In the second scenario, a review will be conducted by the Tournament Staff to determine eligibility. This will be based on several factors, including game time (hours) / general knowledge of the game, player attitude, and overall performance in CD matches.
+Captains are primarily required to coordinate with Tournament Staff and other Captains for scheduling matches and resolving disputes / other administrative-level endeavors. Captains are typically handpicked by Tournament Staff, but players can opt to sign up to be a Captain as well. In the second scenario, a review shall be conducted by the Tournament Staff to determine eligibility. This shall be based on several factors, including game time (hours) / general knowledge of the game, player attitude, and overall performance in CD matches.
 
 **The Captain’s secondary objective in this tournament is to act as a coach**, sharing their knowledge with their teammates and training them to improve their skill and game knowledge.
 
@@ -326,25 +326,25 @@ There are three Groups:
 These groups exist to better ensure a more even balance between teams and become relevant when the teams are actually filled out with players.
 
 #### 5.2.3 - Captain Assignment
-Next, **Captains** are to be chosen/selected. Most of the time, these individuals will be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Captains, the Tournament Staff will review those applications at this time.
+Next, **Captains** are to be chosen/selected. Most of the time, these individuals shall be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Captains, the Tournament Staff will review those applications at this time.
 
 **The number of Captain slots available is limited by the number of players participating in the tournament.** This is to ensure each team has a full roster.
 
 #### 5.2.4 - Co-Captain Assignment
-Once the Captains have been chosen, each will be asked to select a **Co-Captain** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
+Once the Captains have been chosen, each shall be asked to select a **Co-Captain** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
 
-Captains will be informed of the players who have directly expressed an interest in being a Co-Captain, however this does not mean that Captains are necessarily required to choose those players.
+Captains shall be informed of the players who have directly expressed an interest in being a Co-Captain, however this does not mean that Captains are necessarily required to choose those players.
 
 **Co-Captain selection is done on a first come first serve basis.**
 
 There must be written confirmation from both the Captain and the prospective Co-Captain for the assignment to be finalized.
 
 #### 5.2.5 - Player Draft
-When all Captain and Co-Captain pairs have been established, the **Player Draft** phase will begin. In this phase, the remaining players are selected by the Captains using the previously-formed Player Groups.
+When all Captain and Co-Captain pairs have been established, the **Player Draft** phase shall begin. In this phase, the remaining players are selected by the Captains using the previously-formed Player Groups.
 
-To start the process, all Captains will be placed into a hat and shuffled to produce a random ordering. **This represents the order in which the Captains will choose prospective teammates.** Random ordering is used to prevent any bias and/or favoritism in the process.
+To start the process, all Captains shall be placed into a hat and shuffled to produce a random ordering. **This represents the order in which the Captains will choose prospective teammates.** Random ordering is used to prevent any bias and/or favoritism in the process.
 
-Once the order has been set, actual assignment of the players will begin.
+Once the order has been set, actual assignment of the players shall begin.
 
 To start, Captains will take turn choosing players from **Group 3** in a Round Robin fashion as per the order established previously. For example, the first Captain picks a player, then the second, then the third, and so on. This process continues until all of the players in the group have been selected.
 
@@ -359,7 +359,7 @@ The result of this process is (hopefully) a set of teams which have a similar av
 ### 5.3 - Roster Integrity
 Teams may *only* use the players in the rosters formed from [5.2.5](#525---player-draft). If a player leaves, exits, or is removed from the team, the team Captain is required to inform the Tournament Staff immediately so that a replacement can be found (typically drawn from the overflow pool).
 
-STEAMIDs will be checked regularly. **Using players not in the team’s assigned roster is grounds for the team's immediate suspension from the tournament.**
+STEAMIDs shall be checked regularly. **Using players not in the team’s assigned roster is grounds for the team's immediate suspension from the tournament.**
 
 #### 5.3.1 - Alternate Accounts
 **Alternate accounts are not allowed under any circumstances.** Please make sure that the account you intend to play on has full access to the game.
@@ -367,7 +367,7 @@ STEAMIDs will be checked regularly. **Using players not in the team’s assigned
 
 # Section 6: Match Scheduling
 ### 6.1 - Rounds & Scheduling
-Pairings, brackets, and other pertinent information for each round will be posted by the Tournament Staff at the beginning of the round.
+Pairings, brackets, and other pertinent information for each round shall be posted by the Tournament Staff at the beginning of the round.
 
 ### 6.2 - Scheduling Duties
 For all phases of the tournament, matches must be confirmed with the Tournament Staff at least **48 hours** before the projected match start time to allow for time to prepare.
@@ -391,7 +391,7 @@ In the **Playoffs**, the Captains from both teams are required to coordinate a t
 For matches where a single team plays multiple games (such as during the Playoffs), there must be **no scheduled intermission** between games. In other words, the games must be each be played "back-to-back". Teams are allowed a maximum of **ten minutes** between each individual game to be back in the server and readied up to begin the next game.
 
 #### 6.5.2 - Substitutions
-**Substitutions ARE allowed, but ONLY between games.** Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and will be made within reason. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match. Please ensure that players have allotted enough time to be present at all individual games in a specified matchup.
+**Substitutions ARE allowed, but ONLY between games.** Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and shall be made within reason. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match. Please ensure that players have allotted enough time to be present at all individual games in a specified matchup.
 
 ### 6.6 - Matches Between Two Teams
 For matches that occur between two separate teams (for example during the Playoffs), **an eight hour grace period is to be granted between each teams' individual set of games.**
@@ -414,7 +414,7 @@ Each team has **15 minutes** after the scheduled time to have six players in the
 
 Please be on time. It is disrespectful to your opponents, the Tournament Staff who have given up some of their time to attend, and finally to the viewers who have committed time to watching the match. **Please plan to join the server 10-15 minutes before the start time to reduce the likelihood of being late.**
 
-**The standard penalty for tardiness will be a zero score for the match.** In the Playoffs, this constitutes a **forfeit loss** in the event that one team is late to the match, or a **double forfeit** if both teams are late.
+**The standard penalty for tardiness shall be a zero score for the match.** In the Playoffs, this constitutes a **forfeit loss** in the event that one team is late to the match, or a **double forfeit** if both teams are late.
 
 In the event one team is disqualified, **it is still required that the second team play their round in full.**
 
@@ -425,9 +425,9 @@ No-shows distort the results by unbalancing the tiebreakers. Moreover, they disa
 
 If you wish to withdraw from the tournament, please notify one of the tournament directors by the start of the **second round** of the Group Stage.
 
-In the Group Stage, if a team fails to appear to any match, a **zero score** will be assigned and that team must then contact Tournament Staff to confirm that they will play in the next round **by the scheduling deadline for that round**. Failure to do this will result the **team's removal from the tournament** without notice.
+In the Group Stage, if a team fails to appear to any match, a **zero score** shall be assigned and that team must then contact Tournament Staff to confirm that they will play in the next round **by the scheduling deadline for that round**. Failure to do this will result the **team's removal from the tournament** without notice.
 
-In the Playoffs, if a team fails to appear to any match, a zero score will be assigned and that team will be **eliminated** from the tournament automatically.
+In the Playoffs, if a team fails to appear to any match, a zero score shall be assigned and that team shall be **eliminated** from the tournament automatically.
 
 ### 6.10 - Ringers & Substitutions
 A **ringer** is a player not part of the team's active roster who substitutes to fill out the roster for a given match.
@@ -435,7 +435,7 @@ A **ringer** is a player not part of the team's active roster who substitutes to
 
 Substitutions **ARE** allowed, but **ONLY** using players from the team's **established** roster. Furthermore, substitutions can *only* be made **between** games in a set, and not *during* a game, barring extenuating circumstances. See [6.5.2](#652---substitutions) for more information.
 
-The above regulation includes matches where multiple games are played in a row (e.g. during the Playoffs phase). See [6.5.2](#652---substitutions) for more information. Situations presenting extenuating circumstances will be handled as deemed appropriate by Tournament Staff at the moment of occurrence.
+The above regulation includes matches where multiple games are played in a row (e.g. during the Playoffs phase). See [6.5.2](#652---substitutions) for more information. Situations presenting extenuating circumstances shall be handled as deemed appropriate by Tournament Staff at the moment of occurrence.
 
 Additionally, teams are **not permitted** to add new players to their roster in the event that a member drops out of or is removed from the tournament. **Should a vacancy be created in a team for any reason, the team Captain must inform the Tournament Staff as soon as possible so that a player may be drawn from the Overflow Pool.**
 
@@ -453,10 +453,10 @@ When proof of play is required, the following **must** be provided:
 
 **ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Captain** must deliver these directly to the one of the Tournament Directors following the conclusion of the match.
 
-In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match will be subject to the **Scheduling Deadline**, should one exist.
+In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match shall be subject to the **Scheduling Deadline**, should one exist.
 In the worst case, a team will earn a **zero score** for the match.
 
-**Please be honest. All match results will be recorded by the server automatically. If a screenshot/recording/etc does not match our recorded statistics, it will be considered cheating and the team may be disqualified from the tournament entirely.**
+**Please be honest. All match results shall be recorded by the server automatically. If a screenshot/recording/etc does not match our recorded statistics, it shall be considered cheating and the team may be disqualified from the tournament entirely.**
 
 ### 6.13 - Multiple Attempts
 #### 6.13.1 - Group Stage
@@ -524,7 +524,7 @@ All matches played in this tournament are scored using a unique **Scoring System
 
 # Section 8: Match Structure
 ### 8.1 - Game Settings
-All matches in this tournament will be played on **10-Wave Survival Hell On Earth** difficulty.
+All matches in this tournament shall be played on **10-Wave Survival Hell On Earth** difficulty.
 
 ### 8.2 - CD Parameters
 The CD Parameters to be used are as follows:
@@ -556,14 +556,14 @@ ZedsReactToFriendlyFire=False
 ```
 
 ### 8.3 - Streaming & Casting
-All matches will be streamed primarily at any the following links:
+All matches shall be streamed primarily at any the following links:
 - http://www.twitch.tv/TamariTM
 
 **Teams are NOT permitted decline their match(es) being streamed.**
 
 **All members of a team ARE permitted (and are welcome) to record, stream, and upload their matches to their personal media accounts.** The tournament organization does not own the content players produce from their matches.
 
-For matches that are streamed on the official channels, commentators and streamers will be present to shoutcast the match.
+For matches that are streamed on the official channels, commentators and streamers shall be present to shoutcast the match.
 
 Though they are part of the Tournament Staff, commentators and streamers are **NOT** admins. Should an issue arise that requires the attention of an admin, one of the tournament directors should be contacted immediately.
 
@@ -584,14 +584,14 @@ Teams will each be assigned a Voice Channel in the Tournament Discord Server tha
 Furthermore, **only the players currently playing in the match are allowed to be in Voice Chat.** Both the Captain and Co-Captain are subject to this rule as well. Violating this will result in receiving a **zero score** for the match and possible suspension from the tournament.
 
 #### 8.4.1 - War Rooms
-War Rooms will be utilized in this tournament. A War Room refers to the streamers and commentators occasionally dropping into the team’s Voice Chat room to “listen in”. War Rooms will typically last for about 30 seconds and will only occur a few times per match.
+War Rooms shall be utilized in this tournament. A War Room refers to the streamers and commentators occasionally dropping into the team’s Voice Chat room to “listen in”. War Rooms will typically last for about 30 seconds and will only occur a few times per match.
 
 **Teams are allowed to veto the use of their Voice Channel as a War Room.** The team Captain must inform the Tournament Staff of this decision prior to the match Start Time.
 
 Commentators will not speak nor create any distractions when entering a channel, and players should generally not feel disturbed by their presence.
 
 ### 8.5 - Spectators
-Aside from Tournament Staff and other authorized parties (such as commentators and streamers), no Spectators will be allowed in the server at any time during a match.
+Aside from Tournament Staff and other authorized parties (such as commentators and streamers), no Spectators shall be allowed in the server at any time during a match.
 
 This includes members of the team who are not playing in the match. If a non-participating team member joins the server as a spectator, the team will receive a **zero point score** for the round.
 
@@ -656,10 +656,10 @@ The following Weapons are **banned** and are prohibited from being used in this 
 - **Support:** HRG Blast Brawlers, Frost Fang, Blunderbuss
 - **SWAT:** HRG Bastion, Glock 18 & Riot Shield, HRG Stunner
 
-**Banned weapons are completely removed from the Trader Pod and will be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
+**Banned weapons are completely removed from the Trader Pod and shall be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
 
 #### 8.7.2 - DLC Weapons
-All **DLC Weapons** which are not banned will be automatically unlocked on the tournament servers, even if no player on the team actually owns the weapons.
+All **DLC Weapons** which are not banned shall be automatically unlocked on the tournament servers, even if no player on the team actually owns the weapons.
 
 #### 8.7.3 - Weapon Upgrade Restrictions
 The following **Weapon Upgrades** are restricted:
@@ -702,7 +702,7 @@ Examples of what is fixed/reverted:
 #### Perk Skills that alter Maximum Health
 In the base game, some Perk Skills can be exploited to infinitely earn money, namely those skills which increase or decrease the player's maximum health.
 
-These skills have been modified such that the player will now be automatically completely healed should their health already be at 100% upon switching skills. If the player's health is below 100%, their health will not be set automatically. This is to allow Field Medics to heal the player and earn Dosh from the healing. However, once the player is at 100% Health, it will be impossible to lose health due to players being invincible during the Trader period.
+These skills have been modified such that the player will now be automatically completely healed should their health already be at 100% upon switching skills. If the player's health is below 100%, their health will not be set automatically. This is to allow Field Medics to heal the player and earn Dosh from the healing. However, once the player is at 100% Health, it shall be impossible to lose health due to players being invincible during the Trader period.
 
 The skills affected include:
 ```prolog
@@ -719,7 +719,7 @@ Completing these objectives grants **200 Bonus** points to the team (see [Sectio
 
 For a given map, Stand Your Ground objectives will appear at a static location on each wave they are offered. This does not necessarily mean that they will always appear at the same location for all waves, but rather that they will always appear at the same location on that wave in particular. Furthermore, SYGs will appear on the same waves for each run of an individual map to keep things fair for all teams.
 
-If the next wave has a set objective, the Objective Zone will be **highlighted** in the world (and on the HUD) during the Trader period. This is so that players can take note of the exact position of the zone and adjust their strategies as necessary.
+If the next wave has a set objective, the Objective Zone shall be **highlighted** in the world (and on the HUD) during the Trader period. This is so that players can take note of the exact position of the zone and adjust their strategies as necessary.
 
 ![alt text](https://i.imgur.com/BBptYvC.png)
 
@@ -781,24 +781,24 @@ Example of the HUD in action:
 The minimum penalty for a breach of competitive integrity is a match loss by forfeit. There is no maximum penalty, which may include team expulsion from the tournament, forfeiture of already played matches, and forfeiture of team eligibility for any prizes.
 
 #### 9.1.1 - Guilt by Association
-An entire team may be held responsible for any team member who is found to be breaching competitive integrity. If foul play is suspected, the team must inform Tournament Staff as soon as possible so that the situation can be addressed. The outcome of this situation depends on various factors, and significant proof will be needed to take any degree of action.
+An entire team may be held responsible for any team member who is found to be breaching competitive integrity. If foul play is suspected, the team must inform Tournament Staff as soon as possible so that the situation can be addressed. The outcome of this situation depends on various factors, and significant proof shall be needed to take any degree of action.
 
 **In scenarios involving a breach of competitive integrity, inaction or lack of cooperation from the team may be seen as a suggestion of possible complicity.**
 
 ### 9.2 - Stream Sniping
 In matches where two teams play against one another, both teams are required to refrain from viewing each other's streams / shoutcasts until the match has concluded and a winner has been decided.
 
-In the Group Stage, **all teams are required to refrain from watching the other teams' matches until the conclusion of the round,** after which VODs from all matches will be posted.
+In the Group Stage, **all teams are required to refrain from watching the other teams' matches until the conclusion of the round,** after which VODs from all matches shall be posted.
 
 ### 9.3 - Cheating
 **ANY form of cheating, whether through external software or in-engine methods, is absolutely prohibited.**
 
 Cheating ruins the integrity of the sport, undermines the efforts of everyone involved in keeping the game fun and fair, and is a direct form of disrespect to both your team and the tournament administration.
 
-Should a member of a team be caught cheating, the cheater at minimum will be immediately removed from the tournament and banned from all future events as well as from Tamari’s KF2 servers entirely.
+Should a member of a team be caught cheating, the cheater at minimum shall be immediately removed from the tournament and banned from all future events as well as from Tamari’s KF2 servers entirely.
 
 ### 9.4 - Permitted Game Modifications
-Participants have a duty to conform to the generally accepted standards of fair play. Deviation from those standards is cheating, and threatens the legitimacy of the competition as a whole. Therefore, everyone will be held to a strict standard of competitive integrity.
+Participants have a duty to conform to the generally accepted standards of fair play. Deviation from those standards is cheating, and threatens the legitimacy of the competition as a whole. Therefore, everyone shall be held to a strict standard of competitive integrity.
 
 #### 9.4.1 - Crosshairs
 Use of a **crosshair** of any sort is permitted in this tournament.
@@ -811,7 +811,7 @@ The only INI Edits which are allowed are those which reflect settings already av
 - Altering or setting keybinds
 - Altering gore/particle/FX settings to improve performance
 
-ALL other edits are **forbidden** and will be seen as a breach of competitive integrity.
+ALL other edits are **forbidden** and shall be seen as a breach of competitive integrity.
 
 Edits which attempt to completely remove objects from the environment in order to make it easier to see or navigate are especially forbidden, as are edits which attempt to alter the behaviors of weapons, corpses, or thrown objects in any way, as they give players an unfair competitive advantage.
 
@@ -824,7 +824,7 @@ The local game files that can be changed are:
 - Game Music
 - Menu Sounds / FX
 
-ALL other changes not in the above list are **forbidden** and will be seen as a breach of competitive integrity.
+ALL other changes not in the above list are **forbidden** and shall be seen as a breach of competitive integrity.
 
 Changes to ZED models & sounds which attempt to make it easier to see or hear them, and changes to any environmental textures or sounds in an attempt to make it easier to see or navigate the environment are especially forbidden, as they give players an unfair competitive advantage.
 
@@ -907,17 +907,17 @@ An entire team may be held responsible for the unsportsmanlike conduct of any te
 Any competitor who, in the judgment of a staff member, has not committed to winning the match is guilty of unsportsmanlike conduct.
 
 ### 11.3 - Delay of Game
-Intentionally stalling or delaying the progress of the match will be regarded as unsportsmanlike conduct.
+Intentionally stalling or delaying the progress of the match shall be regarded as unsportsmanlike conduct.
 
 This includes but IS NOT LIMITED to:
 - Excessive and/or lengthy use of the game pause feature
 - Excessive time spent in the Trader period without readying up
 - Excessive time spent completing the wave (such as leaving ZEDs alive without killing them)
 
-These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They will be regarded as unsportsmanlike conduct if it is judged by staff to be excessive, regardless of the reason. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
+These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They shall be regarded as unsportsmanlike conduct if it is judged by staff to be excessive, regardless of the reason. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
 
 ### 11.4 - Communication to Harass or Impede
-Any form of **written, verbal, or other communication** or actions which are excessive, toxic, or otherwise meant to harass players or impede the progress of the match will be regarded as unsportsmanlike conduct.
+Any form of **written, verbal, or other communication** or actions which are excessive, toxic, or otherwise meant to harass players or impede the progress of the match shall be regarded as unsportsmanlike conduct.
 
 This includes but IS NOT LIMITED to:
 - Excessive use of text chat in the form of binds or callouts that are spammy in nature (grenade binds are okay)
@@ -925,7 +925,7 @@ This includes but IS NOT LIMITED to:
 - Excessive use of voice chat that does not reflect traditional team communication norms or are spammy and/or obnoxious
 - Use of movement mechanics and/or animations which aim to mock or taunt individuals (t-bagging, etc)
 
-These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They also display a toxic disregard for common courtesy, respect, and maturity and have the capability to hurt the public image of the tournament as a whole. They will be regarded as unsportsmanlike conduct if it is judged by the Tournament Staff to be excessive, regardless of the reason. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
+These actions disrupt the normal flow of the match and frustrate the expectations of the spectators and other players. They also display a toxic disregard for common courtesy, respect, and maturity and have the capability to hurt the public image of the tournament as a whole. They shall be regarded as unsportsmanlike conduct if it is judged by the Tournament Staff to be excessive, regardless of the reason. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
 
 ### 11.5 - Lack of Professionalism
 Any competitor who displays a **lack of professionalism** within their team or to their opponent(s) is guilty of unsportsmanlike conduct.
@@ -935,12 +935,12 @@ This includes but IS NOT LIMITED TO:
 - Flammatory, abusive, or otherwise toxic behavior toward teammates or opponents for any reason (see [11.4](#114---communication-to-harass-or-impede))
 - Excessive celebration and/or behavior akin to "rubbing it in" to teammates or opponents
 
-Just play nice and say GG when the match is over, no matter who wins, and remember that this is just a game. Of all of the forms of unsportsmanlike conduct listed in this section, these will be held to the highest standard. A lack of professionalism and courtesy hurts the event as a whole and frustrates the expectations of the players who have signed up to play in the event.
+Just play nice and say GG when the match is over, no matter who wins, and remember that this is just a game. Of all of the forms of unsportsmanlike conduct listed in this section, these shall be held to the highest standard. A lack of professionalism and courtesy hurts the event as a whole and frustrates the expectations of the players who have signed up to play in the event.
 
 ### 11.6 - Player Avatars
 Do not use Steam Avatars that are grotesque, violent, obscene, or depict other disturbing or offensive imagery such as sexually explicit content, racist logos, or “shock” images. These will not be tolerated and can result in suspension from the tournament.
 
-Players who violate these rules will be given one chance to change their avatar, after which they will be removed from the tournament entirely.
+Players who violate these rules shall be given one chance to change their avatar, after which they shall be removed from the tournament entirely.
 
 ### 11.7 - Respect the Server Hosts
 Server hosts invest time and money to provide and maintain servers at no charge to anyone using them. This competition depends on their continued generosity. Therefore, do not break the rules of the server being used for the current match(es).
