@@ -79,7 +79,7 @@
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
     - [8.7.3 - Weapon Upgrade Restrictions](#873---weapon-upgrade-restrictions)
-  - [8.7.4 - Weapon Modifications](#874---weapon-modifications)
+    - [8.7.4 - Weapon Modifications](#874---weapon-modifications)
   - [8.8 - Mechanics](#88---mechanics)
   - [8.9 - Map Objectives](#89---map-objectives)
   - [8.10 - Trader Time](#810---trader-time)
