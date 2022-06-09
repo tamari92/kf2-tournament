@@ -669,7 +669,6 @@ The following **Weapon Upgrades** are restricted:
 #### 8.7.4 - Weapon Modifications
 Several weapons have been modified for use in this tournament. The modifications made are as follows:
 
-They are as follows:
 #### Hemogoblin
 ```diff
 + Tier increased from 3 to 4.
