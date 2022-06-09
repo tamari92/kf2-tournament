@@ -391,7 +391,7 @@ In the **Playoffs**, the Captains from both teams are required to coordinate a t
 For matches where a single team plays multiple games (such as during the Playoffs), there must be **no scheduled intermission** between games. In other words, the games must be each be played "back-to-back". Teams are allowed a maximum of **ten minutes** between each individual game to be back in the server and readied up to begin the next game.
 
 #### 6.5.2 - Substitutions
-**Substitutions ARE allowed, but ONLY between games.** Substitutions may only be made using players in the team's established roster ([5.2](#52---team-formation)). Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and shall be made within reason. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match.
+**Substitutions ARE allowed, but ONLY between games.** Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and shall be made within reason. Furthermore, only players in the team's established roster ([5.2](#52---team-formation)) are eligible to be substitutes. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match.
 
 ### 6.6 - Matches Between Two Teams
 For matches that occur between two separate teams (for example during the Playoffs), **an eight hour grace period is to be granted between each teams' individual set of games.**
