@@ -485,8 +485,6 @@ There are situations in which either the clients or the server may lose connecti
 #### 6.14.1 - Client Disconnects
 In the event that players crash or are disconnected involuntarily at other points throughout the match, Tournament Directors and Assistant Directors reserve the right to adjust all Score and Bonus values as well as the Match Timer to compensate if the situation presents extenuating circumstances. **There is no guarantee in these scenarios and the Tournament Director and Assistant Directors are the court of last resort for deciding whether or not points are to be reimbursed.** Their decisions are final and cannot be appealed.
 
-**It is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service. Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.**
-
 #### 6.14.2 - Server Disconnects
 In the event that the **server** itself crashes or otherwise loses connection, Tournament Directors in attendance are **permitted** to set the game state, which includes:
 - Changing the wave manually
@@ -505,7 +503,9 @@ It shall be the responsibility of the Tournament Staff in attendance (specifical
 After a restart, should further action be necessary, the Assistant Director and/or the Director shall be permitted to take action as they see fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
 
 #### 6.14.4 - Integrity & Sportsmanship
-As in [6.13.3](#6133-integrity---sportsmanship), it is considered bad sportsmanship for a player to falsify or manipulate their connection(s) in any way that would lead to loss of connection with the intent of achieving an advantage or otherwise circumventing the rules. All regulations outlined in [6.13.3](#6133-integrity---sportsmanship) apply to this clause as well.
+As in [6.13.3](#6133-integrity---sportsmanship), it is considered bad sportsmanship for a player to falsify or manipulate their connection(s) in any way that would lead to loss of connection with the intent of achieving an advantage or otherwise circumventing the rules. For client disconnections, it is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service. For server disconnections, it is seen as a breach of Competitive Integrity to intentionally abuse an exploit or bug that would cause the server to crash or disconnect players with the intent of achieving an advantage or otherwise circumventing the rules. 
+
+Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.
 
 ### 6.15 - Oversight
 Teams are permitted to ask a Tournament Director or Assistant Director to be present at the match to provide oversight and resolve any disputes.
