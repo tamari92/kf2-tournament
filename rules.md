@@ -256,11 +256,11 @@ The regular registration period begins **Apr 29, 2022** and closes on **May 27, 
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
 
 ### 4.3 - Overflow Pool
-Following the conclusion of the **regular registration** period, the **Overflow Pool** will be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players will be moved to the Overflow Pool. Players in the pool will be ordered by the date and time they signed up, meaning players who signed up earlier are prioritized higher.
+Following the conclusion of the **regular registration** period, the **Overflow Pool** shall be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players shall be moved to the Overflow Pool. Players in the pool shall be **grouped by experience** (see [5.22](#522---player-grouping) for more information) and further prioritized by the date and time they signed up.
 
-The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the buffer will be drawn from in order of priority in order to fill the vacant slot on the team.
+The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the appropriate player group buffer shall be drawn from in order of priority in order to fill the vacant slot on the team.
 
-After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage.** Players who sign up at this time will be automatically placed into the Overflow Pool.
+After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage.** Players who sign up at this time shall be automatically placed into the Overflow Pool.
 
 ### 4.4 - Banned Players
 Players who have already been banned from Tamari’s KF2 Servers for any reason are barred from participating in this tournament and any applications or sign-ups from these users will be discarded.
