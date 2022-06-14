@@ -586,6 +586,7 @@ ZedsReactToFriendlyFire=False
 ### 8.3 - Streaming & Casting
 All matches shall be streamed primarily at any the following links:
 - http://www.twitch.tv/TamariTM
+- http://www.twitch.tv/ZeElmo
 
 **Teams are NOT permitted decline their match(es) being streamed.**
 
