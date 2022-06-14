@@ -666,6 +666,8 @@ All **DLC Weapons** which are not banned shall be automatically unlocked on the 
 The following **Weapon Upgrades** are restricted:
 - Weapons cannot be upgraded to Tier 5
 - The Desert Eagle cannot be upgraded
+- The SPX 464 Centerfire cannot be upgraded
+- M1911 Pistol can only be upgraded once
 
 #### 8.7.4 - Weapon Modifications
 Several weapons have been modified for use in this tournament. The modifications made are as follows:
@@ -679,7 +681,7 @@ Several weapons have been modified for use in this tournament. The modifications
 ```
 #### HRG Crossboom
 ```diff
-- Self-damage multiplier increased from 0.25 to 0.75.
+- Self-damage multiplier increased from 0.25 to 0.65.
 ```
 
 ### 8.8 - Mechanics
