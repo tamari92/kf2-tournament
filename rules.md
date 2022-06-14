@@ -693,8 +693,8 @@ All **DLC Weapons** which are not banned shall be automatically unlocked on the 
 #### 8.7.3 - Weapon Upgrade Restrictions
 The following **Weapon Upgrades** are restricted:
 - Weapons cannot be upgraded to Tier 5
-- The Desert Eagle cannot be upgraded
-- The SPX 464 Centerfire cannot be upgraded
+- Desert Eagle cannot be upgraded
+- SPX 464 Centerfire cannot be upgraded
 - M1911 Pistol can only be upgraded once
 
 #### 8.7.4 - Weapon Modifications
