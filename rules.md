@@ -161,16 +161,16 @@ Through CD, the following can be achieved:
 # Section 2: Tournament Administration
 ### 2.1 - Tournament Staff
 **Tournament Director**
-- TBD
+- Tamari
 
 **Assistant Director(s)**
-- TBD
+- ZeElmo
 
 **Commentator(s)**
-- TBD
+- ZeElmo
 
 **Streamer(s)**
-- TBD
+- ZeElmo
 
 ### 2.2 - Disputes
 The Tournament Directors are the sole arbiters and court of last resort for all disputes. Their decisions are final and cannot be appealed.
@@ -193,15 +193,42 @@ The Tournament Directors reserve the right to impose any sanction on any competi
 
 #### [Preliminary Schedule]
 ```
-TBD
+Jun 15      Official Tournament Announcement.
+            Regular sign-ups open.
+-------------------------------------------------------------------
+Jul 10      Regular sign-ups close.      
+            Overflow sign-ups begin.
+            Map Pool announced.
+-------------------------------------------------------------------
+Jul 11      Players sorted into Player Groups.
+            Mentor Assignments announced.
+            Co-Mentor Assignments begin.
+-------------------------------------------------------------------
+Jul 13      Co-Mentor Assignments announced.
+            Players assigned to teams.
+            Map Pool finalized.
+-------------------------------------------------------------------
+Jul 18       Overflow sign-ups end.
 ```
 #### [Group Stage Schedule]
 ```
-TBD
+Jul 18      Group Stage Round 1 begins and match details revealed.
+-------------------------------------------------------------------
+Jul 25      Group Stage Round 1 ends.
+            Group Stage Round 2 begins and match details revealed.
+-------------------------------------------------------------------
+Aug 1       Group Stage Round 2 ends.
+            Group Stage Round 3 begins and match details revealed.
+-------------------------------------------------------------------
+Aug 8       Group Stage Round 3 ends.
 ```
 #### [Playoffs Schedule]
 ```
-TBD
+Aug 8               Playoff Brackets and match details revealed.
+-------------------------------------------------------------------
+Aug 8 - Aug 15      Semifinals
+-------------------------------------------------------------------
+Aug 15 - Aug 22      Finals
 ```
 
 ### 3.2 - Format
@@ -250,7 +277,7 @@ TBD
 
 # Section 4: Registration Process
 ### 4.1 - Registration
-The regular registration period begins `TBD` and closes on `TBD`, lasting exactly `TBD`.
+The regular registration period begins `Jun 15, 2022` and closes on `Jul 10, 2022`, lasting exactly `25 days`.
 
 ### 4.2 - Double Registration
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
