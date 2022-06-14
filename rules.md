@@ -208,7 +208,7 @@ Jul 13      Co-Mentor Assignments announced.
             Players assigned to teams.
             Map Pool finalized.
 -------------------------------------------------------------------
-Jul 18       Overflow sign-ups end.
+Jul 18      Overflow sign-ups end.
 ```
 #### [Group Stage Schedule]
 ```
@@ -228,7 +228,7 @@ Aug 8               Playoff Brackets and match details revealed.
 -------------------------------------------------------------------
 Aug 8 - Aug 15      Semifinals
 -------------------------------------------------------------------
-Aug 15 - Aug 22      Finals
+Aug 15 - Aug 22     Finals
 ```
 
 ### 3.2 - Format
