@@ -12,7 +12,8 @@ The following guidelines are intended to establish a set of standards designed t
 Every Tournament Streamer at minimum should:
 ```
 1. Be able to run the game on MEDIUM to HIGH graphics settings (HIGH is preferred).
-2. Have enough internet bandwidth and good enough hardware to stream at at least 1080p (1920x1080 or 1920x1200) resolution.
+2. Have enough internet bandwidth and sufficient hardware to stream at at least 720p (1280x720 16:9 or 1280x800 16:10) resolution. 
+3. Have enough internet bandwidth and sufficient hardware to stream at at least 60 frames per second.
 ```
 
 
@@ -29,9 +30,8 @@ The presence of these mods can detract from the production value / professionali
 
 
 ## III. Stream Resolution & Framerate
-Please stream at *at least* **1080p** (`1920x1080` or `1920x1200`) resolution.
-
-60 Frames per Second is strongly preferred, but not required.
+Please stream at *at least* **720p** (`1280x720` 16:9 or `1280x800` 16:10) resolution. **1080p** (`1920x1080` 16:9 or `1920x1200` 16:10) is preferred.
+60 frames per second is required as it provides the best visual fidelity possible for the viewers. Please make sure you have both the bandwidth and hardware to stream at this quality.
 
 
 ## IV. Overlays & Stream Elements
