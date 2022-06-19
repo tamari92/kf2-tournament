@@ -197,18 +197,17 @@ Jun 20      Official Tournament Announcement.
             Regular sign-ups open.
 -------------------------------------------------------------------
 Jul 15      Regular sign-ups close.      
-            Overflow sign-ups begin.
+            Overflow sign-ups open.
             Map Pool announced.
 -------------------------------------------------------------------
 Jul 16      Players sorted into Player Groups.
-            Mentor Assignments announced.
-            Co-Mentor Assignments begin.
+            Captains announced.
+            Captains choose their Co-Captains.
 -------------------------------------------------------------------
-Jul 17      Co-Mentor Assignments announced.
+Jul 17      Co-Captain pairings finalized.
             Player Draft.
-            Map Pool finalized.
 -------------------------------------------------------------------
-Jul 25      Overflow sign-ups end.
+Jul 25      Overflow sign-ups close.
 ```
 #### [Group Stage Schedule]
 ```
@@ -222,7 +221,7 @@ Aug 8       Group Stage Round 2 ends.
 -------------------------------------------------------------------
 Aug 15      Group Stage Round 3 ends.
 ```
-#### [Playoffs Schedule]
+####  [Playoffs Schedule]
 ```
 Aug 15              Playoff Brackets and match details revealed.
 -------------------------------------------------------------------
