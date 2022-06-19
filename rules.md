@@ -193,42 +193,42 @@ The Tournament Directors reserve the right to impose any sanction on any competi
 
 #### [Preliminary Schedule]
 ```
-Jun 15      Official Tournament Announcement.
+Jun 20      Official Tournament Announcement.
             Regular sign-ups open.
 -------------------------------------------------------------------
-Jul 10      Regular sign-ups close.      
+Jul 15      Regular sign-ups close.      
             Overflow sign-ups begin.
             Map Pool announced.
 -------------------------------------------------------------------
-Jul 11      Players sorted into Player Groups.
+Jul 16      Players sorted into Player Groups.
             Mentor Assignments announced.
             Co-Mentor Assignments begin.
 -------------------------------------------------------------------
-Jul 13      Co-Mentor Assignments announced.
-            Players assigned to teams.
+Jul 17      Co-Mentor Assignments announced.
+            Player Draft.
             Map Pool finalized.
 -------------------------------------------------------------------
-Jul 18      Overflow sign-ups end.
+Jul 25      Overflow sign-ups end.
 ```
 #### [Group Stage Schedule]
 ```
-Jul 18      Group Stage Round 1 begins and match details revealed.
+Jul 25      Group Stage Round 1 begins and match details revealed.
 -------------------------------------------------------------------
-Jul 25      Group Stage Round 1 ends.
+Aug 1       Group Stage Round 1 ends.
             Group Stage Round 2 begins and match details revealed.
 -------------------------------------------------------------------
-Aug 1       Group Stage Round 2 ends.
+Aug 8       Group Stage Round 2 ends.
             Group Stage Round 3 begins and match details revealed.
 -------------------------------------------------------------------
-Aug 8       Group Stage Round 3 ends.
+Aug 15      Group Stage Round 3 ends.
 ```
 #### [Playoffs Schedule]
 ```
-Aug 8               Playoff Brackets and match details revealed.
+Aug 15              Playoff Brackets and match details revealed.
 -------------------------------------------------------------------
-Aug 8 - Aug 15      Semifinals
+Aug 15 - Aug 22     Semifinals
 -------------------------------------------------------------------
-Aug 15 - Aug 22     Finals
+Aug 22 - Aug 29     Finals
 ```
 
 ### 3.2 - Format
@@ -277,7 +277,7 @@ TBD
 
 # Section 4: Registration Process
 ### 4.1 - Registration
-The regular registration period begins `Jun 15, 2022` and closes on `Jul 10, 2022`, lasting exactly `25 days`.
+The regular registration period begins `Jun 20, 2022` and closes on `Jul 15, 2022`, lasting exactly `25 days`.
 
 ### 4.2 - Double Registration
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
@@ -287,7 +287,7 @@ Following the conclusion of the **regular registration** period, the **Overflow 
 
 The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the appropriate player group buffer shall be drawn from in order of priority in order to fill the vacant slot(s) on the team.
 
-After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage.** Players who sign up at this time shall be automatically placed into the Overflow Pool.
+After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage** (Jul 25, 2022). Players who sign up at this time shall be automatically placed into the Overflow Pool.
 
 ### 4.4 - Banned Players
 Players who have already been banned from Tamari’s KF2 Servers for any reason are barred from participating in this tournament and any applications or sign-ups from these users shall be discarded.
