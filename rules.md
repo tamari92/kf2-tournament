@@ -475,9 +475,9 @@ Additionally, teams are **not permitted** to add new players to their roster in 
 ### 6.12 - Proof of Play
 "Proof of Play" refers to the team providing evidence or "proof" that a match was played in its entirety and with respect to the rules outlined in this document.
 
-Proof of play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
+Proof of Play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
 
-When proof of play is required, the following **must** be provided:
+When Proof of Play is required, the following **must** be provided:
 1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
 2. A screenshot of the end-game scoreboard *with all players present*
 
