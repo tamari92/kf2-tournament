@@ -262,7 +262,7 @@ In this stage, **both teams play a single game individually.** Teams playing in 
 #### [Finals]
 The final match of the tournament is held between the two teams that advanced from the Semifinals.
 
-This stage begins **immediately after the last Semifinals match is played** and extends until no later than **Feb 14.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match. 
+This stage begins **immediately after the last Semifinals match is played.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match. 
 
 In this stage, **both teams play two games in a row.** The cumulative score earned across both games becomes the team's final score for the match. The team that earns the highest score wins the tournament.
 
