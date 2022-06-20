@@ -50,7 +50,7 @@
   - [6.8 - Tardiness](#68---tardiness)
   - [6.9 - No-shows](#69---no-shows)
   - [6.10 - Ringers & Substitutes](#610---ringers--substitutes)
-  - [6.11 - Captain Participation](#611---mentor-participation)
+  - [6.11 - Captain Participation](#611---captain-participation)
   - [6.12 - Proof of Play](#612---proof-of-play)
   - [6.13 - Multiple Attempts](#613---multiple-attempts)
     - [6.13.1 - Group Stage](#6131---group-stage)
@@ -445,13 +445,13 @@ Additionally, teams are **not permitted** to add new players to their roster in 
 ### 6.12 - Proof of Play
 "Proof of Play" refers to the team providing evidence or "proof" that a match was played in its entirety and with respect to the rules outlined in this document.
 
-Proof of play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
+Proof of Play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
 
 When proof of play is required, the following **must** be provided:
 1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
 2. A screenshot of the end-game scoreboard *with all players present*
 
-**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Captain** must deliver these directly to the one of the Tournament Directors following the conclusion of the match.
+**ALL** of the above items are required to serve as suitable Proof of Play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Captain** must deliver these directly to the one of the Tournament Directors within **24 hours** following the conclusion of the match.
 
 In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match will be subject to the **Scheduling Deadline**, should one exist.
 In the worst case, a team will earn a **zero score** for the match.
@@ -536,7 +536,7 @@ TBD
 All matches will be streamed primarily at any the following links:
 - http://www.twitch.tv/TamariTM
 
-**Teams are NOT permitted decline their match(es) being streamed.**
+**Teams are NOT permitted to decline their match(es) being streamed.**
 
 **All members of a team ARE permitted (and are welcome) to record, stream, and upload their matches to their personal media accounts.** The tournament organization does not own the content players produce from their matches.
 
