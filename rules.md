@@ -530,11 +530,7 @@ In the event that the **server** itself crashes or otherwise loses connection, T
 In situations where a match was not streamed by an official Tournament Streamer, incontrovertible evidence must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken.
 
 #### 6.14.3 - Restarts
-In the event of a Loss of Connection, a team may request a restart with no penalty provided that the event occurred **prior to the beginning of Wave 3**. After the beginning of Wave 3, restarts in the wake of a crash or disconnect shall (formally) be forbidden. This is primarily for the respect of the time of all parties involved in the match as well as the spectators/viewers.
-
-It shall be the responsibility of the Tournament Staff in attendance (specifically the Assistant Directors and/or the Director) to approve/deny a request to restart in the wake of a client or server crash/disconnect. Only one restart may be made **per match** in this manner. Should a match consists of multiple games, **only one restart** shall be allowed between all games.
-
-After a restart, should further action be necessary, the Assistant Director and/or the Director shall be permitted to take action as they see fit to resolve the situation. In general, the Assistant Directors and/or the Director shall retain the authority to partially or completely supersede this clause at their own discretion should circumstances warrant it.
+In the event of a Loss of Connection, the Tournament Staff may grant a restart if circumstances warrant it. It shall solely be the responsibility of the Assistant Director(s) in attendance to approve/deny a request to restart in the wake of a client or server crash/disconnect.
 
 #### 6.14.4 - Integrity & Sportsmanship
 As in [6.13.3](#6133---integrity--sportsmanship), integrity and sportsmanship are demanded from players in regards to the above clauses.
