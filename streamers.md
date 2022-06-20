@@ -30,8 +30,9 @@ The presence of these mods can detract from the production value / professionali
 
 
 ## III. Stream Resolution & Framerate
-Please stream at *at least* **720p** (`1280x720` 16:9 or `1280x800` 16:10) resolution. **1080p** (`1920x1080` 16:9 or `1920x1200` 16:10) is preferred.
-60 frames per second is required as it provides the best visual fidelity possible for the viewers. Please make sure you have both the bandwidth and hardware to stream at this quality.
+Please stream at *at least* **720p** (1280x720 @ 16:9 or 1280x800 @ 16:10) resolution. Though, **1080p** (1920x1080 @ 16:9 or 1920x1200 @ 16:10) is highly preferred.
+
+*60 frames per second* is **required** as it provides the best visual fidelity possible for the viewers. Please make sure you have both the bandwidth and hardware to stream at this quality.
 
 
 ## IV. Overlays & Stream Elements
