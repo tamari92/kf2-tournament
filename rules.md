@@ -413,14 +413,17 @@ In the **Group Stage**, the Scheduling Deadline is **48 hours** before the end o
 In the **Playoffs**, the Captains from both teams are required to coordinate a time to play their games and relay this information to the Tournament Staff at least **48 hours** before the agreed-upon match start time. The earlier, the better.
 
 ### 6.5 - Matches With Multiple Games
+The following sections are relevant during the Playoffs phase. See [3.2.2](#322---playoffs) for more information.
+
 #### 6.5.1 - Intermission
-For matches where a single team plays multiple games (such as during the Playoffs), there must be **no scheduled intermission** between games. In other words, the games must be each be played "back-to-back". Teams are allowed a maximum of **ten minutes** between each individual game to be back in the server and readied up to begin the next game.
+For matches where a single team plays multiple games, there must be **no scheduled intermission** between games. In other words, the games must be each be played "back-to-back". Teams are allowed a maximum of **ten minutes** between each individual game to be back in the server and readied up to begin the next game.
 
 #### 6.5.2 - Substitutions
 **Substitutions ARE allowed, but ONLY between games.** Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and shall be made within reason. Furthermore, only players in the team's established roster ([5.2](#52---team-formation)) are eligible to be substitutes. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match.
 
 ### 6.6 - Matches Between Two Teams
-For matches that occur between two separate teams (for example during the Playoffs), **an eight hour grace period is to be granted between each teams' individual set of games.**
+This section is relevant during the Playoffs phase. See [3.2.2](#322---playoffs) for more information.
+For matches that occur between two separate teams, **an eight hour grace period is to be granted between each teams' individual set of games.**
 
 For example, if Team A schedules their match on **March 1 @ 12:00 PM**, then Team B's game(s) must begin **no earlier than March 1 @ 4:00 AM (8 hours prior)** and **no later than March 1 @ 8:00 PM (8 hours after)**. Note that the eight hour grace period is applied relative to the **start time** of the **first game in the set** specifically, rather than the time the team finishes playing *all* of their game(s). This means that if Team A schedule to play their set of games at some time, then Team B has eight hours from that time to play their game(s). Team B need not *finish* their game(s) by the end of the grace period, but rather *start* them.
 
