@@ -50,7 +50,7 @@
   - [6.8 - Tardiness](#68---tardiness)
   - [6.9 - No-shows](#69---no-shows)
   - [6.10 - Ringers & Substitutes](#610---ringers--substitutes)
-  - [6.11 - Captain Participation](#611---mentor-participation)
+  - [6.11 - Captain Participation](#611---captain-participation)
   - [6.12 - Proof of Play](#612---proof-of-play)
   - [6.13 - Multiple Attempts](#613---multiple-attempts)
     - [6.13.1 - Group Stage](#6131---group-stage)
@@ -335,7 +335,7 @@ The formation of teams is conducted in five distinct phases:
 - [Player Draft](#525---player-draft)
 
 #### 5.2.1 - Player Sign-ups
-As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **28 days.**
+As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **25 days.** See [3.1](#31---schedule) for more information.
 
 On the signup form, an option is given that allows the participant to specify their preferred role within the team, either **Captain**, **Co-Captain**, or **Player**. Note that a player’s specified preference may not reflect their actual assigned role when the teams are finally established.
 
@@ -477,7 +477,7 @@ When proof of play is required, the following **must** be provided:
 1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
 2. A screenshot of the end-game scoreboard *with all players present*
 
-**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Captain** must deliver these directly to the one of the Tournament Directors following the conclusion of the match.
+**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Captain** must deliver these directly to the one of the Tournament Directors within **24 hours** following the conclusion of the match.
 
 In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match shall be subject to the **Scheduling Deadline**, should one exist.
 In the worst case, a team will earn a **zero score** for the match.
@@ -587,7 +587,7 @@ All matches shall be streamed primarily at any the following links:
 - http://www.twitch.tv/TamariTM
 - http://www.twitch.tv/ZeElmo
 
-**Teams are NOT permitted decline their match(es) being streamed.**
+**Teams are NOT permitted to decline their match(es) being streamed.**
 
 **All members of a team ARE permitted (and are welcome) to record, stream, and upload their matches to their personal media accounts.** The tournament organization does not own the content players produce from their matches.
 
