@@ -423,6 +423,7 @@ For matches where a single team plays multiple games, there must be **no schedul
 
 ### 6.6 - Matches Between Two Teams
 This section is relevant during the Playoffs phase. See [3.2.2](#322---playoffs) for more information.
+
 For matches that occur between two separate teams, **an eight hour grace period is to be granted between each teams' individual set of games.**
 
 For example, if Team A schedules their match on **March 1 @ 12:00 PM**, then Team B's game(s) must begin **no earlier than March 1 @ 4:00 AM (8 hours prior)** and **no later than March 1 @ 8:00 PM (8 hours after)**. Note that the eight hour grace period is applied relative to the **start time** of the **first game in the set** specifically, rather than the time the team finishes playing *all* of their game(s). This means that if Team A schedule to play their set of games at some time, then Team B has eight hours from that time to play their game(s). Team B need not *finish* their game(s) by the end of the grace period, but rather *start* them.
