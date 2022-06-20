@@ -50,7 +50,7 @@ Some streams have the game sectioned off on one specific part of the overlay. Pl
 
 
 Here is a link to a hi-res version of the tournament banner:
-- https://i.imgur.com/UVd2Ano.png
+- https://i.imgur.com/i4MdH8U.png
 
 The server already takes care of displaying this banner in-game to the spectators, however you are more than welcome to display this banner elsewhere on your stream (during AFK scenes, starting soon scenes, etc).
 
