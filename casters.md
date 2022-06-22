@@ -64,7 +64,7 @@ entirely and it can severely detract from the professionalism of the stream.
 ## II. War Rooms
 A War Room refers to the commentators "dropping in" to the team's voice chat and listening in on their comms with the main purpose typically being to provide more personalized insight about the match state from the team's perspective.
 
-There are no mandated intervals for which War Rooms can be utilized, except for when the team vetoes the use of their chat room as a War Room. Should that be the case, the Mentor is required to give written confirmation to the casters that they do not wish to be disturbed for the duration of the match. If no such confirmation is received, **explicitly in writing**, then the team currently playing the match maintains **no expectation of privacy**. Should War Rooms be available for a match, they can be listened in on as long as all casters agree.
+There are no mandated intervals for which War Rooms can be utilized, except for when the team vetoes the use of their chat room as a War Room. Should that be the case, the Captain is required to give written confirmation to the casters that they do not wish to be disturbed for the duration of the match. If no such confirmation is received, **explicitly in writing**, then the team currently playing the match maintains **no expectation of privacy**. Should War Rooms be available for a match, they can be listened in on as long as all casters agree.
 
 During a War Room, there is to be **no talking or distractions** from the present streamers and commentators. As far as the players are concerned, we should be ghosts that are merely there to watch and then leave after a short while. **Talking can be very disruptive to the team and have an impact on the results of the match.**
 
@@ -104,7 +104,7 @@ strict bias against the players, the team, and the team's performance. In other 
 make players feel uncomfortable. Always give players the benefit of the doubt by giving them the opportunity to decline answering 
 the question(s) should they desire.
 6.  Players and teams are allowed to decline an interview entirely. Following the conclusion of the match, either ask directly in 
-the in-game chat or DM the team's Mentor (via Steam or Discord) to ask them if they'd like to participate in an interview. 
+the in-game chat or DM the team's Captain (via Steam or Discord) to ask them if they'd like to participate in an interview. 
 Should a team decline the interview, do not pressure them.
 ```
 
