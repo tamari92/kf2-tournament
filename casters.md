@@ -94,16 +94,17 @@ Interviews are subject to the following guidelines:
 ```
 1.  Interviews shall only be conducted if the Tournament Streamer in attendance has time to stream the full interview. Please 
 ask the streamer in attendance before the match starts if you know you'd like to conduct interviews.
-2.  For matches where two teams are playing AND both teams' matches are scheduled back-to-back, interviews shall only
+2.  Interviews shall be conducted with a maximum of TWO players from the team in order to keep the interview concise.
+3.  For matches where two teams are playing AND both teams' matches are scheduled back-to-back, interviews shall only
 be conducted **after both teams have played** to avoid delaying the subsequent matches.
-3.  For matches where a team plays multiple games in a row, interviews shall only be conducted **after all games are complete** 
+4.  For matches where a team plays multiple games in a row, interviews shall only be conducted **after all games are complete** 
 to avoid delays.
-4.  Interviews shall extend no longer than 20 minutes per team.
-5.  Interview questions shall not be framed in any way which is derogatory, inflammatory, and otherwise negative or contains 
+5.  Interviews shall extend no longer than 20 minutes per team.
+6.  Interview questions shall not be framed in any way which is derogatory, inflammatory, and otherwise negative or contains 
 strict bias against the players, the team, and the team's performance. In other words, do not ask questions which belittle or 
 make players feel uncomfortable. Always give players the benefit of the doubt by giving them the opportunity to decline answering 
 the question(s) should they desire.
-6.  Players and teams are allowed to decline an interview entirely. Following the conclusion of the match, either ask directly in 
+7.  Players and teams are allowed to decline an interview entirely. Following the conclusion of the match, either ask directly in 
 the in-game chat or DM the team's Captain (via Steam or Discord) to ask them if they'd like to participate in an interview. 
 Should a team decline the interview, do not continue to pressure them.
 ```
