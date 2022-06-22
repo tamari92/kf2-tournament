@@ -3,7 +3,7 @@
 # Tournament Streamer Guidelines
 This document is meant to give **Tournament Streamers** a few guidelines on streaming matches for the tournament.
 
-First off, **thank you for volunteering to help with streaming matches!** As tournament streamers, we are the viewers' window to the action. Put simply, without you, this event would not be a success.
+First off, **thank you for volunteering to help with streaming matches!** As streamers, we are the viewers' window to the action. Without you, this event would have no exposure to the general public and thus not be a success.
 
 The following guidelines are intended to establish a set of standards designed to normalize all tournament-related streams. **These guidelines are required to be followed.** Feel free to ask the Tournament Director if you have any questions.
 
@@ -20,7 +20,7 @@ Every Tournament Streamer at minimum should:
 ## I. Game Settings
 Please set all KF2 Graphics options to the highest value(s) whenever possible to ensure the best quality image for the viewers. If nothing else, please make sure that at least Texture and Model Quality are set to **HIGH**.
 
-Please turn off all in-game music. Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself.
+**Please turn off all in-game music.** Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself.
 
 
 ## II. Game Modifications
@@ -42,7 +42,7 @@ This includes:
 1. Video cameras of any type
 2. Subscriber / alert feeds
 3. Any notifications and/or alerts (subscriber notifications, raids, donations, etc)
-4. Any overlays / visual elements that are not designed to be a border of some sort
+4. Any overlays / visual elements that are not directly related to the tournament and it's theme(s)
 5. STEAM overlay notifications and sounds
 ```
 Furthermore, please set your streaming scene such that the game view takes up **the entire scene**.
@@ -90,13 +90,23 @@ Disable HUD                            True
 ```
 
 
-## VI. Conduct
+## VI. Camera Control Keybinds
+### Camera Descent
+An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera.
+
+The steps to set this up are as follows:
+1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
+2. Search for the `Name=Duck` input input and add the following to the end of the **Command** field: ` | Axis aUp Speed=-1.0`
+3. Repeat this for ALL instances of the Duck keybind
+
+
+## VII. Conduct
 Please keep it professional. Your behavior directly reflects on the tournament organization as a whole.
 
 In the event that a Tournament Streamer also functions as a **Commentator**, they should be as professional as possible and avoid using excessive foul language and/or behaving in a crude or immature manner.
 
 
-## VII. Ownership
+## VIII. Ownership
 Tamari's KF2 Tournaments does not own the content you produce related to our tournament(s).
 
 However, by agreeing to stream the matches, you consent to us downloading your VODs and uploading them to the official tournament channels (YouTube, etc).
