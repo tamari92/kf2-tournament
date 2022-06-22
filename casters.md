@@ -94,7 +94,7 @@ Interviews are subject to the following guidelines:
 ```
 1.  Interviews shall only be conducted if the Tournament Streamer in attendance has time to stream the full interview. Please 
 ask the streamer in attendance before the match starts if you know you'd like to conduct interviews.
-2.  For matches where two teams are playing AND where both teams' matches are scheduledback-to-back, interviews shall only
+2.  For matches where two teams are playing AND both teams' matches are scheduled back-to-back, interviews shall only
 be conducted **after both teams have played** to avoid delaying the subsequent matches.
 3.  For matches where a team plays multiple games in a row, interviews shall only be conducted **after all games are complete** 
 to avoid delays.
