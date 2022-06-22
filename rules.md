@@ -182,9 +182,9 @@ The Tournament Directors reserve the right to impose any sanction on any competi
 **Members of the Tournament Staff are permitted to participate in the tournament.** Where there may be an appearance of a conflict of interest, a staff member will yield to a counterpart if possible.
 
 **Tournament Commentators** and **Streamers** who are also playing in the tournament are subject to the following restrictions:
-- Streaming/commentating of ANY matches directly involving the streamer's/commentator's own team is strictly forbidden.
-- For matches in any round of the Group Stage, it is forbidden to stream a match UNLESS the match takes place at a time AFTER the streamer's/commentator's own team's match has already completed for that round.
-- Streaming/commentating is forbidden in the Playoffs stage if the streamer's/commentator's team is still a part of the tournament at the time the match takes place.
+- Streaming/commentating of ANY matches directly involving the Streamer's/Commentator's own team is strictly forbidden.
+- For matches in any round of the Group Stage, it is forbidden to stream a match UNLESS the match takes place at a time AFTER the Streamer's/Commentator's own team's match has already completed for that round.
+- Streaming/commentating is forbidden in the Playoffs stage if the Streamer's/Commentator's team is still a part of the tournament at the time the match takes place.
 
 
 # Section 3: Tournament Structure
@@ -453,7 +453,7 @@ If something comes up that might affect the team’s ability to be present at th
 ### 6.9 - No-shows
 No-shows distort the results by unbalancing the tiebreakers. Moreover, they disappoint other competitors who have joined the tournament to participate in the competition.
 
-If you wish to withdraw from the tournament, please notify one of the tournament directors by the start of the **second round** of the Group Stage.
+If you wish to withdraw from the tournament, please notify one of the Tournament Directors by the start of the **second round** of the Group Stage.
 
 In the Group Stage, if a team fails to appear to any match, a **zero score** shall be assigned and that team must then contact Tournament Staff to confirm that they will play in the next round **by the scheduling deadline for that round**. Failure to do this will result the **team's removal from the tournament** without notice.
 
@@ -494,11 +494,11 @@ In the **Group Stage**, teams are permitted to make a **single re-attempt** at a
 
 **In the event that the second attempt results in a VICTORY (boss killed), the team suffers a 50% reduction to the Total Score earned**. This reduction occurs **after** all bonuses and penalties are applied to the Total Score. The score reduction cannot reduce the team's score beyond the maximum value of the Completion Score (CS) for the match. See [Section 7: Scoring](#section-7-scoring) for more information.
 
-Additionally, for ANY re-attempted match, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
+Additionally, for ANY re-attempted match, *regardless of VICTORY or DEFEAT*, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
 
 In the event that a crash occurs (either player or server), a retry may be granted by the attending Assistant Directors at their discretion. See [6.14](#614---loss-of-connection) for more information.
 
-Otherwise, there are no exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
+Otherwise, there are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.2 - Playoffs
 In the Playoffs phase, **multiple attempts are strictly forbidden** except in the case where a crash occurs. See [6.14](#614---loss-of-connection) for more information.
@@ -591,20 +591,20 @@ All matches shall be streamed primarily at any the following links:
 
 **All members of a team ARE permitted (and are welcome) to record, stream, and upload their matches to their personal media accounts.** The tournament organization does not own the content players produce from their matches.
 
-For matches that are streamed on the official channels, commentators and streamers shall be present to shoutcast the match.
+For matches that are streamed on the official channels, Commentators and Streamers shall be present to shoutcast the match.
 
-Though they are part of the Tournament Staff, commentators and streamers are **NOT** admins. Should an issue arise that requires the attention of an admin, one of the tournament directors should be contacted immediately.
+Though they are part of the Tournament Staff, Commentators and Streamers are **NOT** admins. Should an issue arise that requires the attention of an admin, one of the Tournament Directors should be contacted immediately.
 
-Despite this, commentators and streamers still exercise some control over the match as **referees**. Should something occur that either partially or completely violates one of the rules, they are permitted to ask the offending players to stop or take other appropriate actions within reason.
+Despite this, Commentators and Streamers still exercise some control over the match as **referees**. Should something occur that either partially or completely violates one of the rules, they are permitted to ask the offending players to stop or take other appropriate actions within reason.
 
 If all else fails, a Tournament Director should be informed as soon as possible so that appropriate further action can be taken.
 
-**The tournament organization does not own the content created from the matches by the commentators and streamers.** Commentators and streamers are free to upload their recordings to their own media channels, however the Tournament Staff is also permitted to download and upload the recordings to the official tournament channel(s).
+**The tournament organization does not own the content created from the matches by the Commentators and Streamers.** Commentators and Streamers are free to upload their recordings to their own media channels, however the Tournament Staff are also permitted to download and upload the recordings to the official tournament channel(s).
 
 As stated in [2.4](#24---conflicts-of-interest), **Tournament Commentators** and **Streamers** who are also playing in the tournament are subject to the following restrictions:
-- Streaming/commentating of ANY matches directly involving the streamer's/commentator's own team is strictly forbidden.
-- For matches in any round of the Group Stage, it is forbidden to stream a match UNLESS the match takes place at a time AFTER the streamer's/commentator's own team's match has already completed for that round.
-- Streaming/commentating is forbidden in the Playoffs stage if the streamer's/commentator's team is still a part of the tournament at the time the match takes place.
+- Streaming/commentating of ANY matches directly involving the Streamer's/Commentator's own team is strictly forbidden.
+- For matches in any round of the Group Stage, it is forbidden to stream a match UNLESS the match takes place at a time AFTER the Streamer's/Commentator's own team's match has already completed for that round.
+- Streaming/commentating is forbidden in the Playoffs stage if the Streamer's/Commentator's team is still a part of the tournament at the time the match takes place.
 
 ### 8.4 - Voice Chat
 Teams will each be assigned a Voice Channel in the Tournament Discord Server that they are **required** to use for the match, even if they do not intend to use it to communicate with one another.
@@ -612,14 +612,14 @@ Teams will each be assigned a Voice Channel in the Tournament Discord Server tha
 Furthermore, **only the players currently playing in the match are allowed to be in Voice Chat.** Both the Captain and Co-Captain are subject to this rule as well. Violating this will result in receiving a **zero score** for the match and possible suspension from the tournament.
 
 #### 8.4.1 - War Rooms
-War Rooms shall be utilized in this tournament. A War Room refers to the streamers and commentators occasionally dropping into the team’s Voice Chat room to “listen in”. War Rooms will typically last for about 30 seconds and will only occur a few times per match.
+War Rooms shall be utilized in this tournament. A War Room refers to the Streamers and Commentators occasionally dropping into the team’s Voice Chat room to “listen in”. War Rooms will typically last for about 30 seconds and will only occur a few times per match.
 
 **Teams are allowed to veto the use of their Voice Channel as a War Room.** The team Captain must inform the Tournament Staff of this decision prior to the match Start Time.
 
 Commentators will not speak nor create any distractions when entering a channel, and players should generally not feel disturbed by their presence.
 
 ### 8.5 - Spectators
-Aside from Tournament Staff and other authorized parties (such as commentators and streamers), no Spectators shall be allowed in the server at any time during a match.
+Aside from Tournament Staff and other authorized parties (such as Commentators and Streamers), no Spectators shall be allowed in the server at any time during a match.
 
 This includes members of the team who are not playing in the match. If a non-participating team member joins the server as a spectator, the team will receive a **zero point score** for the round.
 
@@ -866,7 +866,7 @@ All other modifications, edits, tools, and utilities NOT listed in [9.4](#94---p
 
 # Section 10: Exploits
 ### 10.1 - Permitted Exploits
-Though the following exploits are allowed, Tournament Staff and commentators reserve the right to ask players to refrain if they feel they are being abused in a way that reflects unsportsmanlike conduct, distasteful intent, or are otherwise excessive in nature. Failure to comply can result in earning a zero score for the round, or possibly more, dependent on severity. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
+Though the following exploits are allowed, Tournament Staff and Commentators reserve the right to ask players to refrain if they feel they are being abused in a way that reflects unsportsmanlike conduct, distasteful intent, or are otherwise excessive in nature. Failure to comply can result in earning a zero score for the round, or possibly more, dependent on severity. Tournament Staff have full discretion in these matters and are not required to justify their decision(s).
 
 #### 10.1.1 - Reload Cancelling
 Reload cancelling, of any form, is permitted in this tournament.
