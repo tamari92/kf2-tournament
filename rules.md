@@ -684,7 +684,7 @@ The following Weapons are **banned** and are prohibited from being used in this 
 - **Support:** HRG Blast Brawlers, Frost Fang, Blunderbuss
 - **SWAT:** HRG Bastion, Glock 18 & Riot Shield, HRG Stunner
 
-**Banned weapons are completely removed from the Trader Pod and shall be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
+**Banned weapons are completely removed from the Trader Pod and are completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is technically banned for all other Perks that can use the weapon as well.
 
 #### 8.7.2 - DLC Weapons
 All **DLC Weapons** which are not banned shall be automatically unlocked on the tournament servers, even if no player on the team actually owns the weapons.
@@ -732,7 +732,7 @@ Examples of what is fixed/reverted:
 #### Perk Skills that alter Maximum Health
 In the base game, some Perk Skills can be exploited to infinitely earn money, namely those skills which increase or decrease the player's maximum health.
 
-These skills have been modified such that the player will now be automatically completely healed should their health already be at 100% upon switching skills. If the player's health is below 100%, their health will not be set automatically. This is to allow Field Medics to heal the player and earn Dosh from the healing. However, once the player is at 100% Health, it shall be impossible to lose health due to players being invincible during the Trader period.
+These skills have been modified such that the player will now be automatically completely healed should their health already be at 100% upon switching skills. If the player's health is below 100%, their health will not be set automatically. This is to allow Field Medics to heal the player and earn Dosh from the healing. However, once the player is at 100% Health, it is impossible to lose health due to players being invincible during the Trader period, which prevents money from being earned again.
 
 The skills affected include:
 ```prolog
