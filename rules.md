@@ -473,15 +473,15 @@ Additionally, teams are **not permitted** to add new players to their roster in 
 **The Captain and Co-Captain are not required to play in matches in this tournament, however they are strongly encouraged to participate in order to better lead their team.**
 
 ### 6.12 - Proof of Play
-**Proof of Play** refers to the team providing evidence or "proof" that a match was played in its entirety and with respect to the rules outlined in this document.
+**Proof of Play** refers to the team providing evidence ("proof") that a match was played in its entirety and with respect to the rules outlined in this document.
 
 Proof of Play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
 
 When Proof of Play is required, the following **must** be provided:
-1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player recording/streaming the match **must** be one of the players actively participating in the match. See [8.5](#85---spectators) for more information.
+1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player(s) recording/streaming the match **must** be actively participating in the match. See [8.5](#85---spectators) for more information.
 2. A screenshot of the end-game scoreboard *with all players present*.
 
-**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** There is no upper bound to the "amount" of Proof of Play that can be presented. As such, in the case that a match is not streamed by an official Tournament Streamer, it is **strongly** recommended that multiple players in the match record and/or their POV for ultimate transparency. This also aids the Tournament Staff in resolving disputes more effectively, since those disputes will only be able to be assessed via the team's provided deliverables.
+**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by AT LEAST one player on the team.** There is no upper bound to the "amount" of Proof of Play that can be presented. As such, in the case that a match is not streamed by an official Tournament Streamer, it is **strongly** recommended that multiple players in the match record and/or their POV for ultimate transparency. This also aids the Tournament Staff in resolving disputes more effectively, since those disputes will only be able to be assessed via the team's provided deliverables.
 
 The team's **Captain** must deliver all Proof of Play deliverables directly to the one of the Tournament Directors within **24 hours** following the conclusion of the match.
 
