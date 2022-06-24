@@ -529,7 +529,7 @@ In the event that the **server** itself crashes or otherwise loses connection, T
 
 ... so that play may resume as normal.
 
-In situations where a match was not streamed by an official Tournament Streamer, incontrovertible evidence must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken.
+In situations where a match was not streamed by an official Tournament Streamer, **incontrovertible evidence** must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken. See [6.12](#612---proof-of-play) for more information.
 
 #### 6.14.3 - Restarts
 In the event of a Loss of Connection, the Tournament Staff may grant a restart if circumstances warrant it. It shall solely be the responsibility of the Assistant Director(s) in attendance to approve/deny a request to restart in the wake of a client or server crash/disconnect.
@@ -537,9 +537,9 @@ In the event of a Loss of Connection, the Tournament Staff may grant a restart i
 #### 6.14.4 - Integrity & Sportsmanship
 As in [6.13.3](#6133---integrity--sportsmanship), integrity and sportsmanship are demanded from players in regards to the above clauses.
 
-For client disconnections, it is seen as a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service with the intent of achieving an advantage or otherwise circumventing the rules. For server disconnections, it is seen as a breach of Competitive Integrity to intentionally abuse an exploit or bug that would cause the server to crash or disconnect players with the intent of achieving an advantage or otherwise circumventing the rules. 
+**For client disconnections, it is considered to be a breach of Competitive Integrity to frame an intentional disconnection as a crash or loss of internet service with the intent of achieving an advantage or otherwise circumventing the rules. For server disconnections, it is considered to be a breach of Competitive Integrity to intentionally abuse an exploit or bug that would cause the server to crash or disconnect players with the intent of achieving an advantage or otherwise circumventing the rules.**
 
-Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.
+Consequences for violation at minimum involve the team being assigned a **zero score** for the round, and at maximum, **explusion from the tournament entirely** and **banned** from all future events held by the Tamari's KF2 community.
 
 ### 6.15 - Oversight
 Teams are permitted to ask a Tournament Director or Assistant Director to be present at the match to provide oversight and resolve any disputes.
