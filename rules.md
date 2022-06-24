@@ -473,7 +473,7 @@ Additionally, teams are **not permitted** to add new players to their roster in 
 **The Captain and Co-Captain are not required to play in matches in this tournament, however they are strongly encouraged to participate in order to better lead their team.**
 
 ### 6.12 - Proof of Play
-"Proof of Play" refers to the team providing evidence or "proof" that a match was played in its entirety and with respect to the rules outlined in this document.
+**Proof of Play** refers to the team providing evidence or "proof" that a match was played in its entirety and with respect to the rules outlined in this document.
 
 Proof of Play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
 
