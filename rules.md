@@ -498,7 +498,7 @@ In the **Group Stage**, teams are permitted to make a **single re-attempt** at a
 
 Additionally, for ANY re-attempted match, *regardless of VICTORY or DEFEAT*, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher.**
 
-In the event that a crash occurs (either player or server), a retry may be granted by the attending Assistant Directors at their discretion. See [6.14](#614---loss-of-connection) for more information.
+In the event that a crash occurs (either player or server), a retry may be granted by the attending Assistant Directors at their discretion. This will usually only be permitted if the crash happened early in the match (preferably before Wave 3). See [6.14](#614---loss-of-connection) for more information.
 
 Otherwise, there are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
