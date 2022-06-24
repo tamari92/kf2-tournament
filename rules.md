@@ -496,7 +496,7 @@ In the **Group Stage**, teams are permitted to make a **single re-attempt** at a
 
 **In the event that the second attempt results in a VICTORY (boss killed), the team suffers a 50% reduction to the Total Score earned**. This reduction occurs **after** all bonuses and penalties are applied to the Total Score. The score reduction cannot reduce the team's score beyond the maximum value of the Completion Score (CS) for the match. See [Section 7: Scoring](#section-7-scoring) for more information.
 
-Additionally, for ANY re-attempted match, *regardless of VICTORY or DEFEAT*, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
+Additionally, for ANY re-attempted match, *regardless of VICTORY or DEFEAT*, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher.**
 
 In the event that a crash occurs (either player or server), a retry may be granted by the attending Assistant Directors at their discretion. See [6.14](#614---loss-of-connection) for more information.
 
@@ -508,11 +508,11 @@ In the Playoffs phase, **multiple attempts are strictly forbidden** except in th
 There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.3 - Integrity & Sportsmanship
-Retries may **only** be used in the situations outlined in [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. **It is considered bad sportsmanship to purposely throw the game or manipulate the game's state in order to earn a retry.** Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
+Retries may **only** be used in the situations outlined in [6.13.1](#6131---group-stage)/[6.13.2](#6132---playoffs) **and** if the current stage of the tournament permits it. **It is considered to be a breach of Competitive Integrity to purposely throw the game or manipulate the game's state in order to earn a retry.** Tournament Staff reserve the right to enact disciplinary measures if it is determined this is being abused.
 
 For matches that are not streamed by an official Tournament Streamer, *Proof of Play* (described in [6.12](#612---proof-of-play)) is required. **Records of all tournament matches played on the Match Servers are kept automatically by the server.** These reports will clearly display tampering should a team attempt to abuse this clause.
 
-**It is considered a breach of Competitive Integrity to make more attempts at a match than are allowed, especially if the team attempts to hide or obfuscate the results of these attempts from the Tournament Staff in any way. Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.**
+**It is considered to be a breach of Competitive Integrity to make more attempts at a match than are allowed, especially if the team attempts to hide or obfuscate the results of these attempts from the Tournament Staff in any way. Consequences for violation at minimum involve the team being assigned a zero score for the round, and at maximum, explusion from the tournament entirely and banned from all future events held by the Tamari's KF2 community.**
 
 ### 6.14 - Loss of Connection
 There are situations in which either the clients or the server may lose connection. These are handled separately in two subcases:
