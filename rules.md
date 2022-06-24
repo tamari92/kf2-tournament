@@ -478,15 +478,17 @@ Additionally, teams are **not permitted** to add new players to their roster in 
 Proof of Play is **always** required, *EXCEPT* in the case that a match is streamed by an official Tournament Streamer.
 
 When Proof of Play is required, the following **must** be provided:
-1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
-2. A screenshot of the end-game scoreboard *with all players present*
+1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player recording/streaming the match **must** be one of the players actively participating in the match. See [8.5](#85---spectators) for more information.
+2. A screenshot of the end-game scoreboard *with all players present*.
 
-**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Captain** must deliver these directly to the one of the Tournament Directors within **24 hours** following the conclusion of the match.
+**ALL** of the above items are required to serve as suitable proof of play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** There is no upper bound to the "amount" of Proof of Play that can be presented. As such, in the case that a match is not streamed by an official Tournament Streamer, it is **strongly** recommended that multiple players in the match record and/or their POV for ultimate transparency. This also aids the Tournament Staff in resolving disputes more effectively, since those disputes will only be able to be assessed via the team's provided deliverables.
 
-In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match shall be subject to the **Scheduling Deadline**, should one exist.
+The team's **Captain** must deliver all Proof of Play deliverables directly to the one of the Tournament Directors within **24 hours** following the conclusion of the match.
+
+In the best case, failure to provide Proof of Play will result in a team being forced to **replay the match**. The replayed match shall be subject to the **Scheduling Deadline**, should one exist.
 In the worst case, a team will earn a **zero score** for the match.
 
-**Please be honest. All match results shall be recorded by the server automatically. If a screenshot/recording/etc does not match our recorded statistics, it shall be considered cheating and the team may be disqualified from the tournament entirely.**
+**Please be honest. All match results shall be recorded by the server automatically. If a screenshot/recording/etc does not match our recorded statistics, it will be considered a breach of Competitive Integrity and the team may be disqualified from the tournament entirely.**
 
 ### 6.13 - Multiple Attempts
 #### 6.13.1 - Group Stage
