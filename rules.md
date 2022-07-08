@@ -71,10 +71,11 @@
     - [8.4.1 - War Rooms](#841---war-rooms)
   - [8.5 - Spectators](#85---spectators)
   - [8.6 - Perks](#86---perks)
-    - [8.6.1 - Perk Limits](#861---perk-limits)
-    - [8.6.2 - Perk Swapping](#862---perk-swapping)
-    - [8.6.3 - Perk Skills](#863---perk-skills)
-    - [8.6.4 - Perk Modifications](#864---perk-modifications)
+    - [8.6.1 - Perk Levels](#861---perk-levels)
+    - [8.6.2 - Perk Limits](#862---perk-limits)
+    - [8.6.3 - Perk Swapping](#863---perk-swapping)
+    - [8.6.4 - Perk Skills](#864---perk-skills)
+    - [8.6.5 - Perk Modifications](#865---perk-modifications)
   - [8.7 - Weapons](#87---weapons)
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
@@ -626,7 +627,10 @@ Aside from Tournament Staff and other authorized parties (such as Commentators a
 This includes members of the team who are not playing in the match. If a non-participating team member joins the server as a spectator, the team will receive a **zero point score** for the round.
 
 ### 8.6 - Perks
-#### 8.6.1 - Perk Limits
+#### 8.6.1 - Perk Levels
+Server mods will be in use for this tournament that will set the Perk Levels of all player Perks to 25. This means that players will not need to worry about having their Perks fully leveled to participate in the tournament.
+
+#### 8.6.2 - Perk Limits
 There are limits in place on the Perk composition the team can possess at any given time:
 - Maximum **one of each:** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist
 - Maximum **two total** from the Perk Group:
@@ -639,13 +643,13 @@ There are limits in place on the Perk composition the team can possess at any gi
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
-#### 8.6.2 - Perk Swapping
+#### 8.6.3 - Perk Swapping
 In the Lobby, players are freely allowed to change Perks, however after the match starts, **players will no longer be able to select a new Perk for the remainder of the match.**
 
-#### 8.6.3 - Perk Skills
+#### 8.6.4 - Perk Skills
 There are no restrictions on the changing of **Perk Skills** in this tournament. Players can alter their Perk's skills as often as they desire during the Trader period.
 
-#### 8.6.4 - Perk Modifications
+#### 8.6.5 - Perk Modifications
 Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
 #### Berserker
 ```diff
