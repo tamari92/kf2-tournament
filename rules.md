@@ -162,16 +162,38 @@ Through CD, the following can be achieved:
 # Section 2: Tournament Administration
 ### 2.1 - Tournament Staff
 **Tournament Director**
-- Tamari
+```
+- Tamari              76561197960854627
+```
 
 **Assistant Director(s)**
-- ZeElmo
+```
+- Boris the Animal    76561198030804560
+- illethP             76561197986122267
+- Jenny XJ-9          76561198058237584
+- Noot Indeed!        76561198027258105
+- ZeElmo              76561198019142154
+```
 
 **Commentator(s)**
-- ZeElmo
+```
+- aweeeesomj          76561198831194463
+- Boris the Animal    76561198030804560
+- indynick            76561197979820467
+- Jenny XJ-9          76561198058237584
+- Noot Indeed!        76561198027258105
+- Simple Rabbit       76561198868278791
+- ZeElmo              76561198019142154
+```
 
 **Streamer(s)**
-- ZeElmo
+```
+- Boris the Animal    76561198030804560
+- illethP             76561197986122267
+- Jenny XJ-9          76561198058237584
+- Noot Indeed!        76561198027258105
+- ZeElmo              76561198019142154
+```
 
 ### 2.2 - Disputes
 The Tournament Directors are the sole arbiters and court of last resort for all disputes. Their decisions are final and cannot be appealed.
