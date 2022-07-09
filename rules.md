@@ -708,15 +708,22 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 ### 8.7 - Weapons
 #### 8.7.1 - Banned Weapons
 The following Weapons are **banned** and are prohibited from being used in this tournament:
-- **Sharpshooter:** Compound Bow, HRG Beluga Beat, HRG Head Hunter, M99 AMR, Rail Gun
-- **Gunslinger:** HRG Disruptor, HRG Winterbite, Piranha Pistol
-- **Field Medic:** Hemoclobber, HMTech-501 Grenade Rifle, HRG Healthrower, HRG Incision
-- **Survivalist:** Freezethrower, HRG Arc Generator, Killerwatt, Reducto Ray
-- **Berserker:** HRG Teslauncher
-- **Firebug:** Microwave Gun, Thermite Bore
-- **Demolitionist:** Blunderbuss, Gravity Imploder, HRG Crossboom HRG Kaboomstick
-- **Support:** Frost Fang, HRG Blast Brawlers
-- **SWAT:** Glock 18 & Riot Shield, HRG Bastion, HRG Stunner
+**Sharpshooter**
+```
+Compound Bow
+HRG Beluga Beat
+HRG Head Hunter
+M99 AMR
+Rail Gun
+```
+**Gunslinger** HRG Disruptor, HRG Winterbite, Piranha Pistol
+**Field Medic** Hemoclobber, HMTech-501 Grenade Rifle, HRG Healthrower, HRG Incision
+**Survivalist** Freezethrower, HRG Arc Generator, Killerwatt, Reducto Ray
+**Berserker** HRG Teslauncher
+**Firebug** Microwave Gun, Thermite Bore
+**Demolitionist** Blunderbuss, Gravity Imploder, HRG Crossboom HRG Kaboomstick
+**Support** Frost Fang, HRG Blast Brawlers
+**SWAT** Glock 18 & Riot Shield, HRG Bastion, HRG Stunner
 
 **Banned weapons are completely removed from the Trader Pod and are completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is technically banned for all other Perks that can use the weapon as well.
 
