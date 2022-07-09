@@ -77,7 +77,7 @@
     - [8.6.4 - Perk Skills](#864---perk-skills)
     - [8.6.5 - Perk Modifications](#865---perk-modifications)
   - [8.7 - Weapons](#87---weapons)
-    - [8.7.1 - Weaopn Bans](#871---weapon-bans)
+    - [8.7.1 - Weapon Bans](#871---weapon-bans)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
     - [8.7.3 - Weapon Upgrades](#873---weapon-upgrades)
     - [8.7.4 - Weapon Modifications](#874---weapon-modifications)
