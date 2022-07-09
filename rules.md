@@ -782,27 +782,27 @@ Several weapons have been modified for use in this tournament. The modifications
 
 #### C4 Explosives
 ```diff
-- Global placed charge limit decreased:  24 --> 4.
+- Global placed charge limit decreased:  24 --> 4
 ```
 #### Hemogoblin
 ```diff
-+ Tier increased:  3 --> 4.
-- Trader price increased:  1100 --> 1500.
-- Healing per dart reduced:  25 --> 15.
-- Time to fully recharge increased:  10s --> 15s.
++ Tier increased:  3 --> 4
+- Trader price increased:  1100 --> 1500
+- Healing per dart reduced:  25 --> 15
+- Time to fully recharge increased:  10s --> 15s
 ```
 #### Mine Reconstructor
 ```diff
-- Global placed mine limit decreased:  24 --> 8.
+- Global placed mine limit decreased:  24 --> 8
 ```
 #### Mosin Nagant
 ```diff
-- Cannot parry.
+- Cannot parry
 ```
 #### Sentinel
 ```diff
-- Cannot refresh ZED time.
-- Global deployed drone limit decreased:  6 --> 2.
+- Cannot refresh ZED time
+- Global deployed drone limit decreased:  6 --> 2
 ```
 
 ### 8.8 - Mechanics
