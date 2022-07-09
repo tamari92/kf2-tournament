@@ -709,7 +709,40 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 #### 8.7.1 - Banned Weapons
 The following Weapons are **banned** and are prohibited from being used in this tournament:
 
-**Sharpshooter**
+#### **Berserker**
+```
+HRG Teslauncher
+```
+#### **Support**
+```
+Frost Fang
+HRG Blast Brawlers
+```
+#### **Field Medic**
+```
+Hemoclobber
+HMTech-501 Grenade Rifle
+HRG Healthrower
+HRG Incision
+```
+#### **Demolitionist**
+```
+Blunderbuss
+Gravity Imploder
+HRG Crossboom HRG Kaboomstick
+```
+#### **Firebug**
+```
+Microwave Gun
+Thermite Bore
+```
+#### **Gunslinger**
+```
+HRG Disruptor
+HRG Winterbite
+Piranha Pistol
+```
+#### **Sharpshooter**
 ```
 Compound Bow
 HRG Beluga Beat
@@ -717,47 +750,14 @@ HRG Head Hunter
 M99 AMR
 Rail Gun
 ```
-**Gunslinger**
-```
-HRG Disruptor
-HRG Winterbite
-Piranha Pistol
-```
-**Field Medic**
-```
-Hemoclobber
-HMTech-501 Grenade Rifle
-HRG Healthrower
-HRG Incision
-```
-**Survivalist**
+#### **Survivalist**
 ```
 Freezethrower
 HRG Arc Generator
 Killerwatt
 Reducto Ray
 ```
-**Berserker**
-```
-HRG Teslauncher
-```
-**Firebug**
-```
-Microwave Gun
-Thermite Bore
-```
-**Demolitionist**
-```
-Blunderbuss
-Gravity Imploder
-HRG Crossboom HRG Kaboomstick
-```
-**Support**
-```
-Frost Fang
-HRG Blast Brawlers
-```
-**SWAT**
+#### **SWAT**
 ```
 Glock 18 & Riot Shield
 HRG Bastion
@@ -779,6 +779,11 @@ The following **Weapon Upgrades** are restricted:
 #### 8.7.4 - Weapon Modifications
 Several weapons have been modified for use in this tournament. The modifications made are as follows:
 
+#### C4 Explosives
+```diff
+- Global limit decreased to 4.
+```
+
 #### Hemogoblin
 ```diff
 + Tier increased from 3 to 4.
@@ -790,6 +795,12 @@ Several weapons have been modified for use in this tournament. The modifications
 #### Mosin Nagant
 ```diff
 - Cannot parry.
+```
+
+#### Sentinel
+```diff
+- Cannot refresh ZED time.
+- Global limit decreased to 2.
 ```
 
 ### 8.8 - Mechanics
