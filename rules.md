@@ -773,10 +773,11 @@ All **DLC Weapons** which are not banned shall be automatically unlocked on the 
 
 #### 8.7.3 - Weapon Upgrades
 The following **Weapon Upgrades** are restricted:
-- Weapons cannot be upgraded to Tier 5
+- Weapons cannot be upgraded beyond Tier 4
 - Desert Eagle cannot be upgraded
-- SPX 464 Centerfire cannot be upgraded
-- M1911 Pistol can only be upgraded once
+- Winchester 1894 has a maximum of two upgrades
+- SPX 464 Centerfire has a maximum of one upgrade
+- M1911 Pistol has a maximum of one upgrade
 
 #### 8.7.4 - Weapon Modifications
 Several weapons have been modified for use in this tournament. The modifications made are as follows:
