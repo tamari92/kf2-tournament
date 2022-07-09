@@ -668,7 +668,6 @@ There are limits in place on the Perk composition the team can possess at any gi
   - Firebug
   - Survivalist
 - Maximum **two of each:** Sharpshooter, Gunslinger
-- Field Medic and Demolitionist are **mutually exclusive** and cannot co-exist on a team
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
@@ -709,15 +708,15 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 ### 8.7 - Weapons
 #### 8.7.1 - Banned Weapons
 The following Weapons are **banned** and are prohibited from being used in this tournament:
-- **Sharpshooter:** M99 AMR, Rail Gun, HRG Beluga Beat, Compound Bow, HRG Head Hunter
-- **Gunslinger:** HRG Winterbite, Piranha Pistol, HRG Disruptor
-- **Field Medic:** HRG Incision, HRG Healthrower, Hemoclobber, HMTech-501 Grenade Rifle
-- **Survivalist:** HRG Arc Generator, Killerwatt, Freezethrower, Reducto Ray
+- **Sharpshooter:** Compound Bow, HRG Beluga Beat, HRG Head Hunter, M99 AMR, Rail Gun
+- **Gunslinger:** HRG Disruptor, HRG Winterbite, Piranha Pistol
+- **Field Medic:** Hemoclobber, HMTech-501 Grenade Rifle, HRG Healthrower, HRG Incision
+- **Survivalist:** Freezethrower, HRG Arc Generator, Killerwatt, Reducto Ray
 - **Berserker:** HRG Teslauncher
-- **Firebug:** Thermite Bore, Microwave Gun
-- **Demolitionist:** Gravity Imploder, HRG Kaboomstick
-- **Support:** HRG Blast Brawlers, Frost Fang, Blunderbuss
-- **SWAT:** HRG Bastion, Glock 18 & Riot Shield, HRG Stunner
+- **Firebug:** Microwave Gun, Thermite Bore
+- **Demolitionist:** Blunderbuss, Gravity Imploder, HRG Crossboom HRG Kaboomstick
+- **Support:** Frost Fang, HRG Blast Brawlers
+- **SWAT:** Glock 18 & Riot Shield, HRG Bastion, HRG Stunner
 
 **Banned weapons are completely removed from the Trader Pod and are completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is technically banned for all other Perks that can use the weapon as well.
 
@@ -738,12 +737,13 @@ Several weapons have been modified for use in this tournament. The modifications
 ```diff
 + Tier increased from 3 to 4.
 - Trader price increased from 1100 to 1500.
-- Healing per dart reduced to from 25 to 17.
-- Time to fully recharge increased from 10s to 14s.
+- Healing per dart reduced to from 25 to 15.
+- Time to fully recharge increased from 10s to 15s.
 ```
-#### HRG Crossboom
+
+#### Mosin Nagant
 ```diff
-- Self-damage multiplier increased from 0.25 to 0.65.
+- Cannot parry.
 ```
 
 ### 8.8 - Mechanics
