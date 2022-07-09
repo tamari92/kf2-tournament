@@ -714,6 +714,10 @@ The following Weapons are **banned** and are prohibited from being used in this 
 ```
 - HRG Teslauncher
 ```
+#### **Commando**
+```
+- Minigun
+```
 #### **Support**
 ```
 - Frost Fang
@@ -775,6 +779,7 @@ All **DLC Weapons** which are not banned shall be automatically unlocked on the 
 The following **Weapon Upgrades** are restricted:
 - Weapons cannot be upgraded beyond **Tier 4**
 - **Desert Eagle** cannot be upgraded
+- **Sentinel** cannot be upgraded
 - **Winchester 1894** has a maximum of **two** upgrades
 - **SPX 464 Centerfire** has a maximum of **one** upgrade
 - **M1911 Pistol** has a maximum of **one** upgrade
