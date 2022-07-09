@@ -711,57 +711,58 @@ The following Weapons are **banned** and are prohibited from being used in this 
 
 #### **Berserker**
 ```
-HRG Teslauncher
+- HRG Teslauncher
 ```
 #### **Support**
 ```
-Frost Fang
-HRG Blast Brawlers
+- Frost Fang
+- HRG Blast Brawlers
 ```
 #### **Field Medic**
 ```
-Hemoclobber
-HMTech-501 Grenade Rifle
-HRG Healthrower
-HRG Incision
+- Hemoclobber
+- HMTech-501 Grenade Rifle
+- HRG Healthrower
+- HRG Incision
 ```
 #### **Demolitionist**
 ```
-Blunderbuss
-Gravity Imploder
-HRG Crossboom HRG Kaboomstick
+- Blunderbuss
+- Gravity Imploder
+- HRG Crossboom
+- HRG Kaboomstick
 ```
 #### **Firebug**
 ```
-Microwave Gun
-Thermite Bore
+- Microwave Gun
+- Thermite Bore
 ```
 #### **Gunslinger**
 ```
-HRG Disruptor
-HRG Winterbite
-Piranha Pistol
+- HRG Disruptor
+- HRG Winterbite
+- Piranha Pistol
 ```
 #### **Sharpshooter**
 ```
-Compound Bow
-HRG Beluga Beat
-HRG Head Hunter
-M99 AMR
-Rail Gun
+- Compound Bow
+- HRG Beluga Beat
+- HRG Head Hunter
+- M99 AMR
+- Rail Gun
 ```
 #### **Survivalist**
 ```
-Freezethrower
-HRG Arc Generator
-Killerwatt
-Reducto Ray
+- Freezethrower
+- HRG Arc Generator
+- Killerwatt
+- Reducto Ray
 ```
 #### **SWAT**
 ```
-Glock 18 & Riot Shield
-HRG Bastion
-HRG Stunner
+- Glock 18 & Riot Shield
+- HRG Bastion
+- HRG Stunner
 ```
 
 **Banned weapons are completely removed from the Trader Pod and are completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is technically banned for all other Perks that can use the weapon as well.
