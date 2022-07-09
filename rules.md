@@ -607,6 +607,7 @@ FleshpoundRageSpawns=False
 FleshpoundRageStuns=False
 ZedsTeleportCloser=False
 ZedsReactToFriendlyFire=False
+AllowSurvivalistGrenadeChoice=False
 ```
 
 ### 8.3 - Streaming & Casting
