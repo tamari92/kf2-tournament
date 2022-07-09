@@ -668,7 +668,7 @@ There are limits in place on the Perk composition the team can possess at any gi
   - Firebug
   - Survivalist
 - Maximum **two of each:** Sharpshooter, Gunslinger
-- **Field Medic** and **Demolitionist** are mutually exclusive and cannot co-exist on a squad.
+- **Field Medic** and **Demolitionist** are mutually exclusive and cannot co-exist in a squad
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
