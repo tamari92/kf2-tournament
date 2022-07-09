@@ -72,14 +72,14 @@
   - [8.5 - Spectators](#85---spectators)
   - [8.6 - Perks](#86---perks)
     - [8.6.1 - Perk Levels](#861---perk-levels)
-    - [8.6.2 - Perk Limits](#862---perk-limits)
+    - [8.6.2 - Perk Restrictions](#862---perk-restrictions)
     - [8.6.3 - Perk Swapping](#863---perk-swapping)
     - [8.6.4 - Perk Skills](#864---perk-skills)
     - [8.6.5 - Perk Modifications](#865---perk-modifications)
   - [8.7 - Weapons](#87---weapons)
-    - [8.7.1 - Banned Weapons](#871---banned-weapons)
+    - [8.7.1 - Weaopn Bans](#871---weapon-bans)
     - [8.7.2 - DLC Weapons](#872---dlc-weapons)
-    - [8.7.3 - Weapon Upgrade Restrictions](#873---weapon-upgrade-restrictions)
+    - [8.7.3 - Weapon Upgrades](#873---weapon-upgrades)
     - [8.7.4 - Weapon Modifications](#874---weapon-modifications)
   - [8.8 - Mechanics](#88---mechanics)
   - [8.9 - Map Objectives](#89---map-objectives)
@@ -657,9 +657,9 @@ This includes members of the team who are not playing in the match. If a non-par
 
 ### 8.6 - Perks
 #### 8.6.1 - Perk Levels
-Server mods will be in use for this tournament that will set the Perk Levels of all player Perks to 25. This means that players will not need to worry about having their Perks fully leveled to participate in the tournament.
+All player Perks will be forced to Level 25.
 
-#### 8.6.2 - Perk Limits
+#### 8.6.2 - Perk Restrictions
 There are limits in place on the Perk composition the team can possess at any given time:
 - Maximum **one of each:** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist
 - Maximum **two total** from the Perk Group:
@@ -668,6 +668,7 @@ There are limits in place on the Perk composition the team can possess at any gi
   - Firebug
   - Survivalist
 - Maximum **two of each:** Sharpshooter, Gunslinger
+- **Field Medic** and **Demolitionist** are mutually exclusive and cannot co-exist on a squad.
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
@@ -706,7 +707,7 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 ```
 
 ### 8.7 - Weapons
-#### 8.7.1 - Banned Weapons
+#### 8.7.1 - Weapon Bans
 The following Weapons are **banned** and are prohibited from being used in this tournament:
 
 #### **Berserker**
@@ -770,7 +771,7 @@ The following Weapons are **banned** and are prohibited from being used in this 
 #### 8.7.2 - DLC Weapons
 All **DLC Weapons** which are not banned shall be automatically unlocked on the tournament servers, even if no player on the team actually owns the weapons.
 
-#### 8.7.3 - Weapon Upgrade Restrictions
+#### 8.7.3 - Weapon Upgrades
 The following **Weapon Upgrades** are restricted:
 - Weapons cannot be upgraded to Tier 5
 - Desert Eagle cannot be upgraded
