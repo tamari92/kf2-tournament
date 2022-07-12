@@ -183,6 +183,7 @@ Boris the Animal    76561198030804560
 indynick            76561197979820467
 Jenny XJ-9          76561198058237584
 Noot Indeed!        76561198027258105
+Richard Dangles     76561198009514542
 Simple Rabbit       76561198868278791
 Tamari              76561197960854627
 ZeElmo              76561198019142154
@@ -194,6 +195,7 @@ Boris the Animal    76561198030804560
 illethP             76561197986122267
 Jenny XJ-9          76561198058237584
 Noot Indeed!        76561198027258105
+Richard Dangles     76561198009514542
 Tamari              76561197960854627
 ZeElmo              76561198019142154
 ```
