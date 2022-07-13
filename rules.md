@@ -799,7 +799,7 @@ Several weapons have been modified for use in this tournament. The modifications
 + Tier increased:  3 --> 4
 - Trader price increased:  1100 --> 1500
 - Healing per dart reduced:  25 --> 15
-- Time to fully recharge increased:  10s --> 15s
+- Time to fully recharge increased:  10s --> 13s
 ```
 #### Mine Reconstructor
 ```diff
