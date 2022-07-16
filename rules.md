@@ -161,12 +161,11 @@ Through CD, the following can be achieved:
 
 # Section 2: Tournament Administration
 ### 2.1 - Tournament Staff
-**Director(s)**
+#### **Director(s)**
 ```
 Tamari              76561197960854627
 ```
-
-**Assistant Director(s)**
+#### **Assistant Director(s)**
 ```
 Boris the Animal    76561198030804560
 illethP             76561197986122267
@@ -175,8 +174,7 @@ Noot Indeed!        76561198027258105
 theDamnguy          76561198009492145
 ZeElmo              76561198019142154
 ```
-
-**Commentator(s)**
+#### **Commentator(s)**
 ```
 aweeeesomj          76561198831194463
 Boris the Animal    76561198030804560
@@ -188,8 +186,7 @@ Simple Rabbit       76561198868278791
 Tamari              76561197960854627
 ZeElmo              76561198019142154
 ```
-
-**Streamer(s)**
+#### **Streamer(s)**
 ```
 Boris the Animal    76561198030804560
 illethP             76561197986122267
