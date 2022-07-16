@@ -103,11 +103,13 @@ The steps to set this up are as follows:
 ### Spectate Next/Prev Players
 There are specific keybinds for cycling between players while spectating.
 
+Spectate Next Player
 1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
 2. Search for  `Name="RightMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | SpectateNextPlayer`
 3. An example entry with the new stuff added: `Bindings=(Name="RightMouseButton",Command="GBA_IronsightsToggle | SpectateNextPlayer")`
 4. Repeat this for ALL instances of the RightMouseButton keybind
 
+Spectate Previous Player
 1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
 2. Search for  `Name="LeftMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | SpectatePrevPlayer`
 3. An example entry with the new stuff added: `Bindings=(Name="LeftMouseButton",Command="GBA_Fire | SpectatePrevPlayer",Control=False,Shift=False,Alt=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)`
