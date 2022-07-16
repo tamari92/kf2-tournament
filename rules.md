@@ -161,7 +161,7 @@ Through CD, the following can be achieved:
 
 # Section 2: Tournament Administration
 ### 2.1 - Tournament Staff
-**Tournament Director**
+**Director(s)**
 ```
 Tamari              76561197960854627
 ```
