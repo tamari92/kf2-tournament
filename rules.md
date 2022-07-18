@@ -729,6 +729,7 @@ The following Weapons are **banned** and are prohibited from being used in this 
 - HMTech-501 Grenade Rifle
 - HRG Healthrower
 - HRG Incision
+- Mine Reconstructor
 ```
 #### **Demolitionist**
 ```
