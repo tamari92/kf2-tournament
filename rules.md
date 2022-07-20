@@ -295,7 +295,11 @@ In this stage, **both teams play two games in a row.** The cumulative score earn
 This list is subject to change at any time and does not necessarily represent the exact order the maps shall be played.
 
 ```
-TBD
+Crash
+Hellmark Station: Redux
+FrightYard: Redux
+Quarantine Breach
+Santa's Workshop
 ```
 
 
