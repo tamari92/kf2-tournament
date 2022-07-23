@@ -803,10 +803,6 @@ Several weapons have been modified for use in this tournament. The modifications
 - Healing per dart reduced:  25 --> 15
 - Time to fully recharge increased:  10s --> 13s
 ```
-#### Mine Reconstructor
-```diff
-- Global placed mine limit decreased:  24 --> 8
-```
 #### Mosin Nagant
 ```diff
 - Cannot parry
