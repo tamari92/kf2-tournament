@@ -59,11 +59,7 @@ The team standings will be posted every week in the official tournament Discord 
 A recommended use of these visualizations is showing them during any AFK or Starting Soon scenes so that viewers can get an idea of the current state of the tournament.
 
 Here are some examples from my own stream. Feel free to copy if you'd like:
-- https://i.imgur.com/xzvWJFb.png (BRB overlay)
-- https://i.imgur.com/yOXbFNA.png (Main overlay)
-- https://i.imgur.com/faMg6ZD.png (Starting soon overlay 1)
-- https://i.imgur.com/HbMMRQt.png (Starting soon overlay 2)
-- https://i.imgur.com/HqFNq0r.png (Team standings)
+https://imgur.com/a/mcCOtiL
 
 Here's an example of a good cast with great production quality and nice visuals:
 https://youtu.be/M1EaEyw6i8I?t=1073
