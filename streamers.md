@@ -74,19 +74,35 @@ By typing the `!settings` command into the **Chat Box** (T), the server's custom
 
 Please make sure the following are in use for the stream:
 
-Under the **Settings** tab:
+**HUD**
 ```
-Show ZED Time HUD                      True
-Enable BW ZED Time                     True
-Enable Custom Popups                   False
-Exclude from Spectator Queue           True
-Player Info Header                     Name Only
-Enable Smooth Spectator Camera         True
-Show Large ZED Kills                   True
+Modern Scoreboard                      True
 ```
-Under the **Friendly HUD** tab:
+**HUD Elements: Main**
 ```
-Disable HUD                            True
+Global Large ZED Kill Ticker           True
+ZED Time Counter                       True
+```
+**HUD Elements: World**
+```
+Player Info Type                       Name Only
+```
+**Gameplay: General**
+```
+Disable ZED Time Filter                False
+Ignore Spectator Queue                 True
+Cinematic Spectator Camera             True
+```
+**Miscellaneous**
+```
+Disable Cosmetics                      False
+Spectator Camera Speed                 0.50
+```
+**Colors**
+```
+Elite ZED Glow Color                   #8AD7DC
+Fleshpound Glow Color                  #FAC819
+Fleshpound Rage Glow Color             #FF4040
 ```
 
 
