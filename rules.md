@@ -1038,6 +1038,14 @@ An entire team may be held responsible for the unsportsmanlike conduct of any te
 ### 11.2 - Insufficient Effort to Win
 Any competitor who, in the judgment of a staff member, has not committed to winning the match is guilty of unsportsmanlike conduct.
 
+Utilizing strategies which attempt to "game" the system or otherwise display a **significant lack of effort** may result in the team being found guilty of unsportsmanlike conduct as well as a violation of Competitive Integrity. This includes but IS NOT LIMITED to:
+- Attempting to circumvent any of the established limitations on Weapons and Perks
+- Utilizing strategies which circumvent the scoring system, allowing the team to earn points in a manner that is not intended
+- Abusing exploits beyond a reasonable degree
+- Abusing map stuck spots
+
+The results of matches played under these circumstances will be subsequently invalidated and further disciplinary action may be enacted at the discretion of the Tournament Staff.
+
 ### 11.3 - Delay of Game
 Intentionally stalling or delaying the progress of the match shall be regarded as unsportsmanlike conduct.
 
