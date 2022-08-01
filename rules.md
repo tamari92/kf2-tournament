@@ -613,6 +613,8 @@ FleshpoundRageStuns=False
 ZedsTeleportCloser=False
 ZedsReactToFriendlyFire=False
 AllowSurvivalistGrenadeChoice=False
+DisableWorldAmmoPickups=True
+DisableWorldWeaponPickups=True
 ```
 
 ### 8.3 - Streaming & Casting
