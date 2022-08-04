@@ -252,7 +252,7 @@ Aug 15              Playoff Brackets and match details revealed.
 -------------------------------------------------------------------
 Aug 15 - Aug 22     Semifinals
 -------------------------------------------------------------------
-Aug 22 - Aug 29     Finals
+Aug 22 - Sep 3      Finals
 ```
 
 ### 3.2 - Format
