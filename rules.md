@@ -20,6 +20,7 @@
   - [3.2 - Format](#32---format)
     - [3.2.1 - Group Stage](#321---group-stage)
     - [3.2.2 - Playoffs](#322---playoffs)
+    - [3.2.3 - Sudden Death](#323---sudden-death)
   - [3.3 - Map Pool](#33---map-pool)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
@@ -282,14 +283,21 @@ The first set of matches played in the Playoffs are known as the **Semifinals.**
 - The team with the **second-highest cumulative score** plays against the team with the **second-lowest cumulative score.**
 - ..and so on..
 
-In this stage, **both teams play a single game individually.** Teams playing in this stage have **one week** to schedule and play a match. The team that earns the highest score wins the match and advances to the **Finals.**
+In this stage, **both teams play two games.** The games are played on the same map in an "A/B" format, where the "A" game has a unique set of parameters (objective order, boss, etc) than the "B" game. The cumulative score of both the "A" and "B" games becomes the team's total score for the round.
+
+The team that earns the highest total score (across the "A" and "B" games) wins the match and advances to the Finals.
 
 #### [Finals]
 The final match of the tournament is held between the two teams that advanced from the Semifinals.
 
-This stage begins **immediately after the last Semifinals match is played.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match. 
+This stage begins **immediately after the last Semifinals match is played.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match.
 
-In this stage, **both teams play two games in a row.** The cumulative score earned across both games becomes the team's final score for the match. The team that earns the highest score wins the tournament.
+In this stage, **both teams again play two games,** however unlike the Semifinals, **each game is played on a different map.** As in the Semifinals, the cumulative score earned across both games becomes the team's final score for the match. The team that earns the highest score wins the tournament.
+
+#### 3.2.3 - Sudden Death
+In the event of a tie (both teams earning the exact same score) in *any* phase of the Playoffs, a **Sudden Death** tiebreaker game shall begin.
+
+The Sudden Death game involves the teams playing a new map which has **NOT** had its details/configurations revealed ahead of time. This means that the players must adapt and play the match in a "blind" fashion (without any preparation). The team that earns the highest score in the Sudden Death game wins the match.
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps shall be played.
