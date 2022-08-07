@@ -179,6 +179,7 @@ ZeElmo              76561198019142154
 ```
 aweeeesomj          76561198831194463
 Boris the Animal    76561198030804560
+Freedsnipers        76561198014039040
 indynick            76561197979820467
 Jenny XJ-9          76561198058237584
 Noot Indeed!        76561198027258105
