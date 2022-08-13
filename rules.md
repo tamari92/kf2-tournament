@@ -286,7 +286,7 @@ The first set of matches played in the Playoffs are known as the **Semifinals.**
 - The team with the **second-highest cumulative score** plays against the team with the **second-lowest cumulative score.**
 - ..and so on..
 
-In this stage, **both teams play two games.** The games are played on the same map in an "A/B" format, where the "A" game has a unique set of parameters (objective order, boss, etc) than the "B" game. Each team is required to play the "A" game first, followed by the "B" game.
+In this stage, **both teams play two games.** The games are played on the same map in an "A/B scenario" format, where the "A" scenario (game) has a unique set of parameters (objective order, boss, etc) than the "B" scenario. Each team is required to play the "A" game first, followed by the "B" game.
 
 The cumulative score of both the "A" and "B" games becomes the team's total score for the round.
 The team that earns the highest total score (across the "A" and "B" games) wins the match and advances to the Finals.
