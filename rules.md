@@ -307,6 +307,7 @@ The Sudden Death game involves the teams playing a new map which has **NOT** had
 This list is subject to change at any time and does not necessarily represent the exact order the maps shall be played.
 
 ```
+Burning Paris
 Crash
 Hellmark Station: Redux
 FrightYard: Redux
