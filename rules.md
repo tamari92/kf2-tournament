@@ -286,11 +286,11 @@ Teams are responsible for **practicing, scheduling,** and eventually **playing**
 #### 3.2.2 - Playoffs
 After the conclusion of the Group Stage, the **Playoffs** phase begins.
 
-The Playoffs utilize a **6-Team Modified Elimination Bracket** structure. The initial pairings/matchups of this bracket are determined using the teams' cumulative scores from the Group Stage, by using the cumulative Group Stage scores for each team to create **seeds** for the bracket. The team with the highest cumulative score becomes the **1st Seed**, the team with the second-highest cumulative score becomes the **2nd Seed** and so on.
+The Playoffs utilize a **6-Team Modified Elimination Bracket** structure. To create the pairings, each team's cumulative score from the **Group Stage** is used to assign a "seed" to each team. The team with the highest cumulative score becomes the **1st Seed**, the team with the second-highest cumulative score becomes the **2nd Seed** and so on.
 
-The pairings are then made according to the following diagram:
+The initial pairings are then made according to the following diagram:
 
-
+![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/ja2bhxA.png)
 
 (sourced from: https://www.cs.rochester.edu/u/ferguson/ultimate/upa-formats/upa-formats-6.html | Section 6.3)
 
@@ -373,7 +373,7 @@ To establish an equally competitive setting, **all teams playing in a given roun
 - Each Captain bans 1 Map, leaving 1 Map to be played
 - The team that is the lower/weaker seed bans first
 
-#### [Semifinals] [Bronze Finals] [Silver Finals]
+#### [Semifinals] / [Bronze Finals] / [Silver Finals]
 - 4 Maps in round pool
 - Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
 - Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
