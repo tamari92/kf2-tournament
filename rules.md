@@ -373,17 +373,7 @@ To establish an equally competitive setting, **all teams playing in a given roun
 - Each Captain bans 1 Map, leaving 1 Map to be played
 - The team that is the lower/weaker seed bans first
 
-#### [Semifinals]
-- 4 Maps in round pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
-- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
-
-#### [Bronze Finals]
-- 4 Maps in round pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
-- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
-
-#### [Silver Finals]
+#### [Semifinals] [Bronze Finals] [Silver Finals]
 - 4 Maps in round pool
 - Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
 - Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
