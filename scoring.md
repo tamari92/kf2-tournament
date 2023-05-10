@@ -88,7 +88,7 @@ Utilizing the **SKIP TRADER** functionality is highly encouraged to save even mo
 
 Most maps have several Dosh Hold Zones (aka “Stand Your Ground”) that can be completed for bonus XP, Vault Dosh, and Dosh. Other maps have additional contextual objectives that can appear on specific waves (e.g. KF-Airship).
 
-Completing any of these objectives awards **200 Points** toward the team’s OB.
+Completing any of these objectives awards **150 Points** toward the team’s OB.
 
 It is important to note that for ALL objectives, the objective must be completed **in its entirety** for the team to be awarded Points. This means that for DHZs, the meter must reach 100%. For all other map objectives, the meter must read COMPLETE or 100%.
 
@@ -112,15 +112,15 @@ As an example, consider the following Completion Score (CS), Health Bonus (HB), 
 CS: 1000
 HB: 200
 TB: 1275
-OB: 100
+OB: 150
 ```
 The calculation of the Total Score as a result of the NMB would go as follows:
 ```
 TotalScore = (CS + HB + TB + OB) x NMB
-= (1000 + 200 + 1275 + 100) x 1.50
-= 2575 x 1.50
-= 3862.5 Points
-= 3862 Points
+= (1000 + 200 + 1275 + 150) x 1.50
+= 2625 x 1.50
+= 3937.5 Points
+= 3937 Points
 ```
 
 Similarly to the Completion Score calculation, **all fractional/decimal portions of the value are dropped**, which is equivalent to rounding down to the **nearest whole value.** The final value after this calculation then represents the team’s total score for the match.
@@ -144,38 +144,38 @@ As an example, consider the following CS, HB, TB, and OB values:
 CS: 1000
 HB: 200
 TB: 1275
-OB: 100
+OB: 150
 ```
 Using the above values, the team’s total score before the penalty would be:
 ```
 TotalScore = CS + HB + TB + OB
-= 1000 + 200 + 1275 + 100
-= 2575 Points
+= 1000 + 200 + 1275 + 150
+= 2625 Points
 ```
 .. but now suppose the **Max Time** is **1:00:00** (3600 seconds) and the team has completed the match with a time of **1:05:47** (3947 seconds).
 
 This would result in a TP of:
 ```
 TimePenalty = (CompletionTime - MaxTime) x PointLossPerSecond
-= (3947 - 3600) x 2
-= 347 x 2
-= 694 Points
+= (3937 - 3600) x 2
+= 337 x 2
+= 674 Points
 ```
 This value would then be subtracted directly from the total score, resulting in the team earning:
 ```
 TotalScore = (CS + HB + TB + OB - TP)
-= 2575 - 694
-= 1881 Points
+= 2625 - 694
+= 1931 Points
 ```
 ..or alternatively if the team had obtained the No-Medic Bonus:
 ```
 TotalScore = (CS + HB + TB + OB - TP) x NMB
-= (2575 - 694) x 1.50
-= 1881 x 1.50
-= 2821.5
-= 2821 Points
+= (2625 - 694) x 1.50
+= 1931 x 1.50
+= 2896.5
+= 2896 Points
 ```
-As a result of the TP, the team would only earn **1881 Points** (2821 w/ NMB). This is a drastic decrease from the original value of **2575 Points** (3862 w/ NMB).
+As a result of the TP, the team would only earn **1931 Points** (2896 w/ NMB). This is a drastic decrease from the original value of **2625 Points** (3937 w/ NMB).
 
 Though this decrease might seem harsh, it is tuned as such to strongly discourage strategies in which teams purposely draw out the length of the game in order to preserve Bonus, as this would generally be unfair to the other teams that took a normal amount of time to complete the match. Longer games also take longer to stream, and so this penalty exists for the convenience of the streamers, commentators, and spectators/viewers as well.
 
