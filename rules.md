@@ -17,10 +17,11 @@
   - [2.4 - Conflicts of Interest](#24---conflicts-of-interest)
 - [Section 3: Tournament Structure](#section-3-tournament-structure)
   - [3.1 - Schedule](#31---schedule)
-  - [3.2 - Map Pool](#32---map-pool)
-  - [3.3 - Format](#33---format)
-    - [3.3.1 - Group Stage](#331---group-stage)
-    - [3.3.2 - Playoffs](#332---playoffs)
+  - [3.2 - Format](#32---format)
+    - [3.2.1 - Group Stage](#321---group-stage)
+    - [3.2.2 - Playoffs](#322---playoffs)
+  - [3.3 - Map Pool](#33---map-pool)
+    - [3.3.1 - Map Bans](#331---map-bans)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -268,29 +269,21 @@ Aug 28      Playoffs End
             Tournament concludes
 ```
 
-### 3.2 - Map Pool
-```
-TBD
-```
-
-### 3.2.1 - Map Bans
-In some phases of the tournament, a Map Ban system will be used. Teams will receive a list of maps to play, and each team will continue to 
-
-### 3.3 - Format
+### 3.2 - Format
 The tournament will consist of two stages:
 - [Group Stage](#321---group-stage)
 - [Playoffs](#322---playoffs)
 
-#### 3.3.1 - Group Stage
+#### 3.2.1 - Group Stage
 In the **Group Stage**, all teams play in a series of **rounds** with the goal being to achieve a favorable seeding for the **Playoffs.**
 
-The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map (one from the [Map Pool](#32---map-pool)) using predetermined [CD Parameters](#82---cd-parameters). These parameters will be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
+The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map (one from the [Map Pool](#33---map-pool)) using predetermined [CD Parameters](#82---cd-parameters). These parameters will be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
 
 There are no brackets in this stage. Instead, ALL teams play simultaneously and aim to achieve the best results they can for a given round. Matches are **scored** using a customized [Scoring System](#section-7-scoring) created specifically for this tournament.
 
 Teams are responsible for **practicing, scheduling,** and eventually **playing** a single game per round using the required settings. The score earned for the match is taken as the team's score for that round. Once a team's score has been set for a round, it cannot be set again, barring administrative decisions/actions. A team's score for a round is added to a running total, to be used to determine the standings for the **Playoffs** bracket(s).
 
-#### 3.3.2 - Playoffs
+#### 3.2.2 - Playoffs
 After the conclusion of the Group Stage, the **Playoffs** phase begins.
 
 The Playoffs utilize a **6-Team Modified Elimination Bracket** structure. The initial pairings/matchups of this bracket are determined using the teams' cumulative scores from the Group Stage, by using the cumulative Group Stage scores for each team to create **seeds** for the bracket. The team with the highest cumulative score becomes the **1st Seed**, the team with the second-highest cumulative score becomes the **2nd Seed** and so on.
@@ -341,6 +334,35 @@ This list is subject to change at any time and does not necessarily represent th
 TBD
 ```
 
+### 3.3.1 - Map Bans
+For the **Playoffs** phase of the tournaments, a smaller subpool (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of the round, team captains take turns **banning** maps from the subpool that they do not wish to play. The order of bans depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
+
+To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
+
+**Quarterfinals**
+- 3 Maps in sub pool
+- Each Captain bans 1 Map, leaving 1 Map to be played
+- The Captain whose team is the lower/weaker seed bans first
+
+**Semifinals**
+- 4 Maps in sub pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played
+- Ban order is determined by a coinflip, with the higher/stronger seed calling the toss
+
+**Bronze Finals**
+- 4 Maps in sub pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played
+- Ban order is determined by a coinflip, with the higher/stronger seed calling the toss
+
+**Silver Finals**
+- 4 Maps in sub pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played
+- Ban order is determined by a coinflip, with the higher/stronger seed calling the toss
+
+**Grand Finals**
+- 4 Maps in sub pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played
+- The team that had the lowest final score in the previous round bans first
 
 
 
