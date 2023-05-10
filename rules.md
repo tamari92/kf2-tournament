@@ -334,7 +334,7 @@ This list is subject to change at any time and does not necessarily represent th
 TBD
 ```
 
-### 3.3.1 - Map Bans
+#### 3.3.1 - Map Bans
 For the **Playoffs** phase of the tournaments, a smaller subpool (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of the round, team captains take turns **banning** maps from the subpool that they do not wish to play. The order of bans depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
 
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
