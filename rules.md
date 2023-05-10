@@ -18,10 +18,10 @@ test
   - [2.4 - Conflicts of Interest](#24---conflicts-of-interest)
 - [Section 3: Tournament Structure](#section-3-tournament-structure)
   - [3.1 - Schedule](#31---schedule)
-  - [3.2 - Format](#32---format)
-    - [3.2.1 - Group Stage](#321---group-stage)
-    - [3.2.2 - Playoffs](#322---playoffs)
-  - [3.3 - Map Pool](#33---map-pool)
+  - [3.2 - Map Pool](#32---map-pool)
+  - [3.3 - Format](#33---format)
+    - [3.3.1 - Group Stage](#331---group-stage)
+    - [3.3.2 - Playoffs](#332---playoffs)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -118,14 +118,13 @@ test
   - [11.5 - Lack of Professionalism](#115---lack-of-professionalism)
   - [11.6 - Player Avatars](#116---player-avatars)
   - [11.7 - Respect the Server Hosts](#117---respect-the-server-hosts)
-- [Section 12: Servers](#section-12-servers)
-- [Section 13: Legal](#section-13-legal)
+- [Section 12: Legal](#section-12-legal)
 
 <!-- mdformat-toc end -->
 
 # Section 1: Introduction & Objective
 ### 1.1 - Objective
-Welcome to the TOURNAMENT_NAME!
+Welcome to the Tamari’s KF2 Summer Showdown 2023 CD Tournament!
 
 This is a tournament for **KILLING FLOOR 2** centered around the **Controlled Difficulty** mod -- a mod which allows for fine tuning of difficulty-specific game variables and obtaining a level of consistency and intensity that drives a team experience simply not available in the vanilla game.
 
@@ -161,23 +160,58 @@ Through CD, the following can be achieved:
 
 # Section 2: Tournament Administration
 ### 2.1 - Tournament Staff
-**Tournament Director**
-- TBD
-
+**Tournament Director(s)**
+```
+Tamari                76561197960854627
+```
 **Assistant Director(s)**
-- TBD
-
+```
+Boris the Animal      76561198030804560
+illethP               76561197986122267
+ZeElmo                76561198019142154
+```
 **Commentator(s)**
-- TBD
-
+```
+Boris the Animal      76561198030804560
+Code The Void         76561198047581702
+EtherealDoom          76561198004769661
+Freedsnipers          76561198014039040
+Jenny XJ-9            76561198058237584
+Rey                   76561198002762666
+Tamari                76561197960854627
+```
 **Streamer(s)**
-- TBD
-
+```
+Boris the Animal      76561198030804560
+Code The Void         76561198047581702
+illethP               76561197986122267
+Kusu                  76561198004308802
+Tamari                76561197960854627
+ZeElmo                76561198019142154
+```
+**Content Manager(s)**
+```
+Boris the Animal      76561198030804560
+Code The Void         76561198047581702
+Melon                 76561198065021843
+Rey                   76561198002762666
+```
+**Scorekeeper(s)**
+```
+Code The Void         76561198047581702
+EtherealDoom          76561198004769661
+Rey                   76561198002762666
+```
+**Server Manager(s)**
+```
+Tamari                76561197960854627
+ZeElmo                76561198019142154
+```
 ### 2.2 - Disputes
-The Tournament Directors are the sole arbiters and court of last resort for all disputes. Their decisions are final and cannot be appealed.
+The Tournament Directors and Assistant Directors are the sole arbiters and court of last resort for all disputes. Their decisions are final and cannot be appealed.
 
 ### 2.3 - Sanctions
-The Tournament Directors reserve the right to impose any sanction on any competitor or individual player at their sole discretion as circumstances may warrant.
+The Tournament Directors and Assistant Directors reserve the right to impose any sanction on any competitor or individual player at their sole discretion as circumstances may warrant.
 
 ### 2.4 - Conflicts of Interest
 **Members of the Tournament Staff are permitted to participate in the tournament.** Where there may be an appearance of a conflict of interest, a staff member will yield to a counterpart if possible.
@@ -194,35 +228,94 @@ The Tournament Directors reserve the right to impose any sanction on any competi
 
 #### [Preliminary Schedule]
 ```
-TBD
+May 15      Official Tournament Announcement
+            Regular sign-ups open
+-----------------------------------------------------
+Jun 21      Regular sign-ups close
+            Overflow sign-ups open
+-----------------------------------------------------
+Jun 22      Players sorted into Experience Groups
+            Captains choose their Co-Captains
+-----------------------------------------------------
+Jun 23      Co-Captain pairings finalized
+            Player Draft
+            Map Pool announced
+-----------------------------------------------------
+Jul 3       Overflow sign-ups close
+            Tournament officially begins
 ```
 #### [Group Stage Schedule]
 ```
-TBD
+Jul 3       Group Stage Round 1
+------------------------------------------------------
+Jul 10      Group Stage Round 2
+------------------------------------------------------
+Jul 17      Group Stage Round 3
+------------------------------------------------------
+Jul 24      Group Stage Ends
 ```
 #### [Playoffs Schedule]
+```
+Jul 24      Quarterfinals
+------------------------------------------------------
+Jul 31      Semifinals
+            Bronze Finals
+------------------------------------------------------
+Aug 14      Grand Finals
+            Silver Finals
+------------------------------------------------------
+Aug 28      Playoffs End
+            Tournament concludes
+```
+
+### 3.2 - Map Pool
 ```
 TBD
 ```
 
-### 3.2 - Format
+### 3.2.1 - Map Bans
+In some phases of the tournament, a Map Ban system will be used. Teams will receive a list of maps to play, and each team will continue to 
+
+### 3.3 - Format
 The tournament will consist of two stages:
 - [Group Stage](#321---group-stage)
 - [Playoffs](#322---playoffs)
 
-#### 3.2.1 - Group Stage
-In the **Group Stage**, all teams play in a series of **rounds** with the goal being to achieve qualification for the **Playoffs.**
+#### 3.3.1 - Group Stage
+In the **Group Stage**, all teams play in a series of **rounds** with the goal being to achieve a favorable seeding for the **Playoffs.**
 
-The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map using predetermined [CD Parameters](#82---cd-parameters). These parameters will be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
+The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map (one from the [Map Pool](#32---map-pool)) using predetermined [CD Parameters](#82---cd-parameters). These parameters will be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
 
-There are no brackets in this stage. Instead, ALL teams play simultaneously and aim to achieve the best results they can for a given round. Matches are **scored** using a new [Scoring System](#section-7-scoring) created specifically for this tournament.
+There are no brackets in this stage. Instead, ALL teams play simultaneously and aim to achieve the best results they can for a given round. Matches are **scored** using a customized [Scoring System](#section-7-scoring) created specifically for this tournament.
 
-Teams are responsible for **practicing, scheduling,** and eventually **playing** a single game per round using the required settings. The score earned for the match is taken as the team's score for that round. **There are no retries or redos.** Once a team's score has been set for a round, it cannot be set again. A team's score for a round is added to a running total, to be used to determine the standings for the **Playoffs** bracket(s).
+Teams are responsible for **practicing, scheduling,** and eventually **playing** a single game per round using the required settings. The score earned for the match is taken as the team's score for that round. Once a team's score has been set for a round, it cannot be set again, barring administrative decisions/actions. A team's score for a round is added to a running total, to be used to determine the standings for the **Playoffs** bracket(s).
 
-#### 3.2.2 - Playoffs
-The **top four** teams by **cumulative score** (total score across all rounds) from the Group Stage advance to the Playoffs. **All remaining teams are eliminated from the tournament.**
+#### 3.3.2 - Playoffs
+After the conclusion of the Group Stage, the **Playoffs** phase begins.
 
-The Playoffs utilize a simple **Single Elimination Bracket** structure. The initial pairings/matchups of this bracket are determined using the teams' cumulative scores from the Group Stage.
+The Playoffs utilize a **6-Team Modified Elimination Bracket** structure. The initial pairings/matchups of this bracket are determined using the teams' cumulative scores from the Group Stage, by using the cumulative Group Stage scores for each team to create **seeds** for the bracket. The team with the highest cumulative score becomes the **1st Seed**, the team with the second-highest cumulative score becomes the **2nd Seed** and so on.
+
+The pairings are then made according to the following diagram:
+
+
+
+(sourced from: https://www.cs.rochester.edu/u/ferguson/ultimate/upa-formats/upa-formats-6.html | Section 6.3)
+
+
+#### [Quarterfinals]
+The first stage of the Playoffs is known as the **Quarterfinals** and begins immediately after the conclusion of the Group Stage.
+
+In this stage, the **1st** and **2nd** Seeds receive a **bye**, which relieves them from playing in the round. Instead, they are safe from elimination and await the winners of this round in the upcoming **Semifinals** phase.
+
+The remaining teams are then paired an in **"end-to-end"** scheme, meaning that the highest-seeded team plays against the lowest-seeded team, the second-highest team plays against the second-lowest seeded team, and so on.
+
+This produces the following pairs:
+```
+3rd Seed VS 6th Seed
+4th Seed VS 5th Seed
+```
+
+Each team then plays **two games** on a **single map**
 
 #### [Semifinals]
 The first set of matches played in the Playoffs are known as the **Semifinals.** This stage begins shortly after the end of the Group Stage.
@@ -249,9 +342,11 @@ TBD
 ```
 
 
+
+
 # Section 4: Registration Process
 ### 4.1 - Registration
-The regular registration period begins **Apr 29, 2022** and closes on **May 27, 2022**, lasting exactly **28 days.**
+The regular registration period begins **TBD** and closes on **TBD**, lasting exactly **TBD days.**
 
 ### 4.2 - Double Registration
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
@@ -530,7 +625,33 @@ All matches in this tournament will be played on **10-Wave Survival Hell On Eart
 ### 8.2 - CD Parameters
 The CD Parameters to be used are as follows:
 ```
-TBD
+SpawnCycle=asl_v3
+MaxMonsters=X  (depends on map/round)
+WaveSizeFakes=6
+CohortSize=7
+SpawnMod=0.0
+SpawnPoll=1.0
+DoshKill=1.0
+LargeHPFakes=6
+TrashHPFakes=6
+BossHPFakes=6
+FakesMode=ignore_humans
+Boss=X  (depends on map/round)
+StartWithFullAmmo=True
+VentSpawns=False
+HeadlessFleshpoundDamageTakenMult=4.0
+HeadlessScrakeDamageTakenMult=2.0
+DropAllWeapons=False
+TraderAutoPause=False
+TraderDash=True
+TraderDashSpeed=2.0
+FleshpoundRageSpawns=False
+FleshpoundRageStuns=False
+ZedsTeleportCloser=False
+ZedsReactToFriendlyFire=False
+AllowSurvivalistGrenadeChoice=False
+DisableWorldAmmoPickups=True
+DisableWorldWeaponPickups=True
 ```
 
 ### 8.3 - Streaming & Casting
@@ -618,14 +739,39 @@ TBD
 
 ### 8.8 - Mechanics
 Several game mechanics have been modified for use in this tournament. The modifications made are as follows:
+
+#### ZED Stomping (aka "Goomba Stomping")
+ZED Stomping has been reverted to its pre-nerf state.
+This means that any and all ZEDs can be stomped (excluding bosses) and there is also no cooldown on stomps.
+
+#### Afflictions (aka "debuffs" or "incaps")
+Afflictions in the vanilla game have been mistakenly broken by TWI in recent updates to the game, and are either more powerful or significantly weaker than intended (in specific cases). Some examples of Afflictions are Stun, Stumble, and Freeze. In most cases, all of these sources were either multiplying or dividing their effects, resulting in unintended behavior.
+
+Most of these issues have been fixed entirely for the tournament.
+
+Examples of what is fixed/reverted:
+```diff
+- Gunslinger Nail Bombs no longer instantly stun targets.
++ Sharpshooter Freeze Grenades and SWAT Flashbangs no longer sometimes fail.
++ All sources of Afflictions now properly apply, instead of sometimes doubling or tripling their effects.
 ```
-TBD
+#### Perk Skills that alter Maximum Health
+In the base game, some Perk Skills can be exploited to infinitely earn money, namely those skills which increase or decrease the player's maximum health.
+
+These skills have been modified such that the player will now be automatically completely healed should their health already be at 100% upon switching skills. If the player's health is below 100%, their health will not be set automatically. This is to allow Field Medics to heal the player and earn Dosh from the healing. However, once the player is at 100% Health, it is impossible to lose health due to players being invincible during the Trader period, which prevents money from being earned again.
+
+The skills affected include:
+```prolog
+1. Berserker: Dreadnaught
+2. Commando: Tenacious
+3. Support: Fortitude
+4. Field Medic: Symbiotic Health
 ```
 
 ### 8.9 - Map Objectives
 Throughout the match, objectives in the form of “Stand Your Ground” zones will appear. Some maps have built-in objectives as well, such as KF-Airship.
 
-Completing these objectives grants **200 Bonus** points to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
+Completing these objectives grants **150 Bonus** points to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
 
 For a given map, Stand Your Ground objectives will appear at a static location on each wave they are offered. This does not necessarily mean that they will always appear at the same location for all waves, but rather that they will always appear at the same location on that wave in particular. Furthermore, SYGs will appear on the same waves for each run of an individual map to keep things fair for all teams.
 
@@ -637,7 +783,7 @@ If the next wave has a set objective, the Objective Zone will be **highlighted**
 During Trader Time, the following is in effect:
 - **ALL** Trader Pods in the map are open simultaneously
 - Trader Timer increased to **120 seconds** (2 minutes)
-- Players move at **200%** movement speed
+- Players move at **150%** movement speed
 - The **!ot** and **!fs** commands are disabled
 
 All Trader Pods are open to ensure equality and fairness across runs and to help prevent random factors from influencing the outcome of the match. The additional time and increased movement speed are necessary to allow teams to properly prepare for the next wave.
@@ -856,16 +1002,8 @@ Players who violate these rules will be given one chance to change their avatar,
 Server hosts invest time and money to provide and maintain servers at no charge to anyone using them. This competition depends on their continued generosity. Therefore, do not break the rules of the server being used for the current match(es).
 
 
-# Section 12: Servers
-These are the servers that are available to be used for this tournament. **No other servers may be used for matches.**
-
-```
-TBD
-```
-
-
-# Section 13: Legal
-Copyright (C) 2022 Tamari.
+# Section 12: Legal
+Copyright (C) 2023 Tamari.
 
 Attributed from https://github.com/rpdelaney/l4d2-tourney-rules by Ryan P. Delaney, as permitted by the CC BY-SA 4.0 license.
 
