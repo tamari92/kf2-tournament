@@ -308,24 +308,51 @@ This produces the following pairs:
 4th Seed VS 5th Seed
 ```
 
-Each team then plays **two games** on a **single map**
+Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331---map-bans). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
+
+A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Semifinals**.
+
+The two losing teams are dropped into the **Bronze Finals** sub bracket to play for 5th and 6th place.
 
 #### [Semifinals]
-The first set of matches played in the Playoffs are known as the **Semifinals.** This stage begins shortly after the end of the Group Stage.
+The two teams that advance from the **Quarterfinals** are paired against the **1st** and **2nd** seeds.
 
-**Teams play against one another in inverse-corresponding pairs based on their cumulative scores:**
-- The team with the **highest cumulative score** plays against the team with the **lowest cumulative score.**
-- The team with the **second-highest cumulative score** plays against the team with the **second-lowest cumulative score.**
-- ..and so on..
+In this round, teams again play **two games**, however **each game takes place on a different map**, determined through a series of [Map Bans](#331---map-bans).
 
-In this stage, **both teams play a single game individually.** Teams playing in this stage have **one week** to schedule and play a match. The team that earns the highest score wins the match and advances to the **Finals.**
+Each map to be played has its own unique set of Objectives, Bosses, and CD Parameters.
 
-#### [Finals]
+A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round and advances to the **Grand Finals**.
+The two losing teams are dropped into the **Silver Finals** sub bracket to play for 3rd and 4th place.
+
+#### [Bronze Finals]
+The two teams that lost in the **Quarterfinals** are paired against one another in the **Bronze Finals**.
+
+Like in the **Semifinals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331---map-bans). 
+
+A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+
+The winner finishes the tournament in **5th place**.
+The loser finishes the tournament in **6th place**.
+
+#### [Silver Finals]
+The two teams that lost in the **Semifinals** are paired against one another in the **Silver Finals**.
+
+Like in the **Semifinals** and **Bronze Finals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331---map-bans). 
+
+A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+
+The winner finishes the tournament in **3rd place**.
+The loser finishes the tournament in **4th place**.
+
+#### [Grand Finals]
 The final match of the tournament is held between the two teams that advanced from the Semifinals.
 
 This stage begins **immediately after the last Semifinals match is played** and extends until no later than **Feb 14.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match. 
 
-In this stage, **both teams play two games in a row.** The cumulative score earned across both games becomes the team's final score for the match. The team that earns the highest score wins the tournament.
+In this stage, **both teams play two games in a row.** The cumulative score earned across both games becomes the team's final score for the match. The team with the highest total score wins the round.
+
+The winner is the **tournament champion (1st place)**.
+The loser finishes the tournament in **2nd place**.
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
@@ -335,33 +362,35 @@ TBD
 ```
 
 #### 3.3.1 - Map Bans
-For the **Playoffs** phase of the tournaments, a smaller subpool (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of the round, team captains take turns **banning** maps from the subpool that they do not wish to play. The order of bans depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
+For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of each round, team captains take turns **banning** maps from the sub pool that they do not wish to play until a final choice is determined.
+
+The order of bans depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
 
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
 
-**Quarterfinals**
-- 3 Maps in sub pool
+#### [Quarterfinals]
+- 3 Maps in round pool
 - Each Captain bans 1 Map, leaving 1 Map to be played
-- The Captain whose team is the lower/weaker seed bans first
+- The team that is the lower/weaker seed bans first
 
-**Semifinals**
-- 4 Maps in sub pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played
-- Ban order is determined by a coinflip, with the higher/stronger seed calling the toss
+#### [Semifinals]
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
+- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
 
-**Bronze Finals**
-- 4 Maps in sub pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played
-- Ban order is determined by a coinflip, with the higher/stronger seed calling the toss
+#### [Bronze Finals]
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
+- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
 
-**Silver Finals**
-- 4 Maps in sub pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played
-- Ban order is determined by a coinflip, with the higher/stronger seed calling the toss
+#### [Silver Finals]
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
+- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
 
-**Grand Finals**
-- 4 Maps in sub pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played
+#### [Grand Finals]
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
 - The team that had the lowest final score in the previous round bans first
 
 
