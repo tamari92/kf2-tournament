@@ -240,7 +240,7 @@ The Tournament Directors and Assistant Directors reserve the right to impose any
 
 #### [Preliminary Schedule]
 ```
-May 15      Official Tournament Announcement
+May 20      Official Tournament Announcement
             Regular sign-ups open
 -----------------------------------------------------
 Jun 21      Regular sign-ups close
@@ -400,7 +400,7 @@ To establish an equally competitive setting, **all teams playing in a given roun
 
 # Section 4: Registration Process
 ### 4.1 - Registration
-The regular registration period begins **May 22, 2023** and closes on **June 21, 2023**, lasting exactly **30 days.**
+The regular registration period begins **May 20, 2023** and closes on **June 21, 2023**, lasting exactly **32 days.**
 
 ### 4.2 - Double Registration
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
@@ -459,7 +459,7 @@ The formation of teams is conducted in five distinct phases:
 - [Player Draft](#525---player-draft)
 
 #### 5.2.1 - Player Sign-ups
-As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **30 days.**
+As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **32 days.**
 
 On the signup form, an option is given that allows the participant to specify their preferred role within the team, either **Captain**, **Co-Captain**, or **Player**. Note that a player’s specified preference may not reflect their actual assigned role when the teams are finally established.
 
@@ -697,6 +697,7 @@ TrashHPFakes=6
 BossHPFakes=6
 FakesMode=ignore_humans
 Boss=X  (depends on map/round)
+BossCount=X  (depends on map/round)
 StartWithFullAmmo=True
 VentSpawns=False
 HeadlessFleshpoundDamageTakenMult=4.0
@@ -704,7 +705,7 @@ HeadlessScrakeDamageTakenMult=2.0
 DropAllWeapons=False
 TraderAutoPause=False
 TraderDash=True
-TraderDashSpeed=2.0
+TraderDashSpeed=1.5
 FleshpoundRageSpawns=False
 FleshpoundRageStuns=False
 ZedsTeleportCloser=False
@@ -716,7 +717,12 @@ DisableWorldWeaponPickups=True
 
 ### 8.3 - Streaming & Casting
 All matches will be streamed primarily at any the following links:
-- http://www.twitch.tv/TamariTM
+- http://www.twitch.tv/boristheanimalttv
+- http://www.twitch.tv/codethevoid
+- http://www.twitch.tv/illethp
+- http://www.twitch.tv/kusu_
+- http://www.twitch.tv/tamari92
+- http://www.twitch.tv/zeelmo
 
 **Teams are NOT permitted to decline their match(es) being streamed.**
 
