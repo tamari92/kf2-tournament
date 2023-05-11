@@ -756,11 +756,18 @@ This includes members of the team who are not playing in the match. If a non-par
 
 ### 8.6 - Perks
 #### 8.6.1 - Perk Levels
-All player Perks will be forced to Level 25.
+All player Perks will be temporarily forced to Level 25 using serverside modifications.
 
 #### 8.6.2 - Perk Limits
 There are limits in place on the Perk composition the team can possess at any given time:
-TBD
+- Maximum **ONE of each:** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist
+- Maximum **TWO of each:** Sharpshooter, Gunslinger
+- Maximum **TWO total** from the group:
+  - Berserker
+  - Demolitionist
+  - Firebug
+  - Survivalist
+- **Field Medic** and **Demolitionist** are mutually exclusive and cannot co-exist in a squad
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
@@ -772,33 +779,138 @@ There are no restrictions on the changing of **Perk Skills** in this tournament.
 
 #### 8.6.5 - Perk Modifications
 Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
-```
-TBD
-```
+
+#### Berserker
+- Dreadnaught skill total health bonus *reduced*:  **100% --> 50%**
+- Berserker Rage skill healing per ZED Time Extension *reduced*:  **50% --> 25%**
+- Berserker Rage skill does not affect **Large ZEDs**
++ Resistance skill damage resistance *increased*:  **15% Global / 30% Poison + Sonic --> 25% Global / 50% Poison + Sonic**
++ Parry skill damage resistance *increased*:  **30% for 8s --> 40% for 8s**
++ Passive damage resistance bonus *increased*:  **2% per 5 Levels (10% @ L25) --> 3% per 5 Levels (15% @ L25)**
+
+#### Field Medic
+- Resilience skill damage resistance *reduced*:  **60% --> 50%**
+- Resilience skill reduces the Field Medic's maximum Armor capacity by **100%**.
++ Symbiotic Health skill healing *increased*:  **6% --> 8%**
++ Passive Armor bonus *increased*:  **2% per Level (150 @ L25) --> 3% per Level (175 @ L25)**
+
+#### Sharpshooter
+- Ranger skill increases the Stun Power of Perk Weapons by **300%**, instead of granting a guaranteed stun
+
+#### Survivalist
+- Lockdown skill increases Knockdown, Stumble, and Stun Powers of all weapons by **200%**, instead of granting a guaranteed stun
+- Grenade selection is disabled. **The only usable grenade is the HE Grenade**
 
 ### 8.7 - Weapons
 #### 8.7.1 - Banned Weapons
-The following Weapons are **banned** and are prohibited from being used in this tournament:
-```
-TBD
-```
+The following Weapons are **banned** and are prohibited from being used in this tournament.
 
 **Banned weapons are completely removed from the Trader Pod and will be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
+
+#### Berserker
+- HRG Teslauncher
+- Blood Sickle
+
+#### Commando
+- No bans
+
+#### Support
+- HRG Ballistic Bouncer
+- Frost Fang
+
+#### Field Medic
+- HRG Healthrower
+- Hemoclobber
+- HRG Incision
+- HMTech-501 Grenade Rifle
+
+#### Demolitionist
+- HRG Kaboomstick
+- HRG Crossboom
+- Blunderbuss
+- Gravity Imploder
+
+#### Firebug
+- Microwave Gun
+- Thermite Bore
+
+#### Gunslinger
+- HRG Winterbite / Dual HRG Winterbites
+- Piranha Pistol / Dual Piranha Pistols
+- HRG Disrupter
+
+#### Sharpshooter
+- Compound Bow
+- HRG Beluga Beat
+- HRG Head Hunter
+- HV Storm Cannon
+- Rail Gun
+- M99 AMR
+
+#### Survivalist
+- HRG Locust
+- Reducto Ray
+- Freezethrower
+- Killerwatt
+- HRG Arc Generator
+
+#### SWAT
+- HRG Bastion
+- HRG Stunner
 
 #### 8.7.2 - DLC Weapons
 All **DLC Weapons** which are not banned will be automatically unlocked on the tournament servers, even if no player on the team actually owns the weapons.
 
 #### 8.7.3 - Weapon Upgrade Restrictions
 The following **Weapon Upgrades** are restricted:
-```
-TBD
-```
+- Weapons cannot be upgraded beyond **Tier 4**
+- **Winchester 1894** cannot be upgraded beyond **Tier 3**
+- **SPX 464 Centerfire** cannot be upgraded beyond **Tier 3**
+- **M1911 Pistol** cannot be upgraded beyond **Tier 3**
+- **Desert Eagle** cannot be upgraded
+- **Sentinel** cannot be upgraded
 
 #### 8.7.4 - Weapon Modifications
 Several weapons have been modified for use in this tournament. The modifications made are as follows:
-```
-TBD
-```
+
+#### HRG Blast Brawlers
+- Block damage taken reduction *decreased*:  **50% --> 25%**
+- Parry damage taken reduction *decreased*:  **60% --> 35%**
+
+#### Sentinel
+- Cannot refresh ZED Time
+- Global (between all players) deployed drone limit *decreased*:  **6 --> 1**
+
+#### Hemogoblin
+- Base Tier *increased*:  **3 --> 4**
+- Trader Price *increased*:  **Đ 1,100 --> Đ 1,500**
+- Healing (per dart) *decreased*:  **25 --> 15**
+- Base Recharge Time *increased*:  **10s --> 13s**
+
+#### Mine Reconstructor
+- Global (between all players) placed mine limit *decreased*:  **∞ --> 6**
+
+#### HRG Medic Missile
+- Base weight *increased*:  **7 --> 8**
+- Ammunition price (per rocket) *increased*:  **Đ 25 --> Đ 50**
+- Explosion damage *decreased*:  **700 --> 250**
+- Healing (per rocket) *decreased*:  **50 --> 40**
+- Rockets apply **two** stacks of Medic Buffs per healing instance
+- Reload time *increased*:  1.88s --> **2.56s**
+- Base reserve ammunition *decreased*:  **6 --> 4**
+- Maximum reserve ammunition *decreased*:  **22 --> 12**
+- Ammunition collected (per ammo box) *decreased*:  **4 --> 2**
+- Minimum projectile arming range *increased*:  **2m --> 4m**
+
+#### C4 Explosives
+- Global (between all players) placed charge limit *decreased*:  **24 --> 4**
+
+#### Mosin Nagant
+- Block damage taken reduction *decreased*:  **40% --> 30%**
+- Parry damage taken reduction *decreased*:  **50% --> 30%**
+
+#### Glock 18 & Riot Shield
+- Block damage taken reduction *decreased*:  **60% --> 40%**
 
 ### 8.8 - Mechanics
 Several game mechanics have been modified for use in this tournament. The modifications made are as follows:
@@ -807,17 +919,6 @@ Several game mechanics have been modified for use in this tournament. The modifi
 ZED Stomping has been reverted to its pre-nerf state.
 This means that any and all ZEDs can be stomped (excluding bosses) and there is also no cooldown on stomps.
 
-#### Afflictions (aka "debuffs" or "incaps")
-Afflictions in the vanilla game have been mistakenly broken by TWI in recent updates to the game, and are either more powerful or significantly weaker than intended (in specific cases). Some examples of Afflictions are Stun, Stumble, and Freeze. In most cases, all of these sources were either multiplying or dividing their effects, resulting in unintended behavior.
-
-Most of these issues have been fixed entirely for the tournament.
-
-Examples of what is fixed/reverted:
-```diff
-- Gunslinger Nail Bombs no longer instantly stun targets.
-+ Sharpshooter Freeze Grenades and SWAT Flashbangs no longer sometimes fail.
-+ All sources of Afflictions now properly apply, instead of sometimes doubling or tripling their effects.
-```
 #### Perk Skills that alter Maximum Health
 In the base game, some Perk Skills can be exploited to infinitely earn money, namely those skills which increase or decrease the player's maximum health.
 
@@ -834,7 +935,7 @@ The skills affected include:
 ### 8.9 - Map Objectives
 Throughout the match, objectives in the form of “Stand Your Ground” zones will appear. Some maps have built-in objectives as well, such as KF-Airship.
 
-Completing these objectives grants **150 Bonus** points to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
+Completing these objectives grants **150 Objective Bonus Points** to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
 
 For a given map, Stand Your Ground objectives will appear at a static location on each wave they are offered. This does not necessarily mean that they will always appear at the same location for all waves, but rather that they will always appear at the same location on that wave in particular. Furthermore, SYGs will appear on the same waves for each run of an individual map to keep things fair for all teams.
 
@@ -861,10 +962,9 @@ During the match, players will find that a new **Match Timer** has been added at
 
 This timer shows the following:
 - Total **duration** of the current match (excluding any time spent in the Lobby)
-- The **Par Time** for the map
 - The **Max Time** for the map
 
-The timer begins counting the moment the round begins and never stops, even during the Trader period. See [Section 7: Scoring](#section-7-scoring) for more information on the Par Time and Max Time.
+The timer begins counting the moment the round begins and never stops, even during the Trader period. See [Section 7: Scoring](#section-7-scoring) for more information on the Max Time.
 
 #### 8.11.2 - Spectator Interface
 ![alt text](https://i.imgur.com/CDGbiMR.png)
@@ -876,7 +976,7 @@ This HUD shows the following information:
 2. The current **Score** of the match, including all Bonuses
 3. A full readout of the team’s **condition**.
 
-As with the Player Interface, the **Match Timer** on the Spectator Interface shows the current total time elapsed for the match, not including any time spent in the Lobby. The Par Time and Max Time are visible as well.
+As with the Player Interface, the **Match Timer** on the Spectator Interface shows the current total time elapsed for the match, not including any time spent in the Lobby. The Max Time is visible as well.
 
 The Score shown in **2)** reflects the total number of Points the team has earned thus far for the match as well as a complete breakdown of the state of the team’s Bonus Point pools. The values shown update in real time.
 
