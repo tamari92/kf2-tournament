@@ -325,7 +325,7 @@ The two losing teams are dropped into the **Bronze Finals** sub bracket to play 
 #### 3.2.2b - Semifinals
 The two teams that advance from the **Quarterfinals** are paired against the **1st** and **2nd** seeds.
 
-In this round, teams again play **two games**, however **each game takes place on a different map**, determined through a series of [Map Bans](#331---map-bans).
+In this round, teams again play **two games**, however **each game takes place on a different map**, determined through a series of [Map Bans](#331b---semifinals---bronze-finals---silver-finals).
 
 Each map to be played has its own unique set of Objectives, Bosses, and CD Parameters.
 
@@ -335,7 +335,7 @@ The two losing teams are dropped into the **Silver Finals** sub bracket to play 
 #### 3.2.2c - Bronze Finals
 The two teams that lost in the **Quarterfinals** are paired against one another in the **Bronze Finals**.
 
-Like in the **Semifinals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331---map-bans). 
+Like in the **Semifinals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals---bronze-finals---silver-finals). 
 
 A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
@@ -345,7 +345,7 @@ The loser finishes the tournament in **6th place**.
 #### 3.2.2d - Silver Finals
 The two teams that lost in the **Semifinals** are paired against one another in the **Silver Finals**.
 
-Like in the **Semifinals** and **Bronze Finals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331---map-bans). 
+Like in the **Semifinals** and **Bronze Finals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals---bronze-finals---silver-finals). 
 
 A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
@@ -353,11 +353,11 @@ The winner finishes the tournament in **3rd place**.
 The loser finishes the tournament in **4th place**.
 
 #### 3.2.2e - Grand Finals
-The final match of the tournament is held between the two teams that advanced from the Semifinals.
+The final match of the tournament is held between the two teams that advanced from the **Semifinals**.
 
-This stage begins **immediately after the last Semifinals match is played** and extends until no later than **Feb 14.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match. 
+In this stage, **each team again plays two games in a row across two separate maps**, determined through a series of [Map Bans](#331c---grand-finals). 
 
-In this stage, **both teams play two games in a row.** The cumulative score earned across both games becomes the team's final score for the match. The team with the highest total score wins the round.
+The cumulative score earned across both games becomes the team's final score for the match. The team with the highest total score wins the round.
 
 The winner is the **tournament champion (1st place)**.
 The loser finishes the tournament in **2nd place**.
@@ -390,7 +390,6 @@ To establish an equally competitive setting, **all teams playing in a given roun
 - 4 Maps in round pool
 - Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
 - The team that had the lowest final score in the previous round bans first
-
 
 
 # Section 4: Registration Process
