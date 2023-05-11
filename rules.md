@@ -372,7 +372,8 @@ For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken 
 
 At the beginning of each round, the Captains of teams participating in a given matchup will be contacted via a private Discord Thread where they will be required to cast their bans. The order that bans are made depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
 
- There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
+- There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
+- There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban.
 
 #### 3.3.1a - Quarterfinals
 - 3 Maps in round pool
