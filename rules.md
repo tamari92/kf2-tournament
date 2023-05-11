@@ -321,14 +321,14 @@ This produces the following pairs:
 4th Seed VS 5th Seed
 ```
 
-Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331a---quarterfinals). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
+Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331c---quarterfinals). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
 
 A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Semifinals**. The two losing teams are dropped into the **Bronze Finals** sub bracket to play for 5th and 6th place.
 
 #### 3.2.2b - Semifinals
 The two teams that advance from the **Quarterfinals** are paired against the **1st** and **2nd** seeds.
 
-In this round, teams again play **two games**, however **each game takes place on a different map**, determined through a series of [Map Bans](#331b---semifinals--bronze-finals--silver-finals).
+In this round, teams again play **two games**, however **each game takes place on a different map**, determined through a series of [Map Bans](#331d---semifinals--bronze-finals--silver-finals).
 
 Each map to be played has its own unique set of Objectives, Bosses, and CD Parameters.
 
@@ -337,7 +337,7 @@ A team's total score for the round is the cumulative score across all games to b
 #### 3.2.2c - Bronze Finals
 The two teams that lost in the **Quarterfinals** are paired against one another in the **Bronze Finals**.
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331d---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
 - The winner finishes the tournament in **5th place**.
 - The loser finishes the tournament in **6th place**.
@@ -345,7 +345,7 @@ Like before, each team plays **two games** on **two separate maps**, determined 
 #### 3.2.2d - Silver Finals
 The two teams that lost in the **Semifinals** are paired against one another in the **Silver Finals**.
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331d---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
 - The winner finishes the tournament in **3rd place**.
 - The loser finishes the tournament in **4th place**.
@@ -353,7 +353,7 @@ Like before, each team plays **two games** on **two separate maps**, determined 
 #### 3.2.2e - Grand Finals
 The final match of the tournament is held between the two teams that advanced from the **Semifinals**.
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331c---grand-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331e---grand-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
 - The winner is the **tournament champion (1st place)**.
 - The loser finishes the tournament in **2nd place**.
