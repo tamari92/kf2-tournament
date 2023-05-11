@@ -370,7 +370,7 @@ TBD
 #### 3.3.1 - Map Bans
 For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of each round, team captains take turns **banning** maps from the sub pool that they do not wish to play until a final choice is determined. The bans are overseen by either one of the **Tournament Directors** or an **Assistant Director** to establish legitimacy.
 
-At the beginning of each round, teams participating in a given matchup will be contacted via a private Discord Thread where they will be required to cast their bans. The order that bans are made depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
+At the beginning of each round, the Captains of teams participating in a given matchup will be contacted via a private Discord Thread where they will be required to cast their bans. The order that bans are made depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
 
  There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
 
@@ -391,9 +391,9 @@ At the beginning of each round, teams participating in a given matchup will be c
 
 #### 3.3.1d - Penalties
 There are various penalties in place on Map Bans, as follows:
-- If the first team to ban is unavailable or does not respond to the initial call within 24 hours, **the second team shall choose the map(s) to play**
-- If the first ban is made, but the second team does not make their ban within the grace period or is unavailable, **the first team shall choose the map(s) to play**
-- If both teams fail to make their bans or respond to the initial call within 24 hours, **the Tournament Directors shall choose the map(s) to play**
+- If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **the second team shall choose the map(s) to play**
+- If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play**
+- If both teams fail to make their bans or respond to the initial call *within 24 hours*, **the Tournament Directors shall choose the map(s) to play**
 
 #### 3.3.1e - Equality
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
