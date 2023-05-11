@@ -412,7 +412,7 @@ All players are required to submit their STEAMID64 during registration, which wi
 
 **All players are required to use the account they sign up with for the entire tournament, or risk being removed from the tournament and barred from entering future Tamari's KF2 events.**
 
-### 4.4 Confirmation
+### 4.4 - Confirmation
 Following their submission, all players are required to join the official tournament discord server and **contact one of the Tournament Directors or Assistant Directors** to confirm their signup.
 
 This step is mandatory to prevent false signups and ensure that we have an accurate representation of who is actually participating.
