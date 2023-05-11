@@ -82,9 +82,10 @@
     - [8.4.1 - War Rooms](#841---war-rooms)
   - [8.5 - Spectators](#85---spectators)
   - [8.6 - Perks](#86---perks)
-    - [8.6.1 - Perk Limits](#861---perk-limits)
-    - [8.6.2 - Perk Swapping](#862---perk-swapping)
-    - [8.6.3 - Perk Skills](#863---perk-skills)
+    - [8.6.1 - Perk Levels](#861---perk-levels)
+    - [8.6.2 - Perk Limits](#862---perk-limits)
+    - [8.6.3 - Perk Swapping](#863---perk-swapping)
+    - [8.6.4 - Perk Skills](#864---perk-skills)
   - [8.6.4 - Perk Modifications](#864---perk-modifications)
   - [8.7 - Weapons](#87---weapons)
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
@@ -320,8 +321,7 @@ This produces the following pairs:
 
 Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331a---quarterfinals). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
 
-A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Semifinals**.
-The two losing teams are dropped into the **Bronze Finals** sub bracket to play for 5th and 6th place.
+A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Semifinals**. The two losing teams are dropped into the **Bronze Finals** sub bracket to play for 5th and 6th place.
 
 #### 3.2.2b - Semifinals
 The two teams that advance from the **Quarterfinals** are paired against the **1st** and **2nd** seeds.
@@ -330,35 +330,31 @@ In this round, teams again play **two games**, however **each game takes place o
 
 Each map to be played has its own unique set of Objectives, Bosses, and CD Parameters.
 
-A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round and advances to the **Grand Finals**.
-The two losing teams are dropped into the **Silver Finals** sub bracket to play for 3rd and 4th place.
+A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round and advances to the **Grand Finals**. The two losing teams are dropped into the **Silver Finals** sub bracket to play for 3rd and 4th place.
 
 #### 3.2.2c - Bronze Finals
 The two teams that lost in the **Quarterfinals** are paired against one another in the **Bronze Finals**.
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals--bronze-finals--silver-finals). 
-A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
-The winner finishes the tournament in **5th place**.
-The loser finishes the tournament in **6th place**.
+- The winner finishes the tournament in **5th place**.
+- The loser finishes the tournament in **6th place**.
 
 #### 3.2.2d - Silver Finals
 The two teams that lost in the **Semifinals** are paired against one another in the **Silver Finals**.
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals--bronze-finals--silver-finals). 
-A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
-The winner finishes the tournament in **3rd place**.
-The loser finishes the tournament in **4th place**.
+- The winner finishes the tournament in **3rd place**.
+- The loser finishes the tournament in **4th place**.
 
 #### 3.2.2e - Grand Finals
 The final match of the tournament is held between the two teams that advanced from the **Semifinals**.
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331c---grand-finals). 
-A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331c---grand-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
 
-The winner is the **tournament champion (1st place)**.
-The loser finishes the tournament in **2nd place**.
+- The winner is the **tournament champion (1st place)**.
+- The loser finishes the tournament in **2nd place**.
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
@@ -759,19 +755,22 @@ Aside from Tournament Staff and other authorized parties (such as commentators a
 This includes members of the team who are not playing in the match. If a non-participating team member joins the server as a spectator, the team will receive a **zero point score** for the round.
 
 ### 8.6 - Perks
-#### 8.6.1 - Perk Limits
+#### 8.6.1 - Perk Levels
+All player Perks will be forced to Level 25.
+
+#### 8.6.2 - Perk Limits
 There are limits in place on the Perk composition the team can possess at any given time:
 TBD
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
-#### 8.6.2 - Perk Swapping
+#### 8.6.3 - Perk Swapping
 In the Lobby, players are freely allowed to change Perks, however after the match starts, **players will no longer be able to select a new Perk for the remainder of the match.**
 
-#### 8.6.3 - Perk Skills
+#### 8.6.4 - Perk Skills
 There are no restrictions on the changing of **Perk Skills** in this tournament. Players can alter their Perk's skills as often as they desire during the Trader period.
 
-#### 8.6.4 - Perk Modifications
+#### 8.6.5 - Perk Modifications
 Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
 ```
 TBD
