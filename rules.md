@@ -20,8 +20,16 @@
   - [3.2 - Format](#32---format)
     - [3.2.1 - Group Stage](#321---group-stage)
     - [3.2.2 - Playoffs](#322---playoffs)
+      - [3.2.2a - Quarterfinals](#322a---quarterfinals)
+      - [3.2.2b - Semifinals](#322b---semifinals)
+      - [3.2.2c - Bronze Finals](#322c---bronze-finals)
+      - [3.2.2d - Silver Finals](#322d---silver-finals)
+      - [3.2.2e - Grand Finals](#322e---grand-finals)
   - [3.3 - Map Pool](#33---map-pool)
     - [3.3.1 - Map Bans](#331---map-bans)
+      - [3.3.1a - Quarterfinals](#331a---quarterfinals)
+      - [3.3.1b - Semifinals / Bronze Finals / Silver Finals](#331b---semifinals---bronze-finals---silver-finals)
+      - [3.3.1c - Grand Finals](#331c---grand-finals)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -292,10 +300,10 @@ The initial pairings are then made according to the following diagram:
 
 ![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/8qsBt52.png)
 
-(sourced from: https://www.cs.rochester.edu/u/ferguson/ultimate/upa-formats/upa-formats-6.html | Section 6.3)
+(sourced from: https://www.cs.rochester.edu/u/ferguson/ultimate/upa-formats/upa-formats-6.html  |  Table 6.3)
 
 
-#### [Quarterfinals]
+#### 3.2.2a - Quarterfinals
 The first stage of the Playoffs is known as the **Quarterfinals** and begins immediately after the conclusion of the Group Stage.
 
 In this stage, the **1st** and **2nd** Seeds receive a **bye**, which relieves them from playing in the round. Instead, they are safe from elimination and await the winners of this round in the upcoming **Semifinals** phase.
@@ -314,7 +322,7 @@ A team's total score for the round is the cumulative score across all scenarios 
 
 The two losing teams are dropped into the **Bronze Finals** sub bracket to play for 5th and 6th place.
 
-#### [Semifinals]
+#### 3.2.2b - Semifinals
 The two teams that advance from the **Quarterfinals** are paired against the **1st** and **2nd** seeds.
 
 In this round, teams again play **two games**, however **each game takes place on a different map**, determined through a series of [Map Bans](#331---map-bans).
@@ -324,7 +332,7 @@ Each map to be played has its own unique set of Objectives, Bosses, and CD Param
 A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round and advances to the **Grand Finals**.
 The two losing teams are dropped into the **Silver Finals** sub bracket to play for 3rd and 4th place.
 
-#### [Bronze Finals]
+#### 3.2.2c - Bronze Finals
 The two teams that lost in the **Quarterfinals** are paired against one another in the **Bronze Finals**.
 
 Like in the **Semifinals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331---map-bans). 
@@ -334,7 +342,7 @@ A team's total score for the round is the cumulative score across all games to b
 The winner finishes the tournament in **5th place**.
 The loser finishes the tournament in **6th place**.
 
-#### [Silver Finals]
+#### 3.2.2d - Silver Finals
 The two teams that lost in the **Semifinals** are paired against one another in the **Silver Finals**.
 
 Like in the **Semifinals** and **Bronze Finals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331---map-bans). 
@@ -344,7 +352,7 @@ A team's total score for the round is the cumulative score across all games to b
 The winner finishes the tournament in **3rd place**.
 The loser finishes the tournament in **4th place**.
 
-#### [Grand Finals]
+#### 3.2.2e - Grand Finals
 The final match of the tournament is held between the two teams that advanced from the Semifinals.
 
 This stage begins **immediately after the last Semifinals match is played** and extends until no later than **Feb 14.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match. 
@@ -368,17 +376,17 @@ The order of bans depends on the round in question (see below). Furthermore, the
 
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
 
-#### [Quarterfinals]
+#### 3.3.1a - Quarterfinals
 - 3 Maps in round pool
 - Each Captain bans 1 Map, leaving 1 Map to be played
 - The team that is the lower/weaker seed bans first
 
-#### [Semifinals] / [Bronze Finals] / [Silver Finals]
+#### 3.3.1b - Semifinals / Bronze Finals / Silver Finals
 - 4 Maps in round pool
 - Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
 - Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
 
-#### [Grand Finals]
+#### 3.3.1c - Grand Finals
 - 4 Maps in round pool
 - Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
 - The team that had the lowest final score in the previous round bans first
