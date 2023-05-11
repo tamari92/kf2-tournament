@@ -20,7 +20,18 @@
   - [3.2 - Format](#32---format)
     - [3.2.1 - Group Stage](#321---group-stage)
     - [3.2.2 - Playoffs](#322---playoffs)
+      - [3.2.2a - Quarterfinals](#322a---quarterfinals)
+      - [3.2.2b - Semifinals](#322b---semifinals)
+      - [3.2.2c - Bronze Finals](#322c---bronze-finals)
+      - [3.2.2d - Silver Finals](#322d---silver-finals)
+      - [3.2.2e - Grand Finals](#322e---grand-finals)
   - [3.3 - Map Pool](#33---map-pool)
+    - [3.3.1 - Map Bans](#331---map-bans)
+      - [3.3.1a - Quarterfinals](#331a---quarterfinals)
+      - [3.3.1b - Semifinals / Bronze Finals / Silver Finals](#331b---semifinals---bronze-finals---silver-finals)
+      - [3.3.1c - Grand Finals](#331c---grand-finals)
+      - [3.3.1d - Penalties](#331d---penalties)
+      - [3.3.1e - Equality](#331e---equality)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -71,9 +82,10 @@
     - [8.4.1 - War Rooms](#841---war-rooms)
   - [8.5 - Spectators](#85---spectators)
   - [8.6 - Perks](#86---perks)
-    - [8.6.1 - Perk Limits](#861---perk-limits)
-    - [8.6.2 - Perk Swapping](#862---perk-swapping)
-    - [8.6.3 - Perk Skills](#863---perk-skills)
+    - [8.6.1 - Perk Levels](#861---perk-levels)
+    - [8.6.2 - Perk Limits](#862---perk-limits)
+    - [8.6.3 - Perk Swapping](#863---perk-swapping)
+    - [8.6.4 - Perk Skills](#864---perk-skills)
   - [8.6.4 - Perk Modifications](#864---perk-modifications)
   - [8.7 - Weapons](#87---weapons)
     - [8.7.1 - Banned Weapons](#871---banned-weapons)
@@ -209,36 +221,43 @@ The tournament will consist of two stages:
 - [Group Stage](#321---group-stage)
 - [Playoffs](#322---playoffs)
 
+### 3.2 - Format
+The tournament will consist of two stages:
+- [Group Stage](#321---group-stage)
+- [Playoffs](#322---playoffs)
+
 #### 3.2.1 - Group Stage
-In the **Group Stage**, all teams play in a series of **rounds** with the goal being to achieve qualification for the **Playoffs.**
+In the **Group Stage**, all teams play in a series of **rounds** with the goal being to achieve a favorable seeding for the **Playoffs.**
 
-The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map using predetermined [CD Parameters](#82---cd-parameters). These parameters will be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
+The Group Stage consists of **three rounds**, each lasting for **seven days**. Each round takes place on a predetermined map (one from the [Map Pool](#33---map-pool)) using predetermined [CD Parameters](#82---cd-parameters). These parameters will be announced the day the round officially begins. **For each round of the Group Stage, all teams play using the same parameters.**
 
-There are no brackets in this stage. Instead, ALL teams play simultaneously and aim to achieve the best results they can for a given round. Matches are **scored** using a new [Scoring System](#section-7-scoring) created specifically for this tournament.
+There are no brackets in this stage. Instead, ALL teams play simultaneously and aim to achieve the best results they can for a given round. Matches are **scored** using a customized [Scoring System](#section-7-scoring) created specifically for this tournament.
 
-Teams are responsible for **practicing, scheduling,** and eventually **playing** a single game per round using the required settings. The score earned for the match is taken as the team's score for that round. **There are no retries or redos.** Once a team's score has been set for a round, it cannot be set again. A team's score for a round is added to a running total, to be used to determine the standings for the **Playoffs** bracket(s).
+Teams are responsible for **practicing, scheduling,** and eventually **playing** a single game per round using the required settings. The score earned for the match is taken as the team's score for that round. Once a team's score has been set for a round, it cannot be set again, barring administrative decisions/actions. A team's score for a round is added to a running total, to be used to determine the standings for the **Playoffs** bracket(s).
 
 #### 3.2.2 - Playoffs
-The **top four** teams by **cumulative score** (total score across all rounds) from the Group Stage advance to the Playoffs. **All remaining teams are eliminated from the tournament.**
+After the conclusion of the Group Stage, the **Playoffs** phase begins.
 
-The Playoffs utilize a simple **Single Elimination Bracket** structure. The initial pairings/matchups of this bracket are determined using the teams' cumulative scores from the Group Stage.
+The Playoffs utilize a **6-Team Modified Elimination Bracket** structure. To create the pairings, each team's cumulative score from the **Group Stage** is used to assign a "seed" to each team. The team with the highest cumulative score becomes the **1st Seed**, the team with the second-highest cumulative score becomes the **2nd Seed** and so on.
 
-#### [Semifinals]
-The first set of matches played in the Playoffs are known as the **Semifinals.** This stage begins shortly after the end of the Group Stage.
+The initial pairings are then made according to the following diagram:
 
-**Teams play against one another in inverse-corresponding pairs based on their cumulative scores:**
-- The team with the **highest cumulative score** plays against the team with the **lowest cumulative score.**
-- The team with the **second-highest cumulative score** plays against the team with the **second-lowest cumulative score.**
-- ..and so on..
+![alt_text]()
 
-In this stage, **both teams play a single game individually.** Teams playing in this stage have **one week** to schedule and play a match. The team that earns the highest score wins the match and advances to the **Finals.**
+#### 3.2.2a - Quarterfinals
+TBD
 
-#### [Finals]
-The final match of the tournament is held between the two teams that advanced from the Semifinals.
+#### 3.2.2b - Semifinals
+TBD
 
-This stage begins **immediately after the last Semifinals match is played** and extends until no later than **Feb 14.** This means that the earlier the Semifinals matches are played, the more time may allotted for the remaining two teams to practice, coordinate, and play the final match. 
+#### 3.2.2c - Bronze Finals
+TBD
 
-In this stage, **both teams play two games in a row.** The cumulative score earned across both games becomes the team's final score for the match. The team that earns the highest score wins the tournament.
+#### 3.2.2d - Silver Finals
+TBD
+
+#### 3.2.2e - Grand Finals
+TBD
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
@@ -246,6 +265,40 @@ This list is subject to change at any time and does not necessarily represent th
 ```
 TBD
 ```
+
+#### 3.3.1 - Map Bans
+For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of each round, team captains take turns **banning** maps from the sub pool that they do not wish to play until a final choice is determined. The bans are overseen by either one of the **Tournament Directors** or an **Assistant Director** to establish legitimacy.
+
+At the beginning of each round, the Captains of teams participating in a given matchup will be contacted via a private Discord Thread where they will be required to cast their bans. The order that bans are made depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
+
+- There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
+- There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban after the initial call.
+
+#### 3.3.1a - Quarterfinals
+- 3 Maps in round pool
+- Each Captain bans 1 Map, leaving 1 Map to be played
+- The team that is the lower/weaker seed bans first
+
+#### 3.3.1b - Semifinals / Bronze Finals / Silver Finals
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
+- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
+
+#### 3.3.1c - Grand Finals
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
+- The team that had the lowest final score in the previous round bans first
+
+#### 3.3.1d - Penalties
+There are various penalties in place on Map Bans, as follows:
+- If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **the second team shall choose the map(s) to play**
+- If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play**
+- If both teams fail to make their bans or respond to the initial call *within 24 hours*, **the Tournament Directors shall choose the map(s) to play**
+
+**Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
+
+#### 3.3.1e - Equality
+To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
 
 
 # Section 4: Registration Process
@@ -374,10 +427,14 @@ For all phases of the tournament, matches must be confirmed with the Tournament 
 
 **It is the responsibility of all Captains involved in a given match to schedule and finalize match times with one another and relay these times to the Tournament Staff.**
 
+For matches in the **Playoffs** phase, Captains will also be required to submit their choices for [3.3.1](#331---map-bans)). See that section for more information.
+
 ### 6.3 - Scheduling Format
 Team Captains shall submit the following to the Tournament Staff when scheduling a match:
 - The **Start Time** AND **Date** for the match, *with time zones*
-- The preferred **Server Region** (e.g. US, EU, AS)
+- The preferred **server** (taken from the official list of tournament servers)
+
+**Note:** In the event a scheduling conflict arises with another team, the Tournament Directors shall reserve the right to choose a server for the team or even mandate a schedule change (in the worst case scenario only) to assure that everyone can play.
 
 ### 6.4 - Scheduling Deadline
 The **Scheduling Deadline** refers to the point in time after which teams are no longer able to schedule matches. Note that this does not mean the match must be *played* by this deadline, but rather *scheduled*.
@@ -427,7 +484,9 @@ If you wish to withdraw from the tournament, please notify one of the tournament
 
 In the Group Stage, if a team fails to appear to any match, a **zero score** will be assigned and that team must then contact Tournament Staff to confirm that they will play in the next round **by the scheduling deadline for that round**. Failure to do this will result the **team's removal from the tournament** without notice.
 
-In the Playoffs, if a team fails to appear to any match, a zero score will be assigned and that team will be **eliminated** from the tournament automatically.
+In the Playoffs, if a team fails to appear to any match, they will automatically **forfeit** the match. If neither team appears, a **double forfeit** occurs.
+
+In the case of a double forfeit where the results of the match would determine one or more **final places** in the tournament for the teams involved, the team's seedings (relative to one another) shall be used to determine the final placements. The team with the more dominant seeding will obtain the higher final placing, and the team with the weaker seeding will obtain the lower final placing.
 
 ### 6.10 - Ringers & Substitutions
 A **ringer** is a player not part of the team's active roster who substitutes to fill out the roster for a given match.
@@ -573,19 +632,22 @@ Aside from Tournament Staff and other authorized parties (such as commentators a
 This includes members of the team who are not playing in the match. If a non-participating team member joins the server as a spectator, the team will receive a **zero point score** for the round.
 
 ### 8.6 - Perks
-#### 8.6.1 - Perk Limits
+#### 8.6.1 - Perk Levels
+All player Perks will be forced to Level 25.
+
+#### 8.6.2 - Perk Limits
 There are limits in place on the Perk composition the team can possess at any given time:
 TBD
 
 These limitations are **strictly** enforced. Not adhering to the requirements will result in the team receiving a **zero score** for the match!
 
-#### 8.6.2 - Perk Swapping
+#### 8.6.3 - Perk Swapping
 In the Lobby, players are freely allowed to change Perks, however after the match starts, **players will no longer be able to select a new Perk for the remainder of the match.**
 
-#### 8.6.3 - Perk Skills
+#### 8.6.4 - Perk Skills
 There are no restrictions on the changing of **Perk Skills** in this tournament. Players can alter their Perk's skills as often as they desire during the Trader period.
 
-#### 8.6.4 - Perk Modifications
+#### 8.6.5 - Perk Modifications
 Some Perks (and their skills) have been modified in this tournament. The modifications made are as follows:
 ```
 TBD
