@@ -1,4 +1,4 @@
-![alt_text]()
+![alt_text](https://i.imgur.com/Y99js4m.png)
 
 # Tournament Commentator Guidelines
 This document is meant to give **Tournament Commentators** a few guidelines on casting matches for the tournament.
