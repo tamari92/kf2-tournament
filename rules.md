@@ -373,7 +373,7 @@ For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken 
 At the beginning of each round, the Captains of teams participating in a given matchup will be contacted via a private Discord Thread where they will be required to cast their bans. The order that bans are made depends on the round in question (see below). Furthermore, the number of maps to ban also depends on the round.
 
 - There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
-- There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban.
+- There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban after the initial call.
 
 #### 3.3.1a - Quarterfinals
 - 3 Maps in round pool
@@ -396,13 +396,15 @@ There are various penalties in place on Map Bans, as follows:
 - If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play**
 - If both teams fail to make their bans or respond to the initial call *within 24 hours*, **the Tournament Directors shall choose the map(s) to play**
 
+**Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
+
 #### 3.3.1e - Equality
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
 
 
 # Section 4: Registration Process
 ### 4.1 - Registration
-The regular registration period begins **TBD** and closes on **TBD**, lasting exactly **TBD days.**
+The regular registration period begins **May 22, 2023** and closes on **June 21, 2023**, lasting exactly **30 days.**
 
 ### 4.2 - Double Registration
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
@@ -461,7 +463,7 @@ The formation of teams is conducted in five distinct phases:
 - [Player Draft](#525---player-draft)
 
 #### 5.2.1 - Player Sign-ups
-As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **28 days.**
+As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **30 days.**
 
 On the signup form, an option is given that allows the participant to specify their preferred role within the team, either **Captain**, **Co-Captain**, or **Player**. Note that a player’s specified preference may not reflect their actual assigned role when the teams are finally established.
 
@@ -506,7 +508,7 @@ The same process then repeats for the players in **Group 2.**
 
 The result of this process is (hopefully) a set of teams which have a similar average skill level across their rosters due to the even distribution of players of varying experience.
 
-**Note** The Tournament Staff reserve the right to make adjustments to team rosters as they see fit to ensure the best possible balance. This, however, will only be exercised in extreme cases.
+**Note:** The Tournament Staff reserve the right to make adjustments to team rosters as they see fit to ensure the best possible balance. This, however, will only be exercised in extreme cases.
 
 ### 5.3 - Roster Integrity
 Teams may *only* use the players in the rosters formed from [5.2.5](#525---player-draft). If a player leaves, exits, or is removed from the team, the team Captain is required to inform the Tournament Staff immediately so that a replacement can be found (typically drawn from the overflow pool).
@@ -526,17 +528,21 @@ For all phases of the tournament, matches must be confirmed with the Tournament 
 
 **It is the responsibility of all Captains involved in a given match to schedule and finalize match times with one another and relay these times to the Tournament Staff.**
 
+For matches in the **Playoffs** phase, Captains will also be required to submit their choices for [3.3.1](#331---map-bans)). See that section for more information.
+
 ### 6.3 - Scheduling Format
 Team Captains shall submit the following to the Tournament Staff when scheduling a match:
 - The **Start Time** AND **Date** for the match, *with time zones*
-- The preferred **Server Region** (e.g. US, EU, AS)
+- The preferred **server** (taken from the official list of tournament servers)
+
+**Note:** In the event a scheduling conflict arises with another team, the Tournament Directors shall reserve the right to choose a server for the team or even mandate a schedule change (in the worst case scenario only) to assure that everyone can play.
 
 ### 6.4 - Scheduling Deadline
 The **Scheduling Deadline** refers to the point in time after which teams are no longer able to schedule matches. Note that this does not mean the match must be *played* by this deadline, but rather *scheduled*.
 
 In the **Group Stage**, the Scheduling Deadline is **48 hours** before the end of the round. For example, if the round ends on **Jan 6 @ 23:59 EST**, then the latest that a match can be scheduled for that round is on **Jan 4 @ 23:59 EST**, exactly **48 hours** before.
 
-In the **Playoffs**, the Captains from both teams are required to coordinate a time to play their games and relay this information to the Tournament Staff at least **48 hours** before the agreed-upon match start time. The earlier, the better.
+In the **Playoffs**, the Captains from both teams are required to coordinate a time to play their games and relay this information to the Tournament Staff at least **48 hours** before the agreed-upon match start time. The earlier, the better, as it gives us more time to prepare a team of casters and streamers for each match.
 
 ### 6.5 - Matches With Multiple Games
 #### 6.5.1 - Intermission
@@ -579,7 +585,9 @@ If you wish to withdraw from the tournament, please notify one of the tournament
 
 In the Group Stage, if a team fails to appear to any match, a **zero score** will be assigned and that team must then contact Tournament Staff to confirm that they will play in the next round **by the scheduling deadline for that round**. Failure to do this will result the **team's removal from the tournament** without notice.
 
-In the Playoffs, if a team fails to appear to any match, a zero score will be assigned and that team will be **eliminated** from the tournament automatically.
+In the Playoffs, if a team fails to appear to any match, they will automatically **forfeit** the match. If neither team appears, a **double forfeit** occurs.
+
+In the case of a double forfeit where the results of the match would determine one or more **final places** in the tournament for the teams involved, the team's seedings (relative to one another) shall be used to determine the final placements. The team with the more dominant seeding will obtain the higher final placing, and the team with the weaker seeding will obtain the lower final placing.
 
 ### 6.10 - Ringers & Substitutions
 A **ringer** is a player not part of the team's active roster who substitutes to fill out the roster for a given match.
