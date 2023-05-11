@@ -27,11 +27,11 @@
       - [3.2.2e - Grand Finals](#322e---grand-finals)
   - [3.3 - Map Pool](#33---map-pool)
     - [3.3.1 - Map Bans](#331---map-bans)
-      - [3.3.1a - Quarterfinals](#331a---quarterfinals)
-      - [3.3.1b - Semifinals / Bronze Finals / Silver Finals](#331b---semifinals---bronze-finals---silver-finals)
-      - [3.3.1c - Grand Finals](#331c---grand-finals)
-      - [3.3.1d - Penalties](#331d---penalties)
-      - [3.3.1e - Equality](#331e---equality)
+      - [3.3.1a - Penalties](#331a---penalties)
+      - [3.3.1b - Equality](#331b---equality)
+      - [3.3.1c - Quarterfinals](#331c---quarterfinals)
+      - [3.3.1d - Semifinals / Bronze Finals / Silver Finals](#331d---semifinals---bronze-finals---silver-finals)
+      - [3.3.1e - Grand Finals](#331e---grand-finals)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -373,22 +373,7 @@ At the beginning of each round, the Captains of teams participating in a given m
 - There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
 - There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban after the initial call.
 
-#### 3.3.1a - Quarterfinals
-- 3 Maps in round pool
-- Each Captain bans 1 Map, leaving 1 Map to be played
-- The team that is the lower/weaker seed bans first
-
-#### 3.3.1b - Semifinals / Bronze Finals / Silver Finals
-- 4 Maps in round pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
-- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
-
-#### 3.3.1c - Grand Finals
-- 4 Maps in round pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
-- The team that had the lowest final score in the previous round bans first
-
-#### 3.3.1d - Penalties
+#### 3.3.1a - Penalties
 There are various penalties in place on Map Bans, as follows:
 - If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **the second team shall choose the map(s) to play**
 - If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play**
@@ -396,8 +381,23 @@ There are various penalties in place on Map Bans, as follows:
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
 
-#### 3.3.1e - Equality
+#### 3.3.1b - Equality
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
+
+#### 3.3.1c - Quarterfinals
+- 3 Maps in round pool
+- Each Captain bans 1 Map, leaving 1 Map to be played
+- The team that is the lower/weaker seed bans first
+
+#### 3.3.1d - Semifinals / Bronze Finals / Silver Finals
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
+- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
+
+#### 3.3.1e - Grand Finals
+- 4 Maps in round pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
+- The team that had the lower final score in the Semifinals bans first
 
 
 # Section 4: Registration Process
