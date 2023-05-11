@@ -290,7 +290,7 @@ The Playoffs utilize a **6-Team Modified Elimination Bracket** structure. To cre
 
 The initial pairings are then made according to the following diagram:
 
-![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/ja2bhxA.png)
+![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/8qsBt52.png)
 
 (sourced from: https://www.cs.rochester.edu/u/ferguson/ultimate/upa-formats/upa-formats-6.html | Section 6.3)
 
