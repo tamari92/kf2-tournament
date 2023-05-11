@@ -30,6 +30,8 @@
       - [3.3.1a - Quarterfinals](#331a---quarterfinals)
       - [3.3.1b - Semifinals / Bronze Finals / Silver Finals](#331b---semifinals---bronze-finals---silver-finals)
       - [3.3.1c - Grand Finals](#331c---grand-finals)
+      - [3.3.1d - Penalties](#331d---penalties)
+      - [3.3.1e - Equality](#331e---equality)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -372,15 +374,6 @@ At the beginning of each round, teams participating in a given matchup will be c
 
  There is a grace period of **8 hours** between bans cast. Once one team makes their ban, the other must make their choice within that timeframe to avoid penalties.
 
-#### 3.3.1a - Penalties
-There are various penalties in place on Map Bans, as follows:
-- If the first team to ban is unavailable or does not respond to the call, **the second team shall choose the map(s) to play**
-- If the first ban is made, but the second team does not make their ban within the grace period, **the first team shall choose the map(s) to play**
-- If both teams fail to make their bans or respond to the call, **the Tournament Directors shall choose the map(s) to play**
-
-#### 3.3.1b - Equality
-To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
-
 #### 3.3.1a - Quarterfinals
 - 3 Maps in round pool
 - Each Captain bans 1 Map, leaving 1 Map to be played
@@ -395,6 +388,15 @@ To establish an equally competitive setting, **all teams playing in a given roun
 - 4 Maps in round pool
 - Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
 - The team that had the lowest final score in the previous round bans first
+
+#### 3.3.1d - Penalties
+There are various penalties in place on Map Bans, as follows:
+- If the first team to ban is unavailable or does not respond to the call, **the second team shall choose the map(s) to play**
+- If the first ban is made, but the second team does not make their ban within the grace period, **the first team shall choose the map(s) to play**
+- If both teams fail to make their bans or respond to the call, **the Tournament Directors shall choose the map(s) to play**
+
+#### 3.3.1e - Equality
+To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
 
 
 # Section 4: Registration Process
