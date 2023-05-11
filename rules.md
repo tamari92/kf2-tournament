@@ -35,9 +35,11 @@
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
-  - [4.3 - Overflow Pool](#43---overflow-pool)
-  - [4.4 - Banned Players](#44---banned-players)
-  - [4.5 - Names](#45---names)
+  - [4.3 - Authentication](#43---authentication)
+  - [4.4 - Confirmation](#44---confirmation)
+  - [4.5 - Banned Players](#45---banned-players)
+  - [4.6 - Names](#46---names)
+  - [4.7 - Overflow Pool](#47---overflow-pool)
 - [Section 5: Team Structure](#section-5-team-structure)
   - [5.1 - Team Roster](#51---team-roster)
   - [5.2 - Team Formation](#52---team-formation)
@@ -405,26 +407,38 @@ The regular registration period begins **May 20, 2023** and closes on **June 21,
 ### 4.2 - Double Registration
 Players may not register to play in the same tournament more than once. Submitting multiple registrations will cause all registrations to be revoked and may result in further disciplinary action at the discretion of the Tournament Staff.
 
-### 4.3 - Overflow Pool
-Following the conclusion of the **regular registration** period, the **Overflow Pool** shall be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players shall be moved to the Overflow Pool. Players in the pool shall be **grouped by experience** (see [5.22](#522---player-grouping) for more information) and further prioritized by the date and time they signed up.
+### 4.3 - Authentication
+All players are required to submit their STEAMID64 during registration, which will be used to authenticate players.
 
-The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the appropriate player group buffer shall be drawn from in order of priority in order to fill the vacant slot on the team.
+**All players are required to use the account they sign up with for the entire tournament, or risk being removed from the tournament and barred from entering future Tamari's KF2 events.**
 
-After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage.** Players who sign up at this time shall be automatically placed into the Overflow Pool.
+### 4.4 Confirmation
+Following their submission, all players are required to join the official tournament discord server and **contact one of the Tournament Directors or Assistant Directors** to confirm their signup.
 
-### 4.4 - Banned Players
+This step is mandatory to prevent false signups and ensure that we have an accurate representation of who is actually participating.
+
+If a player does not confirm their signup by the end of the signup phase, their submission will be dropped.
+
+### 4.5 - Banned Players
 Players who have already been banned from Tamari’s KF2 Servers for any reason are barred from participating in this tournament and any applications or sign-ups from these users will be discarded.
 
 Players will be required to submit their STEAMID during the sign-up phase, which will be checked against our global bans list.
 
 Integrity is of the utmost importance. If a Steam account possesses a **VAC Ban** or **Game Ban**, the account holder will be required to explain why they were banned. Refusing will be seen as suspicious and may result in the sign-up being revoked.
 
-### 4.5 - Names
+### 4.6 - Names
 All players will be required to give a name during the registration phase. **Players will be required to use these names for the duration of the tournament.**
 
 If a player must change their name, the Tournament Staff must be informed. It is permitted for players to make minor adjustments to their name (such as adding clan tags or symbols to denote their team) without having to inform the Tournament Staff.
 
 **Names displaying obscenities or showing an overall lack of maturity or sensitivity will not be tolerated and can result in the team's suspension from the tournament.**
+
+### 4.7 - Overflow Pool
+Following the conclusion of the **regular registration** period, the **Overflow Pool** shall be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players shall be moved to the Overflow Pool. Players in the pool shall be **grouped by experience** (see [5.22](#522---player-grouping) for more information) and further prioritized by the date and time they signed up.
+
+The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the appropriate player group buffer shall be drawn from in order of priority in order to fill the vacant slot on the team.
+
+After the regular sign-ups close, **players can continue to sign up for the tournament until the beginning of the first round of the Group Stage.** Players who sign up at this time shall be automatically placed into the Overflow Pool.
 
 
 # Section 5: Team Structure
