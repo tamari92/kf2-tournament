@@ -49,7 +49,7 @@ Some streams have the game sectioned off on one specific part of the overlay. Pl
 
 
 Here is a link to a hi-res version of the tournament banner:
-- https://i.imgur.com/UVd2Ano.png
+- https://i.imgur.com/4LaIsp1.png
 
 The server already takes care of displaying this banner in-game to the spectators, however you are more than welcome to display this banner elsewhere on your stream (during AFK scenes, starting soon scenes, etc).
 
@@ -67,35 +67,107 @@ Here are some examples from my own stream. Feel free to copy if you'd like:
 Here's an example of a good cast with great production quality and nice visuals:
 https://youtu.be/M1EaEyw6i8I?t=1073
 
+Some examples of casts from previous tournaments:
+https://www.youtube.com/watch?v=YhYblPS91PA&list=PLuyPJLvrLKbQI5ywhaxACsHvw1tYZCo8U
+
 
 ## V. Server Specific Settings
 By typing the `!settings` command into the **Chat Box** (T), the server's custom settings menu can be accessed.
 
 Please make sure the following are in use for the stream:
 
-Under the **Settings** tab:
+**HUD**
 ```
-Show ZED Time HUD                      True
-Enable BW ZED Time                     True
-Enable Custom Popups                   False
-Exclude from Spectator Queue           True
-Player Info Header                     Name Only
-Enable Smooth Spectator Camera         True
-Show Large ZED Kills                   True
+Modern Scoreboard                      True
 ```
-Under the **Friendly HUD** tab:
+**HUD Elements: Main**
 ```
-Disable HUD                            True
+Global Large ZED Kill Ticker           True
+ZED Time Counter                       True
+```
+**HUD Elements: World**
+```
+Player Info Type                       Name Only
+```
+**Gameplay: General**
+```
+Disable ZED Time Filter                False
+Ignore Spectator Queue                 True
+Cinematic Spectator Camera             True
+```
+**Miscellaneous**
+```
+Disable Cosmetics                      False
+Spectator Camera Speed                 0.50
+```
+**Colors**
+```
+Elite ZED Glow Color                   #8AD7DC
+Fleshpound Glow Color                  #FAC819
+Fleshpound Rage Glow Color             #FF4040
 ```
 
 
-## VI. Conduct
+## VI. Required Keybinds
+### Camera Descent
+An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera.
+
+The steps to set this up are as follows:
+1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
+2. Search for the `Name="Duck"` input (include the quotes) and add the following to the end of the **Command** field: ` | Axis aUp Speed=-1.0 AbsoluteAxis=100`
+3. An example entry with the new stuff added: `Bindings=(Name="Duck",Command="Button bDuck | Axis aUp Speed=-1.0 AbsoluteAxis=100")`
+4. Repeat this for ALL instances of the Duck keybind
+
+### Spectate Next/Prev Players
+There are specific keybinds for cycling between players while spectating.
+
+Spectate Next Player
+1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
+2. Search for  `Name="RightMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | SpectateNextPlayer`
+3. An example entry with the new stuff added: `Bindings=(Name="RightMouseButton",Command="GBA_IronsightsToggle | SpectateNextPlayer")`
+4. Repeat this for ALL instances of the RightMouseButton keybind
+
+Spectate Previous Player
+1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
+2. Search for  `Name="LeftMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | SpectatePrevPlayer`
+3. An example entry with the new stuff added: `Bindings=(Name="LeftMouseButton",Command="GBA_Fire | SpectatePrevPlayer",Control=False,Shift=False,Alt=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)`
+4. Repeat this for ALL instances of the LeftMouseButton keybind
+
+### Change Camera Mode
+This keybind lets you swap between the different camera modes (First Person View, Free Chase Cam, Locked Chase Cam, and Free Look).
+
+1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
+2. Search for  `Name="MiddleMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | ChangeCamMode`
+3. An example entry with the new stuff added: `Bindings=(Name="MiddleMouseButton",Command="SpectateChangeCamMode",Control=False,Shift=False,Alt=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)`
+4. Repeat this for ALL instances of the MiddleMouseButton keybind
+
+
+## VII. Camera Controls
+This tournament uses a custom spectate system with enhanced features, enabling much more complex and precise control over the camera.
+
+```
+1                  Spectate Player 1
+2                  Spectate Player 2
+3                  Spectate Player 3
+4                  Spectate Player 4
+5                  Spectate Player 5
+6                  Spectate Player 6
+7                  Spectate Next Boss
+8                  Spectate Next Painted Target
+9                  Jump to Objective Zone
+SHIFT (Hold)       Real-time Movement During ZED Time (when in free camera)
+ALT (Hold)         Enable mouse cursor (see below for combinations)
+ALT + LeftMouse    Jump to Target
+ALT + RightMouse   Paint Target
+```
+
+## VIII. Conduct
 Please keep it professional. Your behavior directly reflects on the tournament organization as a whole.
 
 In the event that a Tournament Streamer also functions as a **Commentator**, they should be as professional as possible and avoid using excessive foul language and/or behaving in a crude or immature manner.
 
 
-## VII. Ownership
+## IX. Ownership
 Tamari's KF2 Tournaments does not own the content you produce related to our tournament(s).
 
 However, by agreeing to stream the matches, you consent to us downloading your VODs and uploading them to the official tournament channels (YouTube, etc).
