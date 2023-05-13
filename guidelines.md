@@ -342,7 +342,7 @@ This produces the following pairs:
 
 Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331a---one-map-to-play). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
 
-A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Winners Semifinals**. The two losing teams are dropped into the **Losers Bracket** sub bracket and receive a **1 week bye** while they await their opponents, the losers of the **Winners Semifinals**.
+A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Winners Semifinals**. The two losing teams are dropped into the **Losers Bracket** and receive a **1 week bye** while they await their opponents, the losers of the **Winners Semifinals**, in the **Losers Quarterfinals**.
 
 #### 3.2.2b - Winners Semifinals
 The two teams that advance from the **Winners Quarterfinals** are paired against the **1st** and **2nd** seeds.
