@@ -20,18 +20,19 @@
   - [3.2 - Format](#32---format)
     - [3.2.1 - Group Stage](#321---group-stage)
     - [3.2.2 - Playoffs](#322---playoffs)
-      - [3.2.2a - Quarterfinals](#322a---quarterfinals)
-      - [3.2.2b - Semifinals](#322b---semifinals)
-      - [3.2.2c - Bronze Finals](#322c---bronze-finals)
-      - [3.2.2d - Silver Finals](#322d---silver-finals)
-      - [3.2.2e - Grand Finals](#322e---grand-finals)
+      - [3.2.2a - Winners Quarterfinals](#322a---winners-quarterfinals)
+      - [3.2.2b - Winners Semifinals](#322b---winners-semifinals)
+      - [3.2.2c - Winners Finals](#322c---winners-finals)
+      - [3.2.2d - Losers Quarterfinals](#322d---losers-quarterfinals)
+      - [3.2.2e - Losers Semifinals](#322e---losers-semifinals)
+      - [3.2.2f - Losers Finals](#322f---losers-finals)
+      - [3.2.2g - Grand Finals](#322g---grand-finals)
   - [3.3 - Map Pool](#33---map-pool)
     - [3.3.1 - Map Bans](#331---map-bans)
-      - [3.3.1a - Penalties](#331a---penalties)
-      - [3.3.1b - Equality](#331b---equality)
-      - [3.3.1c - Quarterfinals](#331c---quarterfinals)
-      - [3.3.1d - Semifinals / Bronze Finals / Silver Finals](#331d---semifinals---bronze-finals---silver-finals)
-      - [3.3.1e - Grand Finals](#331e---grand-finals)
+      - [3.3.1a - One Map To Play](#331a---one-map-to-play)
+      - [3.3.1b - Two Maps To Play](#331b---two-maps-to-play)
+      - [3.3.1c - Penalties](#331c---penalties)
+      - [3.3.1d - Equality](#331d---equality)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -231,9 +232,11 @@ The Tournament Directors and Assistant Directors reserve the right to impose any
 **Members of the Tournament Staff are permitted to participate in the tournament.** Where there may be an appearance of a conflict of interest, a staff member will yield to a counterpart if possible.
 
 **Tournament Commentators** and **Streamers** who are also playing in the tournament are subject to the following restrictions:
-- Streaming/commentating of ANY matches directly involving the streamer's/commentator's own team is strictly forbidden.
+- Streaming/commentating of ANY matches directly involving the streamer's/commentator's own team is forbidden.
 - For matches in any round of the Group Stage, it is forbidden to stream a match UNLESS the match takes place at a time AFTER the streamer's/commentator's own team's match has already completed for that round.
 - Streaming/commentating is forbidden in the Playoffs stage if the streamer's/commentator's team is still a part of the tournament at the time the match takes place.
+
+Note that the Tournament Directors shall reserve the right to overrule the above procedures if circumstances warrant it.
 
 
 # Section 3: Tournament Structure
@@ -243,42 +246,60 @@ The Tournament Directors and Assistant Directors reserve the right to impose any
 #### [Preliminary Schedule]
 ```
 May 20      Official Tournament Announcement
-            Regular sign-ups open
------------------------------------------------------
-Jun 21      Regular sign-ups close
+            Map Pool announced
+            Closed sign-ups begin
+-------------------------------------------------------------------------
+May 27      Closed sign-ups end
+            Open sign-ups begin
+-------------------------------------------------------------------------
+Jun 21      Open sign-ups close
             Overflow sign-ups open
------------------------------------------------------
+-------------------------------------------------------------------------
 Jun 22      Players sorted into Experience Groups
             Captains choose their Co-Captains
------------------------------------------------------
+-------------------------------------------------------------------------
 Jun 23      Co-Captain pairings finalized
             Player Draft
-            Map Pool announced
------------------------------------------------------
+-------------------------------------------------------------------------
 Jul 3       Overflow sign-ups close
             Tournament officially begins
 ```
 #### [Group Stage Schedule]
 ```
-Jul 3       Group Stage Round 1
-------------------------------------------------------
-Jul 10      Group Stage Round 2
-------------------------------------------------------
-Jul 17      Group Stage Round 3
-------------------------------------------------------
-Jul 24      Group Stage Ends
+Jul 3       Group Stage Round 1 begins & match details announced
+--------------------------------------------------------------------------
+Jul 10      Group Stage Round 1 ends
+            Group Stage Round 2 begins & match details announced
+--------------------------------------------------------------------------
+Jul 17      Group Stage Round 2 ends
+            Group Stage Round 3 begins & match details announced
+--------------------------------------------------------------------------
+Jul 24      Group Stage Round 3 ends
+            Group Stage Ends
 ```
 #### [Playoffs Schedule]
 ```
-Jul 24      Quarterfinals
-------------------------------------------------------
-Jul 31      Semifinals
-            Bronze Finals
-------------------------------------------------------
-Aug 14      Grand Finals
-            Silver Finals
-------------------------------------------------------
-Aug 28      Playoffs End
+Jul 24      Winners Quarterfinals begins & match details announced
+--------------------------------------------------------------------------
+Jul 31      Winners Quarterfinals ends
+            Winners Semifinals begins & match details announced
+--------------------------------------------------------------------------
+Aug 7       Winners Semifinals ends
+            Winners Finals begins & match details announced
+            Losers Quarterfinals begins & match details announced
+--------------------------------------------------------------------------
+Aug 14      Losers Quarterfinals ends
+            Losers Semifinals begins & match details announced
+--------------------------------------------------------------------------
+Aug 21      Winners Finals ends
+            Losers Semifinals ends
+            Losers Finals begins & match details announced
+--------------------------------------------------------------------------
+Aug 28      Losers Finals ends
+            Grand Finals begins & match details announced
+--------------------------------------------------------------------------
+Sep 11      Grand Finals ends
+            Playoffs End
             Tournament concludes
 ```
 
@@ -299,19 +320,17 @@ Teams are responsible for **practicing, scheduling,** and eventually **playing**
 #### 3.2.2 - Playoffs
 After the conclusion of the Group Stage, the **Playoffs** phase begins.
 
-The Playoffs utilize a **6-Team Modified Elimination Bracket** structure. To create the pairings, each team's cumulative score from the **Group Stage** is used to assign a "seed" to each team. The team with the highest cumulative score becomes the **1st Seed**, the team with the second-highest cumulative score becomes the **2nd Seed** and so on.
+The Playoffs utilize a **6-Team Double Elimination Bracket** structure. To create the pairings, each team's cumulative score from the **Group Stage** is used to assign a "seed" to each team. The team with the highest cumulative score becomes the **1st Seed**, the team with the second-highest cumulative score becomes the **2nd Seed** and so on.
 
-The initial pairings are then made according to the following diagram:
+The pairings for each round are then made according to the following diagram:
 
-![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/8qsBt52.png)
+![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/Azs94pC.png)
+(sourced from https://www.baberuthleague.org/media/11192/6team.pdf)
 
-(sourced from: https://www.cs.rochester.edu/u/ferguson/ultimate/upa-formats/upa-formats-6.html  |  Table 6.3)
+#### 3.2.2a - Winners Quarterfinals
+The first round of the Playoffs is known as the **Winners Quarterfinals** and begins immediately after the conclusion of the Group Stage.
 
-
-#### 3.2.2a - Quarterfinals
-The first stage of the Playoffs is known as the **Quarterfinals** and begins immediately after the conclusion of the Group Stage.
-
-In this stage, the **1st** and **2nd** Seeds receive a **bye**, which relieves them from playing in the round. Instead, they are safe from elimination and await the winners of this round in the upcoming **Semifinals** phase.
+In this round, the **1st** and **2nd** Seeds receive a **bye**, which relieves them from playing in the round. Instead, they are safe from elimination and await the winners of this round in the upcoming **Semifinals** phase.
 
 The remaining teams are then paired an in **"end-to-end"** scheme, meaning that the highest-seeded team plays against the lowest-seeded team, the second-highest team plays against the second-lowest seeded team, and so on.
 
@@ -321,42 +340,57 @@ This produces the following pairs:
 4th Seed VS 5th Seed
 ```
 
-Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331c---quarterfinals). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
+Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331c-one-map-to-play). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
 
-A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Semifinals**. The two losing teams are dropped into the **Bronze Finals** sub bracket to play for 5th and 6th place.
+A team's total score for the round is the cumulative score across all scenarios to be played. The team with the highest total score across all scenarios wins the round and advances to the **Winners Semifinals**. The two losing teams are dropped into the **Losers Bracket** sub bracket and receive a **1 week bye** while they await their opponents, the losers of the **Winners Semifinals**.
 
-#### 3.2.2b - Semifinals
-The two teams that advance from the **Quarterfinals** are paired against the **1st** and **2nd** seeds.
+#### 3.2.2b - Winners Semifinals
+The two teams that advance from the **Winners Quarterfinals** are paired against the **1st** and **2nd** seeds.
 
-In this round, teams again play **two games**, however **each game takes place on a different map**, determined through a series of [Map Bans](#331d---semifinals--bronze-finals--silver-finals).
+As in the **Winners Quarterfinals**, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331c-one-map-to-play).
 
-Each map to be played has its own unique set of Objectives, Bosses, and CD Parameters.
+A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round and advances to the **Winners Semifinals**. The two losing teams are dropped into the **Losers Quarterfinals**.
 
-A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round and advances to the **Grand Finals**. The two losing teams are dropped into the **Silver Finals** sub bracket to play for 3rd and 4th place.
+#### 3.2.2c - Winners Finals
+The **Winners Finals** pits the two teams that advanced from the **Winners Semifinals** against one another.
 
-#### 3.2.2c - Bronze Finals
-The two teams that lost in the **Quarterfinals** are paired against one another in the **Bronze Finals**.
+In this round, **two maps** are played instead of a single map (with multiple scenarios). The maps to be played are chosen through a series of [Map Bans](#331d-two-maps-to-play).
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331d---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+The winner of this round advances to the **Grand Finals**, where they await the winner of the **Losers Finals**. The losing team is dropped into the **Losers Finals**.
 
-- The winner finishes the tournament in **5th place**.
-- The loser finishes the tournament in **6th place**.
+#### 3.2.2d - Losers Quarterfinals
+The four teams (total) that lost in the **Winners Quarterfinals** and **Winners Semifinals** are paired against one another in the **Losers Quarterfinals**.
 
-#### 3.2.2d - Silver Finals
-The two teams that lost in the **Semifinals** are paired against one another in the **Silver Finals**.
+In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331c-one-map-to-play).
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331d---semifinals--bronze-finals--silver-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+- The losing team that obtains the highest score this round is eliminated from the tournament in **5th Place**.
+- The losing team that obtains the lowest score this round is eliminated from the tournament in **6th Place**.
 
-- The winner finishes the tournament in **3rd place**.
-- The loser finishes the tournament in **4th place**.
+#### 3.2.2e - Losers Semifinals
+The two teams that advance from the **Losers Quarterfinals** are paired against one another.
 
-#### 3.2.2e - Grand Finals
-The final match of the tournament is held between the two teams that advanced from the **Semifinals**.
+In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331c-one-map-to-play).
 
-Like before, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331e---grand-finals). A team's total score for the round is the cumulative score across all games to be played. The team with the highest total score wins the round.
+The losing team is eliminated from the tournament in **4th Place**.
 
-- The winner is the **tournament champion (1st place)**.
-- The loser finishes the tournament in **2nd place**.
+#### 3.2.2f - Losers Finals
+The **Losers Finals** pits the team that advanced from the **Losers Semifinals** against the loser of the **Winners Finals**.
+
+In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331c-one-map-to-play).
+
+The winner of this round advances to the **Grand Finals**, where they are awaited by the winner of the **Winners Finals**. The losing team is eliminated from the tournament in **3rd Place**.
+
+#### 3.2.2g - Grand Finals
+The final match of the tournament is held between the two teams that advanced from the **Winners Finals** and **Losers Finals**.
+
+Similarly to the **Winners Finals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331e---grand-finals). A team's total score for the round is the cumulative score across all games to be played.
+
+- The winner of this round is the **tournament champion (1st Place)**.
+- The losing team is eliminated from the tournament in **2nd Place**.
+
+To win the tournament, the team that advanced from the **Winners Finals** only needs to win a single two-game series.
+
+Meanwhile, the team that advanced from the **Losers Finals** must win two two-game series in a row to win the tournament.
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
@@ -373,7 +407,19 @@ At the beginning of each round, the Captains of teams participating in a given m
 - There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
 - There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban after the initial call.
 
-#### 3.3.1a - Penalties
+#### 3.3.1a - One Map To Play
+When there is **one map** to be played, the following procedures are followed:
+- 3 Maps in round Map Pool
+- Each Captain bans 1 Map, leaving 1 Map to be played
+- The team that is the lower/weaker seed bans first
+
+#### 3.3.1b - Two Maps To Play
+When there are **two maps** to be played, the following procedures are followed:
+- 4 Maps in round Map Pool
+- Each Captain bans 1 Map, leaving 2 Maps to be played. The order to play the maps is determined by a coin toss
+- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
+
+#### 3.3.1c - Penalties
 There are various penalties in place on Map Bans, as follows:
 - If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **the second team shall choose the map(s) to play**
 - If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play**
@@ -381,23 +427,8 @@ There are various penalties in place on Map Bans, as follows:
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
 
-#### 3.3.1b - Equality
+#### 3.3.1d - Equality
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
-
-#### 3.3.1c - Quarterfinals
-- 3 Maps in round pool
-- Each Captain bans 1 Map, leaving 1 Map to be played
-- The team that is the lower/weaker seed bans first
-
-#### 3.3.1d - Semifinals / Bronze Finals / Silver Finals
-- 4 Maps in round pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
-- Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
-
-#### 3.3.1e - Grand Finals
-- 4 Maps in round pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played. Order to play the maps is determined by a coin toss
-- The team that had the lower final score in the Semifinals bans first
 
 
 # Section 4: Registration Process
