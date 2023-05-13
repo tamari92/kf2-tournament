@@ -62,26 +62,18 @@ HB is calculated *independently* of how many times each individual squad member 
 ### Time Bonus
 **Time Bonus** (TB) represents how *efficient* the squad is. It is a pool of bonus points earned by completing the match as quickly as possible.
 
-The actual value of the TB is based off of the **Par Time**, a predetermined value that represents the average time it should take teams to beat the map under normal circumstances. Each map and CD Parameter combination has a different Par Time.
+Each map has its own associated Time Bonus value. When the match begins, the value of the Time Bonus begins to decease at a standard rate of **1 Point/sec**, increasing over time as the match continues. The intervals at which the Time Bonus decay increases is dependent on the map in question, however the amount that the decay increases is always the same for all maps played:
 
-Teams earn **1 Point** for every **1s** under the Par Time at the moment the match is completed.
+- **1 Point / sec** at the start of the match.
+- **2 Points / sec** when X% of the Time Bonus is remaining (dependent on map).
+- **3 Points / sec** when Y% of the Time Bonus is remaining (dependent on map).
 
-For example, if the Par Time for the match is **00:45:00** (2700 seconds), then beating the map in **00:30:00** (1800 seconds) will result in the team earning **00:15:00** (900 seconds faster than Par) worth of TB.
+A very important consideration is that the **Time Bonus does not stop decreasing, even during Trader Time.**
 
-This equates to:
-```
-TimeBonus = (ParTime - CompletionTime) x BonusPointsPerSecond
-= (2700 - 1800) x 1
-= 900 x 1
-= 900 Points
-```
-If the team goes over the Par Time, their TB is reduced to **zero.**
-
-It is important to note that the timer being used to calculate the amount of points earned is not the regular in-game timer, but instead a *special timer* created specifically for this tournament. **This timer begins the moment the match starts**, rather than the moment the map loads, and more accurately represents the actual “in-match” time.
-
-Additionally, **the timer does not stop counting, even during Trader Time.**
-It is in every team’s best interest to optimize their Trader path, buy strategy, and overall positioning to maximize their efficiency during the Trader period (and thereby maximize their TB).
+Therefore, it is in every team’s best interest to optimize their Trader path, buy strategy, and overall positioning to maximize their efficiency during the Trader period (and thereby maximize their TB).
 Utilizing the **SKIP TRADER** functionality is highly encouraged to save even more time and is pivotal for teams looking to maximize this bonus.
+
+When the match is completed (boss killed), the team is instantly awarded the remaining value of the Time Bonus toward their total score for the match.
 
 ### Objective Bonus
 **Objective Bonus** (OB) represents Map Objective completion.
