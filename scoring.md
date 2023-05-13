@@ -62,13 +62,15 @@ HB is calculated *independently* of how many times each individual squad member 
 ### Time Bonus
 **Time Bonus** (TB) represents how *efficient* the squad is. It is a pool of bonus points earned by completing the match as quickly as possible.
 
-Each map has its own associated Time Bonus value. When the match begins, the value of the Time Bonus begins to decease at a standard rate of **1 Point/sec**, increasing over time as the match continues. The intervals at which the Time Bonus decay increases is dependent on the map in question, however the amount that the decay increases is always the same for all maps played:
+Each map has its own associated Time Bonus value. When the match begins, the value of the Time Bonus begins to decease by a standard rate each second, with the rate increasing as the match continues.
 
-- **1 Point / sec** at the start of the match.
-- **2 Points / sec** when X% of the Time Bonus is remaining (dependent on map).
-- **3 Points / sec** when Y% of the Time Bonus is remaining (dependent on map).
+The intervals at which the Time Bonus decay increases is dependent on the map in question, however the amount that the decay increases to is always the same for all maps played:
 
-A very important consideration is that the **Time Bonus does not stop decreasing, even during Trader Time.**
+- **1 Point / sec** at the start of the match
+- **2 Points / sec** when X% of the Time Bonus is remaining (dependent on map)
+- **3 Points / sec** when Y% of the Time Bonus is remaining (dependent on map)
+
+A very important consideration is that the **Time Bonus does not stop decreasing, even during the Trader period!**
 
 Therefore, it is in every team’s best interest to optimize their Trader path, buy strategy, and overall positioning to maximize their efficiency during the Trader period (and thereby maximize their TB).
 Utilizing the **SKIP TRADER** functionality is highly encouraged to save even more time and is pivotal for teams looking to maximize this bonus.
