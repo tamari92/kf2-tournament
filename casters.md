@@ -76,7 +76,6 @@ Some ideal moments to drop into the team's voice chat are:
 2. During moments where the team is in a dangerous situation (such as during a clutch or a last man standing scenario)
 3. During the Boss Wave
 ```
-At the beginning of the cast, one **Commentator** (not Streamer!) should be nominated as the **Leader**. The Lead Commentator is responsible for moving all commentators and streamers to and from the War Rooms in the event they should be used. The only metric to be used in determining the Lead Commentator is a general agreement from a majority of the attending Staff.
 
 
 ## III. Stream Chat
