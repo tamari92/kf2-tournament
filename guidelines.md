@@ -5,11 +5,11 @@
 
 
 ## Table of Contents (Full)
-This is the full Table of Contents, containing a reference to all official regulations/rules. It is meant to be as complete as possible, but may not contain pertinent information for specific groups (ie: players).
+This is the full Table of Contents, containing a reference to all official tournament guidelines & rules as well as detailed explanations of all logistics and processes carried out throughout the course of the event. It is meant to be as complete as possible, but may not contain the most pertinent information for specific groups (ie: players).
 
-If you are a player or staff member, you might consider reviewing the [Abridged Table of Contents](#table-of-contents-abridged), which can be found below. The sections listed there will give you a more direct set of rules to follow for participation / management of the tournament.
+If you are a player or staff member, you might consider reviewing the [Abridged Table of Contents](#table-of-contents-abridged), which can be found below. The sections listed there will provide a more direct set of rules to follow for participation / management of the tournament.
 
-Regardless, it is wise to review the full set of guidelines if time permits.
+Regardless, it is highly recommended for all participants and staff to review the full set of guidelines if time permits.
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
@@ -146,7 +146,7 @@ Regardless, it is wise to review the full set of guidelines if time permits.
 ## Table of Contents (Abridged)
 This abridged Table of Contents is designed for players, Staff, and spectators to get a quick understanding of the baseline rules for the tournament.
 
-It is highly recommended that interested parties glance over all of listed sections (and subsections) below. Players and Staff will be expected to know and understand them! Feel free to ask us questions in the official Tournament Discord if you need any clarification.
+It is highly recommended that interested parties glance over **all** of the listed sections (and subsections) below. Players and Staff will be expected to know and understand them! Feel free to ask us questions in the official Tournament Discord if you need any clarification.
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 - [Section 2: Tournament Administration](#section-2-tournament-administration)
@@ -222,6 +222,7 @@ Freedsnipers          76561198014039040
 Jenny XJ-9            76561198058237584
 Rey                   76561198002762666
 Tamari                76561197960854627
+Topwolf               76561198074428257
 ZeElmo                76561198019142154
 ```
 **Streamer(s)**
@@ -454,8 +455,8 @@ When there are **two maps** to be played, the following procedures are in effect
 
 #### 3.3.1c - Penalties
 There are various penalties in place on Map Bans, as follows:
-- If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **the second team shall choose the map(s) to play**
-- If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play**
+- If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **they yield their ability to cast a ban to the second team, who will ultimately be permitted to make their choice for them**
+- If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **they yield their ability to cast a ban to the first team, who will ultimately be permitted to make their choice for them**
 - If both teams fail to make their bans or respond to the initial call *within 24 hours*, **the Tournament Directors shall choose the map(s) to play**
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
