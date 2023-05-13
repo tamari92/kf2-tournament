@@ -72,8 +72,10 @@ The intervals at which the Time Bonus decay increases is dependent on the map in
 
 A very important consideration is that the **Time Bonus does not stop decreasing, even during the Trader period!**
 
-Therefore, it is in every team’s best interest to optimize their Trader path, buy strategy, and overall positioning to maximize their efficiency during the Trader period (and thereby maximize their TB).
-Utilizing the **SKIP TRADER** functionality is highly encouraged to save even more time and is pivotal for teams looking to maximize this bonus.
+On the other hand, the decay rate is affected directly by the speed of the game, meaning that **ZED Time** causes it to slow down to 20% of its rate.
+
+In general, it is in every team’s best interest to optimize their Trader path, buy strategy, and overall positioning to maximize their efficiency during the Trader period (and thereby maximize their TB).
+Utilizing the **SKIP TRADER** functionality is highly encouraged to save even more time and is pivotal for teams looking to maximize this bonus. Maximizing ZED Time Extensions is also essential for achieving a high Time Bonus score.
 
 When the match is completed (boss killed), the team is instantly awarded the remaining value of the Time Bonus toward their total score for the match.
 
