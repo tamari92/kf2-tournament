@@ -777,7 +777,7 @@ Teams are permitted to ask a Tournament Director or Assistant Director to be pre
 # Section 7: Scoring
 All matches played in this tournament are scored using a unique **Scoring System**. The Scoring System assigns teams **Points** based on their overall performance in the match.
 
-[Click here](https://github.com/tamari92/kf2-mentor-tournament/blob/summer23/scoring.md) for more information on how the Scoring System works (with examples).
+[Click here](https://github.com/tamari92/kf2-tournament/blob/summer23/scoring.md) for more information on how the Scoring System works (with examples).
 
 
 # Section 8: Match Structure
@@ -892,15 +892,15 @@ Some Perks (and their skills) have been modified in this tournament. The modific
 - Dreadnaught skill total health bonus *reduced*:  **100% --> 50%**
 - Berserker Rage skill healing per ZED Time Extension *reduced*:  **50% --> 25%**
 - Berserker Rage skill does not affect **Large ZEDs**
-+ Resistance skill damage resistance *increased*:  **15% Global / 30% Poison + Sonic --> 25% Global / 50% Poison + Sonic**
-+ Parry skill damage resistance *increased*:  **30% for 8s --> 40% for 8s**
-+ Passive damage resistance bonus *increased*:  **2% per 5 Levels (10% @ L25) --> 3% per 5 Levels (15% @ L25)**
+- Resistance skill damage resistance *increased*:  **15% Global / 30% Poison + Sonic --> 25% Global / 50% Poison + Sonic**
+- Parry skill damage resistance *increased*:  **30% for 8s --> 40% for 8s**
+- Passive damage resistance bonus *increased*:  **2% per 5 Levels (10% @ L25) --> 3% per 5 Levels (15% @ L25)**
 
 #### Field Medic
 - Resilience skill damage resistance *reduced*:  **60% --> 50%**
-- Resilience skill reduces the Field Medic's maximum Armor capacity by **100%**.
-+ Symbiotic Health skill healing *increased*:  **6% --> 8%**
-+ Passive Armor bonus *increased*:  **2% per Level (150 @ L25) --> 3% per Level (175 @ L25)**
+- Resilience skill reduces the Field Medic's maximum Armor capacity by **100%**
+- Symbiotic Health skill healing *increased*:  **6% --> 8%**
+- Passive Armor bonus *increased*:  **2% per Level (150 @ L25) --> 3% per Level (175 @ L25)**
 
 #### Sharpshooter
 - Ranger skill increases the Stun Power of Perk Weapons by **300%**, instead of granting a guaranteed stun
@@ -916,51 +916,54 @@ The following Weapons are **banned** and are prohibited from being used in this 
 **Banned weapons are completely removed from the Trader Pod and will be completely inaccessible.** If a weapon is **Cross-Perk** and it is banned for one Perk, then it is banned for all other Perks that can use the weapon as well.
 
 #### Berserker
-- HRG Teslauncher
 - Blood Sickle
+- HRG Teslauncher
 
 #### Commando
-- No bans
+- No Bans
 
 #### Support
-- HRG Ballistic Bouncer
 - Frost Fang
+- HRG Ballistic Bouncer
+- S12 Shockgun
 
 #### Field Medic
-- HRG Healthrower
 - Hemoclobber
-- HRG Incision
 - HMTech-501 Grenade Rifle
+- HRG Healthrower
+- HRG Incision
+- HRG Medic Missile
 
 #### Demolitionist
-- HRG Kaboomstick
-- HRG Crossboom
 - Blunderbuss
 - Gravity Imploder
+- HRG Bombardier
+- HRG Crossboom
+- HRG Kaboomstick
 
 #### Firebug
 - Microwave Gun
 - Thermite Bore
 
 #### Gunslinger
+- HRG Disrupter
 - HRG Winterbite / Dual HRG Winterbites
 - Piranha Pistol / Dual Piranha Pistols
-- HRG Disrupter
 
 #### Sharpshooter
 - Compound Bow
 - HRG Beluga Beat
 - HRG Head Hunter
 - HV Storm Cannon
-- Rail Gun
 - M99 AMR
+- Rail Gun
 
 #### Survivalist
-- HRG Locust
-- Reducto Ray
 - Freezethrower
-- Killerwatt
 - HRG Arc Generator
+- HRG Locust
+- Killerwatt
+- Reducto Ray
 
 #### SWAT
 - HRG Bastion
@@ -997,18 +1000,6 @@ Several weapons have been modified for use in this tournament. The modifications
 
 #### Mine Reconstructor
 - Global (between all players) placed mine limit *decreased*:  **∞ --> 6**
-
-#### HRG Medic Missile
-- Base weight *increased*:  **7 --> 8**
-- Ammunition price (per rocket) *increased*:  **Đ 25 --> Đ 50**
-- Explosion damage *decreased*:  **700 --> 250**
-- Healing (per rocket) *decreased*:  **50 --> 40**
-- Rockets apply **two** stacks of Medic Buffs per healing instance
-- Reload time *increased*:  1.88s --> **2.56s**
-- Base reserve ammunition *decreased*:  **6 --> 4**
-- Maximum reserve ammunition *decreased*:  **22 --> 12**
-- Ammunition collected (per ammo box) *decreased*:  **4 --> 2**
-- Minimum projectile arming range *increased*:  **2m --> 4m**
 
 #### C4 Explosives
 - Global (between all players) placed charge limit *decreased*:  **24 --> 4**
