@@ -1047,9 +1047,9 @@ During the match, players will find that a new **Match Timer** has been added at
 
 This timer shows the following:
 - Total **duration** of the current match (excluding any time spent in the Lobby)
-- The **Max Time** for the map
+- The **PENALTY Time** for the map
 
-The timer begins counting the moment the round begins and never stops, even during the Trader period. See [Section 7: Scoring](#section-7-scoring) for more information on the Max Time.
+The timer begins counting the moment the round begins and never stops, even during the Trader period. See [Section 7: Scoring](#section-7-scoring) for more information on the PENALTY Time.
 
 #### 8.11.2 - Spectator Interface
 ![alt text](https://i.imgur.com/CDGbiMR.png)
@@ -1061,7 +1061,7 @@ This HUD shows the following information:
 2. The current **Score** of the match, including all Bonuses
 3. A full readout of the team’s **condition**.
 
-As with the Player Interface, the **Match Timer** on the Spectator Interface shows the current total time elapsed for the match, not including any time spent in the Lobby. The Max Time is visible as well.
+As with the Player Interface, the **Match Timer** on the Spectator Interface shows the current total time elapsed for the match, not including any time spent in the Lobby. The PENALTY Time is visible as well.
 
 The Score shown in **2)** reflects the total number of Points the team has earned thus far for the match as well as a complete breakdown of the state of the team’s Bonus Point pools. The values shown update in real time.
 
