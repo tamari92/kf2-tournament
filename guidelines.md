@@ -662,7 +662,7 @@ Also, please note that **this is an international tournament.** By signing up to
 For all matches between two teams where each team plays multiple games in a row, the rules outlined in [6.5](#65---matches-with-multiple-games) still apply.
 
 ### 6.7 - Servers
-Only specific servers may be used to play matches. See [Section 12: Servers](#section-12-servers) for more information.
+Only specific servers may be used to play matches. If you are a participant, a list of servers can be found in the official Tournament Discord Server.
 
 ### 6.8 - Tardiness
 Each team has **15 minutes** after the scheduled time to have six players in the server and readied up.
