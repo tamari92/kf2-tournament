@@ -144,7 +144,6 @@ This keybind lets you swap between the different camera modes (First Person View
 
 ## VII. Camera Controls
 This tournament uses a custom spectate system with enhanced features, enabling much more complex and precise control over the camera as well as providing additional information about the status of zeds and the environment.
-
 ```
 1                           Jump to Player 1
 2                           Jump to Player 2
@@ -155,12 +154,12 @@ This tournament uses a custom spectate system with enhanced features, enabling m
 7                           Jump to Next Boss
 8                           Jump to Next Painted Target
 9                           Jump to Objective Zone
-SHIFT (Hold)                Move in real-time during ZED Time
-ALT (Hold)                  Enable mouse cursor (see below for more info)
-ALT + LeftMouseButton       Jump to Target (when hovering over ZED or player)
-ALT + LeftMouseButton       Jump to Target (when hovering over a player's Status Pane)
-ALT + LeftMouseButton       Jump to ZED (when hovering over ZED health bar)
-ALT + RightMouseButton      Paint Target
+LSHIFT (Hold)               Move in real-time during ZED Time
+LALT (Hold)                 Enable mouse cursor (see below for more info)
+LALT + LeftMouseButton      Jump to Target (when hovering over ZED or player)
+LALT + LeftMouseButton      Jump to Target (when hovering over a player's Status Pane)
+LALT + LeftMouseButton      Jump to ZED (when hovering over ZED health bar)
+LALT + RightMouseButton     Paint Target
 ```
 
 ## VIII. Conduct
