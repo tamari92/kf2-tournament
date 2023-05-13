@@ -154,7 +154,7 @@ This tournament uses a customized spectate system with enhanced features, enabli
 7                           Jump to Next Boss
 8                           Jump to Next Painted Target
 9                           Jump to Objective Zone
-LSHIFT (Hold)               Move in real-time during ZED Time
+LSHIFT (Hold)               Enable real-time movement during ZED Time (while in free camera)
 LALT (Hold)                 Enable mouse cursor (see below for more info)
 LALT + LeftMouseButton      Jump to Target (when hovering over ZED or player)
 LALT + LeftMouseButton      Jump to Target (when hovering over a player's Status Pane)
