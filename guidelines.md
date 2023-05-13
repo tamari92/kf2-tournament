@@ -330,7 +330,7 @@ The pairings for each round are then made according to the following diagram:
 #### 3.2.2a - Winners Quarterfinals
 The first round of the Playoffs is known as the **Winners Quarterfinals** and begins immediately after the conclusion of the Group Stage.
 
-In this round, the **1st** and **2nd** Seeds receive a **bye**, which relieves them from playing in the round. Instead, they are safe from elimination and await the winners of this round in the upcoming **Semifinals** phase.
+In this round, the **1st** and **2nd** Seeds receive a **bye**, which relieves them from playing in the round. Instead, they are safe from elimination and await the winners of this round in the upcoming **Winners Semifinals** round.
 
 The remaining teams are then paired an in **"end-to-end"** scheme, meaning that the highest-seeded team plays against the lowest-seeded team, the second-highest team plays against the second-lowest seeded team, and so on.
 
