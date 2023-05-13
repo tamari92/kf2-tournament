@@ -4,7 +4,13 @@
 **Note:** These guidelines are subject to change at any time!
 
 
-## Table of Contents
+## Table of Contents (Full)
+This is the full Table of Contents, containing a reference to all official regulations/rules. It is meant to be as complete as possible, but may not contain pertinent information for specific groups (ie: players).
+
+If you are a player or staff member, you might consider reviewing the [Abridged Table of Contents](#table-of-contents-abridged), which can be found below. The sections listed there will give you a more direct set of rules to follow for participation / management of the tournament.
+
+Regardless, it is wise to review the full set of guidelines if time permits.
+
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 
 - [Section 1: Introduction & Objective](#section-1-introduction--objective)
@@ -144,14 +150,7 @@ It is highly recommended that interested parties glance over all of listed secti
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
 - [Section 2: Tournament Administration](#section-2-tournament-administration)
-  - [2.1 - Tournament Staff](#21---tournament-staff)
-  - [2.2 - Disputes](#22---disputes)
-  - [2.3 - Sanctions](#23---sanctions)
-  - [2.4 - Conflicts of Interest](#24---conflicts-of-interest)
 - [Section 3: Tournament Structure](#section-3-tournament-structure)
-  - [3.1 - Schedule](#31---schedule)
-  - [3.2 - Format](#32---format)
-  - [3.3 - Map Pool](#33---map-pool)
 - [Section 5: Team Structure](#section-5-team-structure)
   - [5.1 - Team Roster](#51---team-roster)
   - [5.2 - Team Formation](#52---team-formation)
@@ -159,15 +158,6 @@ It is highly recommended that interested parties glance over all of listed secti
 - [Section 6: Match Scheduling](#section-6-match-scheduling)
 - [Section 7: Scoring](#section-7-scoring)
 - [Section 8: Match Structure](#section-8-match-structure)
-  - [8.1 - Game Settings](#81---game-settings)
-  - [8.2 - CD Parameters](#82---cd-parameters)
-  - [8.4 - Voice Chat](#84---voice-chat)
-  - [8.5 - Spectators](#85---spectators)
-  - [8.6 - Perks](#86---perks)
-  - [8.7 - Weapons](#87---weapons)
-  - [8.8 - Mechanics](#88---mechanics)
-  - [8.9 - Map Objectives](#89---map-objectives)
-  - [8.10 - Trader Time](#810---trader-time)
 - [Section 9: Competitive Integrity](#section-9-competitive-integrity)
 - [Section 10: Exploits](#section-10-exploits)
 - [Section 11: Unsportsmanlike Conduct](#section-11-unsportsmanlike-conduct)
