@@ -68,7 +68,7 @@ There are no mandated intervals for which War Rooms can be utilized, except for 
 
 During a War Room, there is to be **no talking or distractions** from the present streamers and commentators. As far as the players are concerned, we should be ghosts that are merely there to watch and then leave after a short while. **Talking can be very disruptive to the team and have an impact on the results of the match.**
 
-While Commentators are not necessarily required to use a War Room if it exists, they should only aim to use them 1-2 times per match at maximum.
+While Commentators are not necessarily required to use a War Room if it exists, they should only aim to use them 2-4 times per match at maximum.
 
 Some ideal moments to drop into the team's voice chat are:
 ```
