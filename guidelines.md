@@ -390,7 +390,7 @@ Similarly to the **Winners Finals**, each team plays **two games** on **two sepa
 
 To win the tournament, the team that advanced from the **Winners Finals** only needs to win a single two-game series.
 
-Meanwhile, the team that advanced from the **Losers Finals** must win two two-game series in a row to win the tournament.
+Meanwhile, the team that advanced from the **Losers Finals** must win two two-game series (achieve a higher total score) in a row to win the tournament. The first win achieved by the lower seed results in a "bracket reset", which resets all scores to 0 for the next two-game series. If the lower seed team wins again, they become the tournament champion.
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
@@ -408,13 +408,13 @@ At the beginning of each round, the Captains of teams participating in a given m
 - There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban after the initial call.
 
 #### 3.3.1a - One Map To Play
-When there is **one map** to be played, the following procedures are followed:
+When there is **one map** to be played, the following procedures are in effect:
 - 3 Maps in round Map Pool
 - Each Captain bans 1 Map, leaving 1 Map to be played
 - The team that is the lower/weaker seed bans first
 
 #### 3.3.1b - Two Maps To Play
-When there are **two maps** to be played, the following procedures are followed:
+When there are **two maps** to be played, the following procedures are in effect:
 - 4 Maps in round Map Pool
 - Each Captain bans 1 Map, leaving 2 Maps to be played. The order to play the maps is determined by a coin toss
 - Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
