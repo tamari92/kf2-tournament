@@ -136,6 +136,52 @@
 
 <!-- mdformat-toc end -->
 
+
+## Table of Contents (Abridged)
+This abridged Table of Contents is designed for players, Staff, and spectators to get a quick understanding of the baseline rules for the tournament.
+
+It is highly recommended that interested parties glance over all of listed sections (and subsections) below. Players and Staff will be expected to know and understand them! Feel free to ask us questions in the official Tournament Discord if you need any clarification.
+
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=3 --minlevel=1 -->
+- [Section 2: Tournament Administration](#section-2-tournament-administration)
+  - [2.1 - Tournament Staff](#21---tournament-staff)
+  - [2.2 - Disputes](#22---disputes)
+  - [2.3 - Sanctions](#23---sanctions)
+  - [2.4 - Conflicts of Interest](#24---conflicts-of-interest)
+- [Section 3: Tournament Structure](#section-3-tournament-structure)
+  - [3.1 - Schedule](#31---schedule)
+  - [3.2 - Format](#32---format)
+    - [3.2.1 - Group Stage](#321---group-stage)
+    - [3.2.2 - Playoffs](#322---playoffs)
+  - [3.3 - Map Pool](#33---map-pool)
+    - [3.3.1 - Map Bans](#331---map-bans)
+- [Section 5: Team Structure](#section-5-team-structure)
+  - [5.1 - Team Roster](#51---team-roster)
+  - [5.2 - Team Formation](#52---team-formation)
+    - [5.2.2 - Player Grouping](#522---player-grouping)
+    - [5.2.5 - Player Draft](#525---player-draft)
+  - [5.3 - Roster Integrity](#53---roster-integrity)
+- [Section 6: Match Scheduling](#section-6-match-scheduling)
+- [Section 7: Scoring](#section-7-scoring)
+- [Section 8: Match Structure](#section-8-match-structure)
+  - [8.1 - Game Settings](#81---game-settings)
+  - [8.2 - CD Parameters](#82---cd-parameters)
+  - [8.4 - Voice Chat](#84---voice-chat)
+    - [8.4.1 - War Rooms](#841---war-rooms)
+  - [8.5 - Spectators](#85---spectators)
+  - [8.6 - Perks](#86---perks)
+  - [8.6.4 - Perk Modifications](#864---perk-modifications)
+  - [8.7 - Weapons](#87---weapons)
+  - [8.8 - Mechanics](#88---mechanics)
+  - [8.9 - Map Objectives](#89---map-objectives)
+  - [8.10 - Trader Time](#810---trader-time)
+- [Section 9: Competitive Integrity](#section-9-competitive-integrity)
+- [Section 10: Exploits](#section-10-exploits)
+- [Section 11: Unsportsmanlike Conduct](#section-11-unsportsmanlike-conduct)
+
+<!-- mdformat-toc end -->
+
+
 # Section 1: Introduction & Objective
 ### 1.1 - Objective
 Welcome to the Tamari’s KF2 Summer Showdown 2023 CD Tournament!
