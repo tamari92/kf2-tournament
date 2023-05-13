@@ -143,7 +143,7 @@ This keybind lets you swap between the different camera modes (First Person View
 
 
 ## VII. Camera Controls
-This tournament uses a custom spectate system with enhanced features, enabling much more complex and precise control over the camera.
+This tournament uses a custom spectate system with enhanced features, enabling much more complex and precise control over the camera as well as providing additional information about the status of zeds and the environment.
 
 ```
 1                     Jump to Player 1
