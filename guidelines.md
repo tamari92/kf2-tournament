@@ -747,10 +747,11 @@ In the event that players crash or are disconnected involuntarily at other point
 
 #### 6.14.2 - Server Disconnects
 In the event that the **server** itself crashes or otherwise loses connection, Tournament Directors in attendance are **permitted** to set the game state, which includes:
-- Changing the wave manually
-- Granting Dosh
+- Setting the wave manually
+- Granting Dosh to players
 - Setting Score and Bonus values manually
 - Setting the Match Timer manually
+
 ... so that play may resume as normal.
 
 In situations where a match was not streamed by an official Tournament Streamer, incontrovertible evidence must be provided to the Tournament Director(s) and Assistant Director(s) that shows that the server crashed on its own without the direct interference of any of the players present before any actions can be taken.
