@@ -1041,7 +1041,7 @@ All Trader Pods are open to ensure equality and fairness across runs and to help
 
 ### 8.11 - Custom Interface
 #### 8.11.1 - Player Interface
-![alt text](https://i.imgur.com/LSTryek.png)
+![alt text](https://i.imgur.com/X0AcXfa.png)
 
 During the match, players will find that a new **Match Timer** has been added at the top-middle of their screen.
 
