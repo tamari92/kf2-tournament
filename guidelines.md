@@ -340,9 +340,7 @@ This produces the following pairs:
 4th Seed VS 5th Seed
 ```
 
-Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331a---one-map-to-play). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map.
-
-A team's total score for the round is the cumulative score across all scenarios to be played.
+Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331a---one-map-to-play). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map. A team's total score for the round is the cumulative score across all scenarios to be played.
 
 - The team with the highest total score across all scenarios wins the round and advances to the **Winners Semifinals**.
 - The two losing teams are dropped into the **Losers Bracket** and receive a **1 week bye** while they await their opponents, the losers of the **Winners Semifinals**, in the **Losers Quarterfinals**.
@@ -350,9 +348,7 @@ A team's total score for the round is the cumulative score across all scenarios 
 #### 3.2.2b - Winners Semifinals
 The two teams that advance from the **Winners Quarterfinals** are paired against the **1st** and **2nd** seeds.
 
-As in the **Winners Quarterfinals**, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play).
-
-A team's total score for the round is the cumulative score across all games to be played.
+As in the **Winners Quarterfinals**, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play). A team's total score for the round is the cumulative score across all games to be played.
 
 - The team with the highest total score wins the round and advances to the **Winners Semifinals**.
 - The two losing teams are dropped into the **Losers Quarterfinals**.
@@ -360,9 +356,7 @@ A team's total score for the round is the cumulative score across all games to b
 #### 3.2.2c - Winners Finals
 The **Winners Finals** pits the two teams that advanced from the **Winners Semifinals** against one another.
 
-In this round, **two maps** are played instead of a single map (with multiple scenarios). The maps to be played are chosen through a series of [Map Bans](#331b---two-maps-to-play).
-
-A team's total score for the round is the cumulative score across all games to be played.
+In this round, **two maps** are played instead of a single map (with multiple scenarios). The maps to be played are chosen through a series of [Map Bans](#331b---two-maps-to-play). A team's total score for the round is the cumulative score across all games to be played.
 
 - The winner of this round advances to the **Grand Finals**, where they await the winner of the **Losers Finals**.
 - The losing team is dropped into the **Losers Finals**.
@@ -370,9 +364,7 @@ A team's total score for the round is the cumulative score across all games to b
 #### 3.2.2d - Losers Quarterfinals
 The four teams (total) that lost in the **Winners Quarterfinals** and **Winners Semifinals** are paired against one another in the **Losers Quarterfinals**.
 
-In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play).
-
-A team's total score for the round is the cumulative score across all games to be played.
+In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play). A team's total score for the round is the cumulative score across all games to be played.
 
 - The losing team that obtains the highest score this round is eliminated from the tournament in **5th Place**.
 - The losing team that obtains the lowest score this round is eliminated from the tournament in **6th Place**.
@@ -380,18 +372,14 @@ A team's total score for the round is the cumulative score across all games to b
 #### 3.2.2e - Losers Semifinals
 The two teams that advance from the **Losers Quarterfinals** are paired against one another.
 
-In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play).
-
-A team's total score for the round is the cumulative score across all games to be played.
+In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play). A team's total score for the round is the cumulative score across all games to be played.
 
 - The losing team is eliminated from the tournament in **4th Place**.
 
 #### 3.2.2f - Losers Finals
 The **Losers Finals** pits the team that advanced from the **Losers Semifinals** against the loser of the **Winners Finals**.
 
-In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play).
-
-A team's total score for the round is the cumulative score across all games to be played.
+In this round, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play). A team's total score for the round is the cumulative score across all games to be played.
 
 - The winner of this round advances to the **Grand Finals**, where they are awaited by the winner of the **Winners Finals**.
 - The losing team is eliminated from the tournament in **3rd Place**.
@@ -399,9 +387,7 @@ A team's total score for the round is the cumulative score across all games to b
 #### 3.2.2g - Grand Finals
 The final match of the tournament is held between the two teams that advanced from the **Winners Finals** and **Losers Finals**.
 
-Similarly to the **Winners Finals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---two-maps-to-play).
-
-A team's total score for the round is the cumulative score across all games to be played.
+Similarly to the **Winners Finals**, each team plays **two games** on **two separate maps**, determined through a series of [Map Bans](#331b---two-maps-to-play). A team's total score for the round is the cumulative score across all games to be played.
 
 - The winner of this round is the **tournament champion (1st Place)**.
 - The losing team is eliminated from the tournament in **2nd Place**.
@@ -464,7 +450,7 @@ All players are required to submit their STEAMID64 during registration, which wi
 ### 4.4 - Confirmation
 Following their submission, all players are required to join the official tournament discord server and **contact one of the Tournament Directors or Assistant Directors** to confirm their signup.
 
-This step is mandatory to prevent false signups and ensure that we have an accurate representation of who is actually participating.
+This step is mandatory to prevent fraudulent signups and ensure that we have an accurate representation of who is actually participating.
 
 If a player does not confirm their signup by the end of the signup phase, their submission will be dropped.
 
