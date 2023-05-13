@@ -1052,7 +1052,7 @@ This timer shows the following:
 The timer begins counting the moment the round begins and never stops, even during the Trader period. See [Section 7: Scoring](#section-7-scoring) for more information on the PENALTY Time.
 
 #### 8.11.2 - Spectator Interface
-![alt text](https://i.imgur.com/CDGbiMR.png)
+![alt text](https://i.imgur.com/t60s5Pp.png)
 
 Similarly to players, **spectators/viewers** also have a custom interface for this tournament.
 
