@@ -152,7 +152,7 @@ TotalScore = CS + HB + TB + OB
 
 This would result in a TP of:
 ```
-TimePenalty = (CompletionTime - MaxTime) x PointLossPerSecond
+TimePenalty = (CompletionTime - PenaltyTime) x PointLossPerSecond
 = (3937 - 3600) x 2
 = 337 x 2
 = 674 Points
