@@ -131,9 +131,9 @@ If the **No-Medic Bonus** is obtained, the score penalties are subtracted from t
 
 Currently, the only score penalty in use is the **Time Penalty** (TP). TP is acquired in the event that teams take *too long* to finish the match.
 
-The actual value of the penalty is based off of the **Max Time**, a predetermined value that represents the maximum time it should take teams to beat the map under normal circumstances.
+The actual value of the penalty is based off of the **PENALTY Time** value, a predetermined value that represents the maximum time it should take teams to beat the map under normal circumstances.
 
-Teams lose **2 Points** for **every second** they take to complete the match after surpassing the Max Time.
+Teams lose **2 Points** for **every second** they take to complete the match after surpassing the PENALTY Time.
 
 As an example, consider the following CS, HB, TB, and OB values:
 ```
@@ -148,7 +148,7 @@ TotalScore = CS + HB + TB + OB
 = 1000 + 200 + 1275 + 150
 = 2625 Points
 ```
-.. but now suppose the **Max Time** is **1:00:00** (3600 seconds) and the team has completed the match with a time of **1:05:47** (3947 seconds).
+.. but now suppose the **PENALTY Time** is **1:00:00** (3600 seconds) and the team has completed the match with a time of **1:05:47** (3947 seconds).
 
 This would result in a TP of:
 ```
