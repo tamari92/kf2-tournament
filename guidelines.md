@@ -1076,6 +1076,12 @@ The following information can be viewed in real time:
 - The total amount of **weight** the player is carrying in their loadout
 - The total number of **grenades** the player has in their inventory
 
+Additional information will appear (and disappear) periodically to show the following:
+- Painted Targets
+- Painted Target Health Bars
+- Map Objective Progress
+- Boss Health Bars
+
 Example of the HUD in action:
 - https://youtu.be/IRtwk_ti9wA
 
