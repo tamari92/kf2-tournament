@@ -402,7 +402,7 @@ The two teams that advance from the **Winners Quarterfinals** are paired against
 
 As in the **Winners Quarterfinals**, a single map is played for two scenarios. The map to be played is chosen through a series of [Map Bans](#331a---one-map-to-play). A team's total score for the round is the cumulative score across all games to be played.
 
-- The team with the highest total score wins the round and advances to the **Winners Semifinals**.
+- The team with the highest total score wins the round and advances to the **Winners Finals**.
 - The two losing teams are dropped into the **Losers Quarterfinals**.
 
 #### 3.2.2c - Winners Finals
