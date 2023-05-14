@@ -228,12 +228,12 @@ Through CD, the following can be achieved:
 **Tournament Director(s)**
 ```
 Tamari                76561197960854627
+ZeElmo                76561198019142154
 ```
 **Assistant Director(s)**
 ```
 Boris the Animal      76561198030804560
 illethP               76561197986122267
-ZeElmo                76561198019142154
 ```
 **Commentator(s)**
 ```
