@@ -450,10 +450,33 @@ Meanwhile, the team that advanced from the **Losers Finals** must win two two-ga
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
+- **Black Forest**                                 *(KF-BlackForest)*
+- **Nuked (CD Edit)**                              *(KF-Nuked-CDEdit)*
+- **West London**                                  *(KF-KF1_West_London)*
+- **The Library (CD Edit)**                        *(KF-TheLibrary)*
+- **Zed Landing**                                  *(KF-ZedLanding)*
+- **Vortex (CD Edit)**                             *(KF-Vortex-CDEdit)*
+- **Prison**                                       *(KF-Prison-TAEdit)*
+- **Monster Ball (CD Edit)**                       *(KF-MonsterBall-CDEdit)*
+- **Outpost**                                      *(KF-Outpost)*
+- **Slaughterhouse (CD Edit)**                     *(KF-Slaughterhouse-CDEdit)*
+- **Crash (Original)**                             *(KF-Crash_Original)*
+- **Thrills & Chills Amusement Park (CD Edit)**    *(KF-ThrillsChills-CDEdit)*
+- **Bedlam (CDEdit)**                              *(KF-Bedlam-CDEdit)*
+- **Biotics Lab**                                  *(KF-BioticsLab)*
+- **Desolation (Original)**                        *(KF-DesolationOriginal)*
+- **Ashwood Asylum: Redux**                        *(KF-AshwoodAsylum_Redux)*
+- **Spillway**                                     *(KF-Spillway)*
+- **Rig (CD Edit)**                                *(KF-Rig-CDEdit)*
+- **Barrio Muerte (CD Edit)**                      *(KF-BarrioMuerte-CDEdit)*
+- **Shopping Spree (CD Edit)**                     *(KF-ShoppingSpree-CDEdit)*
+- **Yuletide Town: Redux**                         *(KF-YuletideTown_Redux)*
+- **Evacuation Point**                             *(KF-EvacuationPoint)*
+- **Prison (TA Edit)**                             *(KF-Prison-TAEdit)*
+- **Volter Manor**                                 *(KF-VolterManor)*
+- **Steam Fortress**                               *(KF-SteamFortress)*
+- **The Tragic Kingdom (CD Edit)**                 *(KF-TragicKingdom-CDEdit)*
 
-```
-TBD
-```
 
 #### 3.3.1 - Map Bans
 For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of each round, team captains take turns **banning** maps from the sub pool that they do not wish to play until a final choice is determined. The bans are overseen by either one of the **Tournament Directors** or an **Assistant Director** to establish legitimacy.
