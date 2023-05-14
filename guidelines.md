@@ -496,8 +496,9 @@ When there is **one map** to be played, the following procedures are in effect:
 #### 3.3.1b - Two Maps To Play
 When there are **two maps** to be played, the following procedures are in effect:
 - 4 Maps in round Map Pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played. The order to play the maps is determined by a coin toss
+- Each Captain bans 1 Map, leaving 2 Maps to be played
 - Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
+- The order to play the two maps is determined by a coin toss
 
 #### 3.3.1c - Penalties
 There are various penalties in place on Map Bans, as follows:
