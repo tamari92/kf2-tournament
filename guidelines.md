@@ -1,4 +1,4 @@
-![alt_text](https://i.imgur.com/dt6tbsp.png)
+![alt_text](https://i.imgur.com/1nlSpSv.png)
 
 # Official Tournament Guidelines
 **Note:** These guidelines are subject to change at any time!
