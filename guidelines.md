@@ -189,11 +189,11 @@ It is highly recommended that interested parties glance over **all** of the list
 
 # Section 1: Introduction & Objective
 ### 1.1 - Objective
-Welcome to the Tamari’s KF2 Summer Showdown 2023 CD Tournament!
+Welcome to the Tamari’s KF2 Summer Showdown 2023 CD Mentor Tournament!
 
 This is a tournament for **KILLING FLOOR 2** centered around the **Controlled Difficulty** mod -- a mod which allows for fine tuning of difficulty-specific game variables and obtaining a level of consistency and intensity that drives a team experience simply not available in the vanilla game.
 
-The objective of this tournament is not only to unite the community, but to give players (especially newer ones) the opportunity to learn and grow alongside experienced players in mechanical skill, game knowledge, and confidence in a (friendly) competitive environment where there is no fear of being judged. **If nothing else, the primary goal is to have FUN and make friends together!**
+In this tournament, experienced players (Mentors) take on a group comprised of newer and other experienced players and attempt to perform the best they can in each match and earn the most Points! The ultimate goal of this tournament is not only to unite the community, but to give players (especially newer ones) the opportunity to learn and grow alongside experienced players in mechanical skill, game knowledge, and confidence in a (friendly) competitive environment where there is no fear of being judged. **If nothing else, the primary goal is to have FUN and make friends together!**
 
 This tournament is hosted by **Tamari** & **Forrest Mark X**, and is (hopefully) the first of many to come.
 There is no prize for winning, other than bragging rights, a whole lot of game knowledge, and maybe even some new friends to go with it!
