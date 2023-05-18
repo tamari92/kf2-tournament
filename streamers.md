@@ -110,7 +110,10 @@ Fleshpound Rage Glow Color             #FF4040
 
 ## VI. Required Keybinds
 ### Camera Descent
-An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera. To set the bind, simply enter one of the Match or Practice servers, and enter the following console command:
+An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera.
+
+To set the bind, simply enter one of the Match or Practice servers, and enter the following console command:
+
 `setbind LeftControl "Button bDuck | Axis aUp Speed=-1.0 AbsoluteAxis=100"`
 
 
