@@ -110,36 +110,8 @@ Fleshpound Rage Glow Color             #FF4040
 
 ## VI. Required Keybinds
 ### Camera Descent
-An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera.
-
-The steps to set this up are as follows:
-1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
-2. Search for the `Name="Duck"` input (include the quotes) and add the following to the end of the **Command** field: ` | Axis aUp Speed=-1.0 AbsoluteAxis=100`
-3. An example entry with the new stuff added: `Bindings=(Name="Duck",Command="Button bDuck | Axis aUp Speed=-1.0 AbsoluteAxis=100")`
-4. Repeat this for ALL instances of the Duck keybind
-
-### Spectate Next/Prev Players
-There are specific keybinds for cycling between players while spectating.
-
-Spectate Next Player
-1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
-2. Search for  `Name="RightMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | SpectateNextPlayer`
-3. An example entry with the new stuff added: `Bindings=(Name="RightMouseButton",Command="GBA_IronsightsToggle | SpectateNextPlayer")`
-4. Repeat this for ALL instances of the RightMouseButton keybind
-
-Spectate Previous Player
-1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
-2. Search for  `Name="LeftMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | SpectatePrevPlayer`
-3. An example entry with the new stuff added: `Bindings=(Name="LeftMouseButton",Command="GBA_Fire | SpectatePrevPlayer",Control=False,Shift=False,Alt=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)`
-4. Repeat this for ALL instances of the LeftMouseButton keybind
-
-### Change Camera Mode
-This keybind lets you swap between the different camera modes (First Person View, Free Chase Cam, Locked Chase Cam, and Free Look).
-
-1. Navigate to `C:/Users/YourName/Documents/MyGames/KillingFloor2/KFGame/Config` and access `KFInput.ini`.
-2. Search for  `Name="MiddleMouseButton"` input (include the quotes) and add the following to the end of the **Command** field: ` | ChangeCamMode`
-3. An example entry with the new stuff added: `Bindings=(Name="MiddleMouseButton",Command="SpectateChangeCamMode",Control=False,Shift=False,Alt=False,bIgnoreCtrl=False,bIgnoreShift=False,bIgnoreAlt=False)`
-4. Repeat this for ALL instances of the MiddleMouseButton keybind
+An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera. To set the bind, simply enter one of the Match or Practice servers, and enter the following console command:
+`setbind LeftControl "Button bDuck | Axis aUp Speed=-1.0 AbsoluteAxis=100"`
 
 
 ## VII. Camera Controls
