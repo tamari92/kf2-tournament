@@ -1,4 +1,4 @@
-![alt_text](https://i.imgur.com/1nlSpSv.png)
+![alt_text](https://i.imgur.com/pLSHI3l.png)
 
 # Official Tournament Guidelines
 **Note:** These guidelines are subject to change at any time!
@@ -52,8 +52,8 @@ Regardless, it is highly recommended for all participants and staff to review th
   - [5.2 - Team Formation](#52---team-formation)
     - [5.2.1 - Player Sign-ups](#521---player-sign-ups)
     - [5.2.2 - Player Grouping](#522---player-grouping)
-    - [5.2.3 - Captain Assignment](#523---captain-assignment)
-    - [5.2.4 - Co-Captain Assignment](#524---co-captain-assignment)
+    - [5.2.3 - Mentor Assignment](#523---mentor-assignment)
+    - [5.2.4 - Co-Mentor Assignment](#524---co-mentor-assignment)
     - [5.2.5 - Player Draft](#525---player-draft)
   - [5.3 - Roster Integrity](#53---roster-integrity)
     - [5.3.1 - Alternate Accounts](#531---alternate-accounts)
@@ -70,7 +70,7 @@ Regardless, it is highly recommended for all participants and staff to review th
   - [6.8 - Tardiness](#68---tardiness)
   - [6.9 - No-shows](#69---no-shows)
   - [6.10 - Ringers & Substitutes](#610---ringers--substitutes)
-  - [6.11 - Captain Participation](#611---captain-participation)
+  - [6.11 - Mentor Participation](#611---mentor-participation)
   - [6.12 - Proof of Play](#612---proof-of-play)
   - [6.13 - Multiple Attempts](#613---multiple-attempts)
     - [6.13.1 - Group Stage](#6131---group-stage)
@@ -308,9 +308,9 @@ Jun 21      Open sign-ups close
             Overflow sign-ups open
 -------------------------------------------------------------------------
 Jun 22      Players sorted into Experience Groups
-            Captains choose their Co-Captains
+            Mentors choose their Co-Mentors
 -------------------------------------------------------------------------
-Jun 23      Co-Captain pairings finalized
+Jun 23      Co-Mentor pairings finalized
             Player Draft
 -------------------------------------------------------------------------
 Jul 3       Overflow sign-ups close
@@ -480,9 +480,9 @@ The Tragic Kingdom (CD Edit)                 (KF-TragicKingdom-CDEdit)
 ```
 
 #### 3.3.1 - Map Bans
-For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of each round, team captains take turns **banning** maps from the sub pool that they do not wish to play until a final choice is determined. The bans are overseen by either one of the **Tournament Directors** or an **Assistant Director** to establish legitimacy.
+For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken from the larger pool in [3.3](#33---map-pool)) will be assigned to each round. At the beginning of each round, team mentors take turns **banning** maps from the sub pool that they do not wish to play until a final choice is determined. The bans are overseen by either one of the **Tournament Directors** or an **Assistant Director** to establish legitimacy.
 
-At the beginning of each round, the Captains of teams participating in a given matchup will be contacted via a private Discord Thread (that only the involved teams can see) where they will be required to cast their bans. Both the order that bans are made and the number of maps to ban depends on the round in question (see below).
+At the beginning of each round, the Mentors of teams participating in a given matchup will be contacted via a private Discord Thread (that only the involved teams can see) where they will be required to cast their bans. Both the order that bans are made and the number of maps to ban depends on the round in question (see below).
 
 - There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
 - There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban after the initial call.
@@ -490,13 +490,13 @@ At the beginning of each round, the Captains of teams participating in a given m
 #### 3.3.1a - One Map To Play
 When there is **one map** to be played, the following procedures are in effect:
 - 3 Maps in round Map Pool
-- Each Captain bans 1 Map, leaving 1 Map to be played
+- Each Mentor bans 1 Map, leaving 1 Map to be played
 - The team that is the lower/weaker seed bans first
 
 #### 3.3.1b - Two Maps To Play
 When there are **two maps** to be played, the following procedures are in effect:
 - 4 Maps in round Map Pool
-- Each Captain bans 1 Map, leaving 2 Maps to be played
+- Each Mentor bans 1 Map, leaving 2 Maps to be played
 - Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
 - The order to play the two maps is determined by a coin toss
 
@@ -546,7 +546,7 @@ If a player must change their name, the Tournament Staff must be informed. It is
 **Names displaying obscenities or showing an overall lack of maturity or sensitivity will not be tolerated and can result in the team's suspension from the tournament.**
 
 ### 4.7 - Overflow Pool
-Following the conclusion of the **regular registration** period, the **Overflow Pool** shall be formed. If more players have signed up than there are available Captains, and there are not enough extra players to form a new team, the extra players shall be moved to the Overflow Pool. Players in the pool shall be **grouped by experience** (see [5.22](#522---player-grouping) for more information) and further prioritized by the date and time they signed up.
+Following the conclusion of the **regular registration** period, the **Overflow Pool** shall be formed. If more players have signed up than there are available Mentors, and there are not enough extra players to form a new team, the extra players shall be moved to the Overflow Pool. Players in the pool shall be **grouped by experience** (see [5.22](#522---player-grouping) for more information) and further prioritized by the date and time they signed up.
 
 The purpose of this player pool is to function as a buffer of additional participants. In the event that a team loses players during the competition, the appropriate player group buffer shall be drawn from in order of priority in order to fill the vacant slot on the team.
 
@@ -556,40 +556,40 @@ After the regular sign-ups close, **players can continue to sign up for the tour
 # Section 5: Team Structure
 ### 5.1 - Team Roster
 A single team shall contain the following members in its roster:
-- 1 **Captain**
-- 1 **Co-Captain**
+- 1 **Mentor**
+- 1 **Co-Mentor**
 - 6 **Players**
 
 Though there can only be six players in-game at a time, a full roster contains eight players, allowing for two backup players to be available in the event that players are unable to make it to the match.
 
-### [Captain]
-The team’s **Captain** shall be an experienced player who possesses a high degree of skill, knowledge, and experience within CD.
+### [Mentor]
+The team’s **Mentor** shall be an experienced player who possesses a high degree of skill, knowledge, and experience within CD.
 
-**The Captain is the team leader and is ultimately responsible for their team.**
+**The Mentor is the team leader and is ultimately responsible for their team.**
 
-Captains are primarily required to coordinate with Tournament Staff and other Captains for scheduling matches and resolving disputes / other administrative-level endeavors. Captains are typically handpicked by Tournament Staff, but players can opt to sign up to be a Captain as well. In the second scenario, a review will be conducted by the Tournament Staff to determine eligibility. This will be based on several factors, including game time (hours) / general knowledge of the game, player attitude, and overall performance in CD matches.
+Mentors are primarily required to coordinate with Tournament Staff and other Mentors for scheduling matches and resolving disputes / other administrative-level endeavors. Mentors are typically handpicked by Tournament Staff, but players can opt to sign up to be a Mentor as well. In the second scenario, a review will be conducted by the Tournament Staff to determine eligibility. This will be based on several factors, including game time (hours) / general knowledge of the game, player attitude, and overall performance in CD matches.
 
-**The Captain’s secondary objective in this tournament is to act as a coach**, sharing their knowledge with their teammates and training them to improve their skill and game knowledge.
+**The Mentor’s secondary objective in this tournament is to act as a coach**, sharing their knowledge with their teammates and training them to improve their skill and game knowledge.
 
-### [Co-Captain]
-The team's **Co-Captain** shall be the secondary leader.
+### [Co-Mentor]
+The team's **Co-Mentor** shall be the secondary leader.
 
-The Co-Captain can be a player of any skill level that has not already been assigned to a team and is handpicked by the Captain directly. The Co-Captain is responsible for filling in for the Captain when needed and is the Captain’s primary support. Players who do not desire the full responsibility of leadership, but still want to be in a team-wide supporting role will likely find this position to be ideal. Like Captains, players can sign up to be Co-Captains as well.
+The Co-Mentor can be a player of any skill level that has not already been assigned to a team and is handpicked by the Mentor directly. The Co-Mentor is responsible for filling in for the Mentor when needed and is the Mentor’s primary support. Players who do not desire the full responsibility of leadership, but still want to be in a team-wide supporting role will likely find this position to be ideal. Like Mentors, players can sign up to be Co-Mentors as well.
 
 ### 5.2 - Team Formation
 The formation of teams is conducted in five distinct phases:
 - [Player Sign-ups](#521---player-sign-ups)
 - [Player Grouping](#522---player-grouping)
-- [Captain Assignment](#523---captain-assignment)
-- [Co-Captain Assignment](#524---co-captain-assignment)
+- [Mentor Assignment](#523---mentor-assignment)
+- [Co-Mentor Assignment](#524---co-mentor-assignment)
 - [Player Draft](#525---player-draft)
 
 #### 5.2.1 - Player Sign-ups
 As in [4.1](#41---registration), players sign up to participate in the tournament through the supplied form. Sign-ups open the day the tournament is announced and remain open for **32 days.**
 
-On the signup form, an option is given that allows the participant to specify their preferred role within the team, either **Captain**, **Co-Captain**, or **Player**. Note that a player’s specified preference may not reflect their actual assigned role when the teams are finally established.
+On the signup form, an option is given that allows the participant to specify their preferred role within the team, either **Mentor**, **Co-Mentor**, or **Player**. Note that a player’s specified preference may not reflect their actual assigned role when the teams are finally established.
 
-The number of players that sign up directly influences the number of Captains that can be chosen (and therefore the maximum number of teams).
+The number of players that sign up directly influences the number of Mentors that can be chosen (and therefore the maximum number of teams).
 
 #### 5.2.2 - Player Grouping
 After sign-ups close, the Tournament Staff will divide the registered players into **Player Groups** based on their experience level.
@@ -601,28 +601,28 @@ There are three Groups:
 
 These groups exist to better ensure a more even balance between teams and become relevant when the teams are actually filled out with players.
 
-#### 5.2.3 - Captain Assignment
-Next, **Captains** are to be chosen/selected. Most of the time, these individuals will be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Captains, the Tournament Staff will review those applications at this time.
+#### 5.2.3 - Mentor Assignment
+Next, **Mentors** are to be chosen/selected. Most of the time, these individuals will be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Mentors, the Tournament Staff will review those applications at this time.
 
-**The number of Captain slots available is limited by the number of players participating in the tournament.** This is to ensure each team has a full roster.
+**The number of Mentor slots available is limited by the number of players participating in the tournament.** This is to ensure each team has a full roster.
 
-#### 5.2.4 - Co-Captain Assignment
-Once the Captains have been chosen, each will be asked to select a **Co-Captain** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
+#### 5.2.4 - Co-Mentor Assignment
+Once the Mentors have been chosen, each will be asked to select a **Co-Mentor** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
 
-Captains will be informed of the players who have directly expressed an interest in being a Co-Captain, however this does not mean that Captains are necessarily required to choose those players.
+Mentors will be informed of the players who have directly expressed an interest in being a Co-Mentor, however this does not mean that Mentors are necessarily required to choose those players.
 
-**Co-Captain selection is done on a first come first serve basis.**
+**Co-Mentor selection is done on a first come first serve basis.**
 
-There must be written confirmation from both the Captain and the prospective Co-Captain for the assignment to be finalized.
+There must be written confirmation from both the Mentor and the prospective Co-Mentor for the assignment to be finalized.
 
 #### 5.2.5 - Player Draft
-When all Captain and Co-Captain pairs have been established, the **Player Draft** phase will begin. In this phase, the remaining players are selected by the Captains using the previously-formed Player Groups.
+When all Mentor and Co-Mentor pairs have been established, the **Player Draft** phase will begin. In this phase, the remaining players are selected by the Mentors using the previously-formed Player Groups.
 
-To start the process, all Captains will be placed into a hat and shuffled to produce a random ordering. **This represents the order in which the Captains will choose prospective teammates.** Random ordering is used to prevent any bias and/or favoritism in the process.
+To start the process, all Mentors will be placed into a hat and shuffled to produce a random ordering. **This represents the order in which the Mentors will choose prospective teammates.** Random ordering is used to prevent any bias and/or favoritism in the process.
 
 Once the order has been set, actual assignment of the players will begin.
 
-To start, Captains will take turn choosing players from **Group 3** in a Round Robin fashion as per the order established previously. For example, the first Captain picks a player, then the second, then the third, and so on. This process continues until all of the players in the group have been selected.
+To start, Mentors will take turn choosing players from **Group 3** in a Round Robin fashion as per the order established previously. For example, the first Mentor picks a player, then the second, then the third, and so on. This process continues until all of the players in the group have been selected.
 
 The same process then repeats for the players in **Group 2.**
 
@@ -633,7 +633,7 @@ The result of this process is (hopefully) a set of teams which have a similar av
 **Note:** The Tournament Staff reserve the right to make adjustments to team rosters as they see fit to ensure the best possible balance. This, however, will only be exercised in extreme cases.
 
 ### 5.3 - Roster Integrity
-Teams may *only* use the players in the rosters formed from [5.2.5](#525---player-draft). If a player leaves, exits, or is removed from the team, the team Captain is required to inform the Tournament Staff immediately so that a replacement can be found (typically drawn from the overflow pool).
+Teams may *only* use the players in the rosters formed from [5.2.5](#525---player-draft). If a player leaves, exits, or is removed from the team, the team Mentor is required to inform the Tournament Staff immediately so that a replacement can be found (typically drawn from the overflow pool).
 
 STEAMIDs will be checked regularly. **Using players not in the team’s assigned roster is grounds for the team's immediate suspension from the tournament.**
 
@@ -648,12 +648,12 @@ Pairings, brackets, and other pertinent information for each round will be poste
 ### 6.2 - Scheduling Duties
 For all phases of the tournament, matches must be confirmed with the Tournament Staff at least **48 hours** before the projected match start time to allow for time to prepare.
 
-**It is the responsibility of all Captains involved in a given match to schedule and finalize match times with one another and relay these times to the Tournament Staff.**
+**It is the responsibility of all Mentors involved in a given match to schedule and finalize match times with one another and relay these times to the Tournament Staff.**
 
-For matches in the **Playoffs** phase, Captains will also be required to submit their choices for [3.3.1](#331---map-bans)). See that section for more information.
+For matches in the **Playoffs** phase, Mentors will also be required to submit their choices for [3.3.1](#331---map-bans)). See that section for more information.
 
 ### 6.3 - Scheduling Format
-Team Captains shall submit the following to the Tournament Staff when scheduling a match:
+Team Mentors shall submit the following to the Tournament Staff when scheduling a match:
 - The **Start Time** AND **Date** for the match, *with time zones*
 - The preferred **server** (taken from the official list of tournament servers)
 
@@ -664,7 +664,7 @@ The **Scheduling Deadline** refers to the point in time after which teams are no
 
 In the **Group Stage**, the Scheduling Deadline is **48 hours** before the end of the round. For example, if the round ends on **Jan 6 @ 23:59 EST**, then the latest that a match can be scheduled for that round is on **Jan 4 @ 23:59 EST**, exactly **48 hours** before.
 
-In the **Playoffs**, the Captains from both teams are required to coordinate a time to play their games and relay this information to the Tournament Staff at least **48 hours** before the agreed-upon match start time. The earlier, the better, as it gives us more time to prepare a team of casters and streamers for each match.
+In the **Playoffs**, the Mentors from both teams are required to coordinate a time to play their games and relay this information to the Tournament Staff at least **48 hours** before the agreed-upon match start time. The earlier, the better, as it gives us more time to prepare a team of casters and streamers for each match.
 
 ### 6.5 - Matches With Multiple Games
 #### 6.5.1 - Intermission
@@ -678,11 +678,11 @@ For matches that occur between two separate teams (for example during the Playof
 
 For example, if Team A schedules their match on **March 1 @ 12:00 PM**, then Team B's game(s) must begin **no earlier than March 1 @ 4:00 AM (8 hours prior)** and **no later than March 1 @ 8:00 PM (8 hours after)**. Note that the eight hour grace period is applied relative to the **start time** of the **first game in the set** specifically, rather than the time the team finishes playing *all* of their game(s). This means that if Team A schedule to play their set of games at some time, then Team B has eight hours from that time to play their game(s). Team B need not *finish* their game(s) by the end of the grace period, but rather *start* them.
 
-This grace period is to account for the differing timezones within an individual team and is aimed to ease some of the pressure of scheduling for the Captains.
+This grace period is to account for the differing timezones within an individual team and is aimed to ease some of the pressure of scheduling for the Mentors.
 
 **If possible, the best case scenario would involve both teams playing back-to-back.** This situation would provide ultimate convenience for the teams as well as the Tournament Staff in attendence.
 
-Also, please note that **this is an international tournament.** By signing up to play, competitors are expected to understand that their opponents may be based in a distant time zone, which means that some or all players in a team may be required to play at inopportune / abnormal times throughout the day. To help remedy this, Captains should be prompt and negotiate the schedule for the match as early as possible.
+Also, please note that **this is an international tournament.** By signing up to play, competitors are expected to understand that their opponents may be based in a distant time zone, which means that some or all players in a team may be required to play at inopportune / abnormal times throughout the day. To help remedy this, Mentors should be prompt and negotiate the schedule for the match as early as possible.
 
 For all matches between two teams where each team plays multiple games in a row, the rules outlined in [6.5](#65---matches-with-multiple-games) still apply.
 
@@ -698,7 +698,7 @@ Please be on time. It is disrespectful to your opponents, the Tournament Staff w
 
 In the event one team is disqualified, **it is still required that the second team play their round in full.**
 
-If something comes up that might affect the team’s ability to be present at the planned time, Captains are required to inform the Tournament Staff as soon as possible so that accommodations can be made. The earlier we are informed, the better.
+If something comes up that might affect the team’s ability to be present at the planned time, Mentors are required to inform the Tournament Staff as soon as possible so that accommodations can be made. The earlier we are informed, the better.
 
 ### 6.9 - No-shows
 No-shows distort the results by unbalancing the tiebreakers. Moreover, they disappoint other competitors who have joined the tournament to participate in the competition.
@@ -719,10 +719,10 @@ Substitutions **ARE** allowed, but **ONLY** using players from the team's **esta
 
 The above regulation includes matches where multiple games are played in a row (e.g. during the Playoffs phase). See [6.5.2](#652---substitutions) for more information. Situations presenting extenuating circumstances will be handled as deemed appropriate by Tournament Staff at the moment of occurrence.
 
-Additionally, teams are **not permitted** to add new players to their roster in the event that a member drops out of or is removed from the tournament. **Should a vacancy be created in a team for any reason, the team Captain must inform the Tournament Staff as soon as possible so that a player may be drawn from the Overflow Pool.**
+Additionally, teams are **not permitted** to add new players to their roster in the event that a member drops out of or is removed from the tournament. **Should a vacancy be created in a team for any reason, the team Mentor must inform the Tournament Staff as soon as possible so that a player may be drawn from the Overflow Pool.**
 
-### 6.11 - Captain Participation
-**The Captain and Co-Captain are not required to play in matches in this tournament, however they are strongly encouraged to participate in order to better lead their team.**
+### 6.11 - Mentor Participation
+**The Mentor and Co-Mentor are not required to play in matches in this tournament, however they are strongly encouraged to participate in order to better lead their team.**
 
 ### 6.12 - Proof of Play
 "Proof of Play" refers to the team providing evidence or "proof" that a match was played in its entirety and with respect to the rules outlined in this document.
@@ -733,7 +733,7 @@ When proof of play is required, the following **must** be provided:
 1. A **recording** or **stream POV** of the match. This can be from any player on the team. Note that **spectators** are *not* allowed, so the player recording/streaming the match **must** be one of the active players. See [8.5](#85---spectators) for more information.
 2. A screenshot of the end-game scoreboard *with all players present*
 
-**ALL** of the above items are required to serve as suitable Proof of Play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Captain** must deliver these directly to the one of the Tournament Directors within **24 hours** following the conclusion of the match.
+**ALL** of the above items are required to serve as suitable Proof of Play. **This means that all matches must be recorded and/or streamed by at least one player on the team.** The team's **Mentor** must deliver these directly to the one of the Tournament Directors within **24 hours** following the conclusion of the match.
 
 In the best case, failure to provide proof of play will result in a team being forced to **replay the match**. The replayed match will be subject to the **Scheduling Deadline**, should one exist.
 In the worst case, a team will earn a **zero score** for the match.
@@ -873,12 +873,12 @@ As stated in [2.4](#24---conflicts-of-interest), **Tournament Commentators** and
 ### 8.4 - Voice Chat
 Teams will each be assigned a Voice Channel in the Tournament Discord Server that they are **required** to use for the match, even if they do not intend to use it to communicate with one another.
 
-Furthermore, **only the players currently playing in the match are allowed to be in Voice Chat.** Both the Captain and Co-Captain are subject to this rule as well. Violating this will result in receiving a **zero score** for the match and possible suspension from the tournament.
+Furthermore, **only the players currently playing in the match are allowed to be in Voice Chat.** Both the Mentor and Co-Mentor are subject to this rule as well. Violating this will result in receiving a **zero score** for the match and possible suspension from the tournament.
 
 #### 8.4.1 - War Rooms
 War Rooms will be utilized in this tournament. A War Room refers to the streamers and commentators occasionally dropping into the team’s Voice Chat room to “listen in”. War Rooms will typically last for about 30 seconds and will only occur a few times per match.
 
-**Teams are allowed to veto the use of their Voice Channel as a War Room.** The team Captain must inform the Tournament Staff of this decision prior to the match Start Time.
+**Teams are allowed to veto the use of their Voice Channel as a War Room.** The team Mentor must inform the Tournament Staff of this decision prior to the match Start Time.
 
 Commentators will not speak nor create any distractions when entering a channel, and players should generally not feel disturbed by their presence.
 
