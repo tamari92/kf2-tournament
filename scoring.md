@@ -46,7 +46,7 @@ There are four Score Bonus categories:
 - [Health Bonus](#health-bonus)
 - [Time Bonus](#time-bonus)
 - [Objective Bonus](#objective-bonus)
-- [No Medic Bonus](#no-healer-bonus)
+- [No Medic Bonus](#no-medic-bonus)
 
 **Score Bonuses are only obtainable by completing the match with a VICTORY**. In other words, **the Boss must be killed to secure the Bonus Points.** A full team wipe will result in loss of all Bonus points, leaving only the CS to be factored into the total score.
 
@@ -84,7 +84,7 @@ When the match is completed (boss killed), the team is instantly awarded the rem
 
 Most maps have several Dosh Hold Zones (aka “Stand Your Ground”) that can be completed for bonus XP, Vault Dosh, and Dosh. Other maps have additional contextual objectives that can appear on specific waves (e.g. KF-Airship).
 
-Completing any of these objectives awards **150 Points** toward the team’s OB.
+Completing any of these objectives awards **200 Points** toward the team’s OB.
 
 It is important to note that for ALL objectives, the objective must be completed **in its entirety** for the team to be awarded Points. This means that for DHZs, the meter must reach 100%. For all other map objectives, the meter must read COMPLETE or 100%.
 
