@@ -242,6 +242,7 @@ Coco                  76561198196252922
 Code The Void         76561198047581702
 EtherealDoom          76561198004769661
 Freedsnipers          76561198014039040
+indynick              76561197979820467
 Jenny XJ-9            76561198058237584
 Rey                   76561198002762666
 Tamari                76561197960854627
@@ -848,6 +849,7 @@ All matches will be streamed primarily at any the following links:
 - http://www.twitch.tv/boristheanimalttv
 - http://www.twitch.tv/codethevoid
 - http://www.twitch.tv/illethp
+- http://www.twitch.tv/jenny_xj_9
 - http://www.twitch.tv/kusu_
 - http://www.twitch.tv/tamari92
 - http://www.twitch.tv/zeelmo
