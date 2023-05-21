@@ -242,6 +242,7 @@ Coco                  76561198196252922
 Code The Void         76561198047581702
 EtherealDoom          76561198004769661
 Freedsnipers          76561198014039040
+Gladiateor            76561198133021250
 indynick              76561197979820467
 Jenny XJ-9            76561198058237584
 Rey                   76561198002762666
