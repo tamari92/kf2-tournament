@@ -134,9 +134,9 @@ This tournament uses a customized spectate system with enhanced features, enabli
 LSHIFT (Hold)               Enable real-time movement during ZED Time (while in free camera)
 LALT (Hold)                 Enable mouse cursor (see below for more info)
 LALT + LeftMouseButton      Jump to Target (when hovering over ZED or player)
-LALT + LeftMouseButton      Jump to Target (when hovering over a player's Status Pane)
+LALT + LeftMouseButton      Jump to Player (when hovering over a player's Status Pane)
 LALT + LeftMouseButton      Jump to ZED (when hovering over ZED health bar)
-LALT + RightMouseButton     Paint Target
+LALT + RightMouseButton     Paint ZED
 ```
 
 ## VIII. Conduct
