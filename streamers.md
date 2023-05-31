@@ -99,6 +99,8 @@ Cinematic Spectator Camera             True
 ```
 Disable Cosmetics                      False
 Spectator Camera Speed                 0.50
+Enable Sobel Shader                    False
+Clear Gore On Wave End                 False
 ```
 **Colors**
 ```
