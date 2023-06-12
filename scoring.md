@@ -106,9 +106,9 @@ In the event that a player should switch to or spawn into the game as a **Field 
 #### Survivalist Penalty
 There is one special case with the NMB, seen in the instance that a **Survivalist** is present on the team during the run.
 
-In the event that a team completes the match without a **Field Medic**, but with a **Survivalist** present in the squad, a slight penalty is added to the bonus, decreasing the score multiplier to **1.25x (125%)**. Though the final Score (according to the HUD) in this case would still display the full 150% value, it will be manually adjusted after the match by the Tournament Staff to account for this penalty.
+In the event that a team completes the match without a **Field Medic**, but with a **Survivalist** present in the squad, a slight penalty is added to the bonus, reducing the score multiplier to **1.25x (125%)** instead. Though the final Score (according to the HUD) in this case would still display the full 150% value, it will be manually adjusted after the match by the Tournament Staff to account for the penalty.
 
-The purpose of this penalty is to account for Survivalist's nature as a generalist and the presence of Perk Skills and passive bonuses that generally make them a much more viable non-Medic alternative than the rest of the Perks in the game on average. With this penalty, alternative No-Medic strategies remain competitive and are even encouraged through the earning of extra points.
+The purpose of this penalty is to address Survivalist's nature as a generalist and the presence of specific Perk Skills and passive bonuses that inherently make them a *much* more viable non-Medic alternative than the rest of the Perks in the game on average. This penalty allows alternative No-Medic strategies to remain competitive and allows those strategies to be rewarded through the earning of additional bonus points.
 
 As with a *"full"* No-Medic run (described above), **it is NOT possible to revert this state once obtained.** Switching off of Survivalist will not restore the original bonus multiplier.
 
