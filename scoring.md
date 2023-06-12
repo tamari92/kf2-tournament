@@ -46,7 +46,7 @@ There are four Score Bonus categories:
 - [Health Bonus](#health-bonus)
 - [Time Bonus](#time-bonus)
 - [Objective Bonus](#objective-bonus)
-- [No Healer Bonus](#no-medic-bonus)
+- [No Medic Bonus](#no-medic-bonus)
 
 **Score Bonuses are only obtainable by completing the match with a VICTORY**. In other words, **the Boss must be killed to secure the Bonus Points.** A full team wipe will result in loss of all Bonus points, leaving only the CS to be factored into the total score.
 
@@ -84,25 +84,35 @@ When the match is completed (boss killed), the team is instantly awarded the rem
 
 Most maps have several Dosh Hold Zones (aka “Stand Your Ground”) that can be completed for bonus XP, Vault Dosh, and Dosh. Other maps have additional contextual objectives that can appear on specific waves (e.g. KF-Airship).
 
-Completing any of these objectives awards **150 Points** toward the team’s OB.
+Completing any of these objectives awards **200 Points** toward the team’s OB.
 
 It is important to note that for ALL objectives, the objective must be completed **in its entirety** for the team to be awarded Points. This means that for DHZs, the meter must reach 100%. For all other map objectives, the meter must read COMPLETE or 100%.
 
 For a given map, Dosh Hold Zones will appear at a static location on each wave they are offered. This does not necessarily mean that they will always appear at the same location for all waves, but rather that they will always appear at the same location on that wave in particular. Furthermore, DHZs will appear on the same waves for each run of an individual map to keep things fair for all teams.
 
-### No Healer Bonus
-**No Healer Bonus** (NHB) is a special bonus that is granted for runs that are completed *without* a **Field Medic** or **Survivalist**.
+### No Medic Bonus
+**No Medic Bonus** (NMB) is a special bonus that is granted for runs that are completed *without* a **Field Medic**.
 
-Unlike the previous bonuses, NHB acts as a **multiplier to the total score** of the match. Specifically, NHB multiplies the Total Score by a factor of **1.50x (150%).**
+Unlike the previous bonuses, NMB acts as a **multiplier to the total score** of the match. Specifically, NMB multiplies the Total Score by a factor of **1.50x (150%).**
 
 This multiplier is applied *AFTER* all previous bonuses are added to and all penalties subtracted from the current score.
 
-NHB exists to reward teams that manage to overcome the innate difficulty increase brought on by not having a dedicated healer present on the team.
+NMB exists to reward teams that manage to overcome the innate difficulty increase brought on by not having a dedicated healer present on the team.
 
-In the event that a player should switch to or spawn into the game as a **Field Medic** or **Survivalist**, the bonus is immediately marked as **Void** and a message is printed to the chat box.
+In the event that a player should switch to or spawn into the game as a **Field Medic**, the bonus is immediately marked as **Void** and a message is printed to the chat box.
 
-**It is NOT possible to revert this state once obtained.**
+**It is NOT possible to revert this state once obtained.** Switching off of Field Medic will not restore the original bonus multiplier.
 
+#### Survivalist Penalty
+There is one special case with the NMB, seen in the instance that a **Survivalist** is present on the team during the run.
+
+In the event that a team completes the match without a **Field Medic**, but with a **Survivalist** present in the squad, a slight penalty is added to the bonus, decreasing the score multiplier to **1.25x (125%)**. Though the final Score (according to the HUD) in this case would still display the full 150% value, it will be manually adjusted after the match by the Tournament Staff to account for this penalty.
+
+The purpose of this penalty is to account for Survivalist's nature as a generalist and the presence of Perk Skills and passive bonuses that generally make them a much more viable non-Medic alternative than the rest of the Perks in the game on average. With this penalty, alternative No-Medic strategies remain competitive and are even encouraged through the earning of extra points.
+
+As with a *"full"* No-Medic run (described above), **it is NOT possible to revert this state once obtained.** Switching off of Survivalist will not restore the original bonus multiplier.
+
+#### Example
 As an example, consider the following Completion Score (CS), Health Bonus (HB), Time Bonus (TB), and Objective Bonus (OB) values:
 ```
 CS: 1000
@@ -110,24 +120,30 @@ HB: 200
 TB: 1275
 OB: 150
 ```
-The calculation of the Total Score as a result of the NHB would go as follows:
+The calculation of the Total Score as a result of a *full* and successful NMB run would go as follows:
 ```
-TotalScore = (CS + HB + TB + OB) x NHB
+TotalScore = (CS + HB + TB + OB) x NMB
 = (1000 + 200 + 1275 + 150) x 1.50
 = 2625 x 1.50
 = 3937.5 Points
 = 3937 Points
 ```
+The calculation of the Total Score as a result of a *partial* NMB run (with Survivalist) would go as follows:
+```
+TotalScore = (CS + HB + TB + OB) x NMB
+= (1000 + 200 + 1275 + 150) x 1.25
+= 2625 x 1.25
+= 3281.25 Points
+= 3281 Points
+```
 
-Similarly to the Completion Score calculation, **all fractional/decimal portions of the value are dropped**, which is equivalent to rounding down to the **nearest whole value.** The final value after this calculation then represents the team’s total score for the match.
-
-Thus, the team would earn **3862 Points** in total for the match. Should the NHB be voided, the team would only earn **2575 Points** instead.
+Following either the 150% or 125% score bonuses (from either of the above cases), **all fractional/decimal portions of the value are dropped**, which is equivalent to rounding down to the **nearest whole value.** The final value after this calculation then represents the team’s total score for the match.
 
 
 ## Score Penalty
 **Score Penalties** are modifiers that **subtract** Points from the team’s total score.
 
-If the **No Healer Bonus** is obtained, the score penalties are subtracted from the team’s total score **BEFORE** the NHB multiplier goes into effect. This results in a sharper decrease of Points overall compared to subtracting the penalty after the multiplier.
+If the **No Medic Bonus** is obtained, the score penalties are subtracted from the team’s total score **BEFORE** the NMB multiplier goes into effect. This results in a sharper decrease of Points overall compared to subtracting the penalty after the multiplier.
 
 Currently, the only score penalty in use is the **Time Penalty** (TP). TP is acquired in the event that teams take *too long* to finish the match.
 
@@ -163,15 +179,15 @@ TotalScore = (CS + HB + TB + OB - TP)
 = 2625 - 694
 = 1931 Points
 ```
-..or alternatively if the team had obtained the No Healer Bonus:
+..or alternatively if the team had obtained the No Medic Bonus:
 ```
-TotalScore = (CS + HB + TB + OB - TP) x NHB
+TotalScore = (CS + HB + TB + OB - TP) x NMB
 = (2625 - 694) x 1.50
 = 1931 x 1.50
 = 2896.5
 = 2896 Points
 ```
-As a result of the TP, the team would only earn **1931 Points** (2896 w/ NHB). This is a drastic decrease from the original value of **2625 Points** (3937 w/ NHB).
+As a result of the TP, the team would only earn **1931 Points** (2896 w/ NMB). This is a drastic decrease from the original value of **2625 Points** (3937 w/ NMB).
 
 Though this decrease might seem harsh, it is tuned as such to strongly discourage strategies in which teams purposely draw out the length of the game in order to preserve Bonus, as this would generally be unfair to the other teams that took a normal amount of time to complete the match. Longer games also take longer to stream, and so this penalty exists for the convenience of the streamers, commentators, and spectators/viewers as well.
 
