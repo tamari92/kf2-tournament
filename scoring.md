@@ -165,8 +165,8 @@ OB: 150
 Using the above values, the team’s total score before the penalty would be:
 ```
 TotalScore = CS + HB + TB + OB
-= 1000 + 200 + 1275 + 150
-= 2625 Points
+= 1000 + 200 + 1275 + 200
+= 2675 Points
 ```
 .. but now suppose the **PENALTY Time** is **1:00:00** (3600 seconds) and the team has completed the match with a time of **1:05:47** (3947 seconds).
 
@@ -180,18 +180,26 @@ TimePenalty = (CompletionTime - PenaltyTime) x PointLossPerSecond
 This value would then be subtracted directly from the total score, resulting in the team earning:
 ```
 TotalScore = (CS + HB + TB + OB - TP)
-= 2625 - 694
-= 1931 Points
+= 2675 - 694
+= 1981 Points
 ```
-..or alternatively if the team had obtained the No Medic Bonus:
+..or if the team had obtained the No Medic Bonus (in full):
 ```
 TotalScore = (CS + HB + TB + OB - TP) x NMB
 = (2625 - 694) x 1.50
-= 1931 x 1.50
-= 2896.5
-= 2896 Points
+= 1981 x 1.50
+= 2971.5
+= 2971 Points
 ```
-As a result of the TP, the team would only earn **1931 Points** (2896 w/ NMB). This is a drastic decrease from the original value of **2625 Points** (3937 w/ NMB).
+..or if the team had obtained the No Medic Bonus (in partial w/ Survivalist):
+```
+TotalScore = (CS + HB + TB + OB - TP) x NMB
+= (2625 - 694) x 1.25
+= 1981 x 1.25
+= 2476.5
+= 2476 Points
+```
+As a result of the TP, the team would only earn **1981 Points** (2971 w/ full NMB, 2476 w/ partial NMB). This is a drastic decrease from the original value of **2675 Points** (4012 w/ full NMB, 3343 w/ partial NMB).
 
 Though this decrease might seem harsh, it is tuned as such to strongly discourage strategies in which teams purposely draw out the length of the game in order to preserve Bonus, as this would generally be unfair to the other teams that took a normal amount of time to complete the match. Longer games also take longer to stream, and so this penalty exists for the convenience of the streamers, commentators, and spectators/viewers as well.
 
