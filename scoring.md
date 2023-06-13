@@ -118,23 +118,23 @@ As an example, consider the following Completion Score (CS), Health Bonus (HB), 
 CS: 1000
 HB: 200
 TB: 1275
-OB: 150
+OB: 200
 ```
 The calculation of the Total Score as a result of a *full* and successful NMB run would go as follows:
 ```
 TotalScore = (CS + HB + TB + OB) x NMB
-= (1000 + 200 + 1275 + 150) x 1.50
-= 2625 x 1.50
-= 3937.5 Points
-= 3937 Points
+= (1000 + 200 + 1275 + 200) x 1.50
+= 2675 x 1.50
+= 4012.5 Points
+= 4012 Points
 ```
 The calculation of the Total Score as a result of a *partial* NMB run (with Survivalist) would go as follows:
 ```
 TotalScore = (CS + HB + TB + OB) x NMB
 = (1000 + 200 + 1275 + 150) x 1.25
-= 2625 x 1.25
-= 3281.25 Points
-= 3281 Points
+= 2675 x 1.25
+= 3343.75 Points
+= 3343 Points
 ```
 
 Following either the 150% or 125% score bonuses (from either of the above cases), **all fractional/decimal portions of the value are dropped**, which is equivalent to rounding down to the **nearest whole value.** The final value after this calculation then represents the team’s total score for the match.
