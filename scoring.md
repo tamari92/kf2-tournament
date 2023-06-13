@@ -51,7 +51,9 @@ There are four Score Bonus categories:
 **Score Bonuses are only obtainable by completing the match with a VICTORY**. In other words, **the Boss must be killed to secure the Bonus Points.** A full team wipe will result in loss of all Bonus points, leaving only the CS to be factored into the total score.
 
 ### Health Bonus
-**Health Bonus** (HB) represents how *healthy* the squad is. It is a pool of bonus points that starts off at a large value and bleeds off as members of the team die.
+**Health Bonus** (HB) rewards the squad for *remaining healthy*.
+
+It is a pool of bonus points that starts off at a large value and bleeds off as members of the team die.
 
 The default HB for matches in this tournament is **600 Points.** Each time a squad member dies, the team loses **100 Points** from their HB pool.
 
@@ -60,7 +62,9 @@ This implies that the team can suffer up to **6 deaths total** before exhausting
 HB is calculated *independently* of how many times each individual squad member has actually died. This means that the HB will be fully exhausted whenever the team suffers six *total* deaths, regardless of who has died thus far.
 
 ### Time Bonus
-**Time Bonus** (TB) represents how *efficient* the squad is. It is a pool of bonus points earned by completing the match as quickly as possible.
+**Time Bonus** (TB) rewards the squad for *efficiency*.
+
+It is a pool of bonus points earned by completing the match as quickly as possible.
 
 Each map has its own associated Time Bonus value. When the match begins, the value of the Time Bonus begins to decease by a standard rate each second, with the rate increasing as the match continues.
 
@@ -80,7 +84,7 @@ Utilizing the **SKIP TRADER** functionality is highly encouraged to save even mo
 When the match is completed (boss killed), the team is instantly awarded the remaining value of the Time Bonus toward their total score for the match.
 
 ### Objective Bonus
-**Objective Bonus** (OB) represents Map Objective completion.
+**Objective Bonus** (OB) rewards the team for *completing optional Map Objectives*.
 
 Most maps have several Dosh Hold Zones (aka “Stand Your Ground”) that can be completed for bonus XP, Vault Dosh, and Dosh. Other maps have additional contextual objectives that can appear on specific waves (e.g. KF-Airship).
 
