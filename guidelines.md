@@ -1063,7 +1063,7 @@ The skills affected include:
 ### 8.9 - Map Objectives
 Throughout the match, objectives in the form of “Stand Your Ground” zones will appear. Some maps have built-in objectives as well, such as KF-Airship.
 
-Completing these objectives grants **150 Objective Bonus Points** to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
+Completing these objectives grants **200 Objective Bonus Points** to the team (see [Section 7: Scoring](#section-7-scoring) for more information on this).
 
 For a given map, Stand Your Ground objectives will appear at a static location on each wave they are offered. This does not necessarily mean that they will always appear at the same location for all waves, but rather that they will always appear at the same location on that wave in particular. Furthermore, SYGs will appear on the same waves for each run of an individual map to keep things fair for all teams.
 
