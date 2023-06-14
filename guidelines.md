@@ -33,6 +33,7 @@ Regardless, it is highly recommended for all participants and staff to review th
       - [3.2.2e - Losers Semifinals](#322e---losers-semifinals)
       - [3.2.2f - Losers Finals](#322f---losers-finals)
       - [3.2.2g - Grand Finals](#322g---grand-finals)
+    - [3.2.3 - Sudden Death](#323---sudden-death)
   - [3.3 - Map Pool](#33---map-pool)
     - [3.3.1 - Map Bans](#331---map-bans)
       - [3.3.1a - One Map To Play](#331a---one-map-to-play)
@@ -452,6 +453,13 @@ Similarly to the **Winners Finals**, each team plays **two games** on **two sepa
 To win the tournament, the team that advanced from the **Winners Finals** only needs to win a single two-game series.
 
 Meanwhile, the team that advanced from the **Losers Finals** must win two two-game series (achieve a higher total score) in a row to win the tournament. The first win achieved by the lower seed results in a "bracket reset", which resets all scores to 0 for the next two-game series. If the lower seed team wins again, they become the tournament champion.
+
+#### 3.2.3 - Sudden Death
+In the event of a tie (both teams earning the exact same score) in *any* phase of the Playoffs, a **Sudden Death** tiebreaker game shall begin.
+
+The Sudden Death game involves the teams playing a new map which has **NOT** had its details/configurations revealed ahead of time. This means that the players must adapt and play the match in a "blind" fashion (without any preparation). The team that earns the highest score in the Sudden Death game wins the match.
+
+The maps to be used for Sudden Death will be taken from those maps which have been banned at any point during the Playoffs.
 
 ### 3.3 - Map Pool
 This list is subject to change at any time and does not necessarily represent the exact order the maps will be played.
