@@ -51,9 +51,9 @@ Regardless, it is highly recommended for all participants and staff to review th
   - [5.1 - Team Roster](#51---team-roster)
   - [5.2 - Team Formation](#52---team-formation)
     - [5.2.1 - Player Sign-ups](#521---player-sign-ups)
-    - [5.2.2 - Player Grouping](#522---player-grouping)
-    - [5.2.3 - Mentor Assignment](#523---mentor-assignment)
-    - [5.2.4 - Co-Mentor Assignment](#524---co-mentor-assignment)
+    - [5.2.2 - Mentor Assignment](#522---mentor-assignment)
+    - [5.2.3 - Co-Mentor Assignment](#523---co-mentor-assignment)
+    - [5.2.4 - Player Grouping](#524---player-grouping)
     - [5.2.5 - Player Draft](#525---player-draft)
   - [5.3 - Roster Integrity](#53---roster-integrity)
     - [5.3.1 - Alternate Accounts](#531---alternate-accounts)
@@ -584,9 +584,9 @@ The Co-Mentor can be a player of any skill level that has not already been assig
 ### 5.2 - Team Formation
 The formation of teams is conducted in five distinct phases:
 - [Player Sign-ups](#521---player-sign-ups)
-- [Player Grouping](#522---player-grouping)
-- [Mentor Assignment](#523---mentor-assignment)
-- [Co-Mentor Assignment](#524---co-mentor-assignment)
+- [Mentor Assignment](#522---mentor-assignment)
+- [Co-Mentor Assignment](#523---co-mentor-assignment)
+- [Player Grouping](#524---player-grouping)
 - [Player Draft](#525---player-draft)
 
 #### 5.2.1 - Player Sign-ups
@@ -596,7 +596,21 @@ On the signup form, an option is given that allows the participant to specify th
 
 The number of players that sign up directly influences the number of Mentors that can be chosen (and therefore the maximum number of teams).
 
-#### 5.2.2 - Player Grouping
+#### 5.2.2 - Mentor Assignment
+Next, **Mentors** are to be chosen/selected. Most of the time, these individuals will be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Mentors, the Tournament Staff will review those applications at this time.
+
+**The number of Mentor slots available is limited by the number of players participating in the tournament.** This is to ensure each team has a full roster.
+
+#### 5.2.3 - Co-Mentor Assignment
+Once the Mentors have been chosen, each will be asked to select a **Co-Mentor** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
+
+Mentors will be informed of the players who have directly expressed an interest in being a Co-Mentor, however this does not mean that Mentors are necessarily required to choose those players.
+
+**Co-Mentor selection is done on a first come first serve basis.**
+
+There must be written confirmation from both the Mentor and the prospective Co-Mentor for the assignment to be finalized.
+
+#### 5.2.4 - Player Grouping
 After sign-ups close, the Tournament Staff will divide the registered players into **Player Groups** based on their experience level.
 
 There are three Groups:
@@ -605,20 +619,6 @@ There are three Groups:
 - **Group 3:** New or lesser-experienced players
 
 These groups exist to better ensure a more even balance between teams and become relevant when the teams are actually filled out with players.
-
-#### 5.2.3 - Mentor Assignment
-Next, **Mentors** are to be chosen/selected. Most of the time, these individuals will be chosen before the selection process even begins by the Tournament Staff directly. However, in the event that players have signed up to become Mentors, the Tournament Staff will review those applications at this time.
-
-**The number of Mentor slots available is limited by the number of players participating in the tournament.** This is to ensure each team has a full roster.
-
-#### 5.2.4 - Co-Mentor Assignment
-Once the Mentors have been chosen, each will be asked to select a **Co-Mentor** to help them lead their team. **This can be anyone currently in the pool of registered players, regardless of skill level.**
-
-Mentors will be informed of the players who have directly expressed an interest in being a Co-Mentor, however this does not mean that Mentors are necessarily required to choose those players.
-
-**Co-Mentor selection is done on a first come first serve basis.**
-
-There must be written confirmation from both the Mentor and the prospective Co-Mentor for the assignment to be finalized.
 
 #### 5.2.5 - Player Draft
 When all Mentor and Co-Mentor pairs have been established, the **Player Draft** phase will begin. In this phase, the remaining players are selected by the Mentors using the previously-formed Player Groups.
