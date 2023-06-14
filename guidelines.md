@@ -747,18 +747,18 @@ In the worst case, a team will earn a **zero score** for the match.
 
 ### 6.13 - Multiple Attempts
 #### 6.13.1 - Group Stage
-In the **Group Stage**, teams are permitted to make a **single re-attempt** at a match in the event that the squad is wiped out.
+In the **Group Stage**, teams are permitted a **single retry** at a match in the event that the squad is wiped out before the beginning of **Wave 6.** Retries add extra time to the match, so this regulation is upheld with consideration of the time of the Tournament Staff involved as well the audience.
 
 **In the event that the second attempt results in a VICTORY (boss killed), the team suffers a 50% reduction to the Total Score earned**. This reduction occurs **after** all bonuses and penalties are applied to the Total Score. The score reduction cannot reduce the team's score beyond the maximum value of the Completion Score (CS) for the match. See [Section 7: Scoring](#section-7-scoring) for more information.
 
-Additionally, for ANY re-attempted match, **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher, and regardless of whether or not the score penalty was actually applied to the retried run.**
+Additionally, if the second attempt results in a VICTORY (boss killed), **the newly-earned score supersedes the score earned in the original attempt, even if the original score was higher.**
 
 In the event that a crash occurs (either player or server), a retry may be granted by the Tournament Staff. See [6.14](#614---loss-of-connection) for more information. Retries as a result of a loss of connection are considered separately from retries made as the result of the squad being wiped out.
 
 Otherwise, there are no exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
 #### 6.13.2 - Playoffs
-In the Playoffs phase, **multiple attempts are strictly forbidden** except in the case where a crash occurs. See [6.14](#614---loss-of-connection) for more information.
+In the Playoffs phase, **multiple attempts are strictly forbidden** except in the case where a crash occurs. See [6.14](#614---loss-of-connection) for more information. This is due to the longer nature of Playoffs matches and is upheld with consideration of the time of the Tournament Staff involved as well the audience.
 
 There are no formal exceptions to the above regulations, though the Tournament Staff shall retain the right to make them as deemed necessary.
 
