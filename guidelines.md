@@ -676,16 +676,16 @@ In the **Playoffs**, the Mentors from both teams are required to coordinate a ti
 For matches where a single team plays multiple games (such as during the Playoffs), there must be **no scheduled intermission** between games. In other words, the games must be each be played "back-to-back". Teams are allowed a maximum of **ten minutes** between each individual game to be back in the server and readied up to begin the next game.
 
 #### 6.5.2 - Substitutions
-**Substitutions ARE allowed, but ONLY between games.** Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and will be made within reason. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match. Please ensure that players have allotted enough time to be present at all individual games in a specified matchup.
+**Substitutions ARE allowed, but ONLY between games.** Substitutions **cannot** be made *during* a single game in a match, barring major emergencies, for which exceptions can and will be made within reason. Otherwise, there are no exceptions to this rule and violation will result in the team receiving a **zero score** for the match.
 
 ### 6.6 - Matches Between Two Teams
 For matches that occur between two separate teams (for example during the Playoffs), **an eight hour grace period is to be granted between each teams' individual set of games.**
 
-For example, if Team A schedules their match on **March 1 @ 12:00 PM**, then Team B's game(s) must begin **no earlier than March 1 @ 4:00 AM (8 hours prior)** and **no later than March 1 @ 8:00 PM (8 hours after)**. Note that the eight hour grace period is applied relative to the **start time** of the **first game in the set** specifically, rather than the time the team finishes playing *all* of their game(s). This means that if Team A schedule to play their set of games at some time, then Team B has eight hours from that time to play their game(s). Team B need not *finish* their game(s) by the end of the grace period, but rather *start* them.
+For example, if Team A schedules their game(s) on **March 1 @ 12:00 PM**, then Team B's game(s) must begin **no earlier than March 1 @ 4:00 AM (8 hours prior)** and **no later than March 1 @ 8:00 PM (8 hours after)**. Note that the eight hour grace period is applied relative to the **start time** of the **first game in the set** specifically, rather than the time the team finishes playing *all* of their game(s). This means that if Team A schedule to play their set of games at some time, then Team B has eight hours from that exact time to start their game(s). Team B need not *finish* their game(s) by the end of the grace period, but rather *start* them.
 
 This grace period is to account for the differing timezones within an individual team and is aimed to ease some of the pressure of scheduling for the Mentors.
 
-**If possible, the best case scenario would involve both teams playing back-to-back.** This situation would provide ultimate convenience for the teams as well as the Tournament Staff in attendence.
+**If possible, the best case scenario would involve both teams playing back-to-back.** This situation would provide ultimate convenience for the teams as well as the Tournament Staff in attendence, but it is not necessary in the end.
 
 Also, please note that **this is an international tournament.** By signing up to play, competitors are expected to understand that their opponents may be based in a distant time zone, which means that some or all players in a team may be required to play at inopportune / abnormal times throughout the day. To help remedy this, Mentors should be prompt and negotiate the schedule for the match as early as possible.
 
