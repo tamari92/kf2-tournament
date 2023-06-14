@@ -395,7 +395,7 @@ This produces the following pairs:
 4th Seed VS 5th Seed
 ```
 
-Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331a---one-map-to-play). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Though scenarios each have unique Objectives and Bosses, the [CD Parameters](#82---cd-parameters) remain the same for all scenarios played on a given map. A team's total score for the round is the cumulative score across all scenarios to be played.
+Each team then plays **two games** on a **single map**, determined through a series of [Map Bans](#331a---one-map-to-play). Each game to be played has a unique set of Objectives and Bosses, referred to herein as a "scenario". Scenarios each have unique Objectives, Bosses, and [CD Parameters](#82---cd-parameters). A team's total score for the round is the cumulative score across all scenarios to be played.
 
 - The team with the highest total score across all scenarios wins the round and advances to the **Winners Semifinals**.
 - The two losing teams are dropped into the **Losers Bracket** and receive a **1 week bye** while they await their opponents, the losers of the **Winners Semifinals**, in the **Losers Quarterfinals**.
