@@ -238,6 +238,7 @@ illethP               76561197986122267
 ```
 **Commentator(s)**
 ```
+bluntman420           76561197995859812
 Boris the Animal      76561198030804560
 Coco                  76561198196252922
 Code The Void         76561198047581702
@@ -253,6 +254,7 @@ ZeElmo                76561198019142154
 ```
 **Streamer(s)**
 ```
+bluntman420           76561197995859812
 Boris the Animal      76561198030804560
 Code The Void         76561198047581702
 illethP               76561197986122267
