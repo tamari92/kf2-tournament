@@ -458,7 +458,7 @@ Meanwhile, the team that advanced from the **Losers Finals** must win two two-ga
 
 #### 3.2.3 - Tiebreakers
 In the event of a tie (both teams earning the exact same score) in *any* phase of the Playoffs, ties will be broken via the following scheme (considered in the order defined):
-1. If only one team has suffered a full wipe (game ended in DEFEAT) in either of their games, the team that has not wiped shall take victory
+1. If only one team has suffered a full wipe (the game ended in DEFEAT) in either of their games, the team that has not wiped shall take victory
 2. The team with the lowest *Total Match Time* (sum of both games) shall take victory
 
 ### 3.3 - Map Pool
