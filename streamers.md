@@ -34,7 +34,7 @@ Please stream at *at least* **1080p** (`1920x1080` or `1920x1200`) resolution.
 60 Frames per Second is strongly preferred, but not required.
 
 
-## IV. Overlays & Stream Elements
+## IV. Overlays, Stream Elements, & Audio
 Please disable/hide any non-essential stream elements so that as much of the game is viewable as possible.
 This includes:
 ```
@@ -44,25 +44,12 @@ This includes:
 4. Any overlays / visual elements that are not designed to be a border of some sort
 5. STEAM overlay notifications and sounds
 ```
-Furthermore, please set your streaming scene such that the game view takes up **the entire scene**.
-Some streams have the game sectioned off on one specific part of the overlay. Please refrain from doing this as it makes it difficult to see what's going on for some viewers.
 
+Additionally, **please do not use copyrighted music** during the stream. This typically results in the stream's VOD being muted, which impacts the ability to rewatch the matches down the line.
 
-Here is a link to a hi-res version of the tournament banner:
-- https://i.imgur.com/4LaIsp1.png
+A set of official tournament graphics, overlays, and transitions are available.
 
-The server already takes care of displaying this banner in-game to the spectators, however you are more than welcome to display this banner elsewhere on your stream (during AFK scenes, starting soon scenes, etc).
-
-Other visualizations are recommended (but not required), such as the current state of the Playoffs brackets, or the current team standings during the Group Stage.
-The team standings will be posted every week in the official tournament Discord Server.
-A recommended use of these visualizations is showing them during any AFK or Starting Soon scenes so that viewers can get an idea of the current state of the tournament.
-
-Here are some examples from my own stream. Feel free to copy if you'd like:
-- https://i.imgur.com/xzvWJFb.png (BRB overlay)
-- https://i.imgur.com/yOXbFNA.png (Main overlay)
-- https://i.imgur.com/faMg6ZD.png (Starting soon overlay 1)
-- https://i.imgur.com/HbMMRQt.png (Starting soon overlay 2)
-- https://i.imgur.com/HqFNq0r.png (Team standings)
+Please contact Tamari or ZeElmo for more information and directions on how to set everything up.
 
 Here's an example of a good cast with great production quality and nice visuals:
 https://youtu.be/M1EaEyw6i8I?t=1073
