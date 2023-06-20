@@ -515,8 +515,8 @@ When there are **two maps** to be played, the following procedures are in effect
 
 #### 3.3.1c - Penalties
 There are various penalties in place on Map Bans, as follows:
-- If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **they yield their ability to cast a ban to the second team, who will ultimately be permitted to make their choice for them**
-- If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **they yield their ability to cast a ban to the first team, who will ultimately be permitted to make their choice for them**
+- If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **the second team shall choose the map(s) to play.** The second team does not get to recast their initial ban, but rather, make the first team's choice for them.
+- If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play.** The first team does not get to recast their initial ban, but rather, make the second team's choice for them.
 - If both teams fail to make their bans or respond to the initial call *within 24 hours*, **the Tournament Directors shall choose the map(s) to play**
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
