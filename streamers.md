@@ -107,6 +107,9 @@ Clear Gore On Wave End                 False
 Elite ZED Glow Color                   #8AD7DC
 Fleshpound Glow Color                  #FAC819
 Fleshpound Rage Glow Color             #FF4040
+Speed Boost Status Color               #4444FF
+Damage Boost Status Color              #FFFF44
+Resistance Boost Status Color          #FF4444
 ```
 
 
