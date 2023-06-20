@@ -21,6 +21,7 @@ Please set all KF2 Graphics options to the highest value(s) whenever possible to
 
 Please turn off all in-game music. Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself.
 
+Please run the game on MEDIUM or HIGH graphical settings.
 
 ## II. Game Modifications
 Please remove/disable **any and all** visual, sound, or effect modifications (for example custom sounds) from your game before streaming matches.
