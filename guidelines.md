@@ -622,24 +622,26 @@ There must be written confirmation from both the Mentor and the prospective Co-M
 After sign-ups close, the Tournament Staff will divide the registered players into **Player Groups** based on their experience level.
 
 There are three Groups:
-- **Group 1:** Players possessing a high amount of experience within CD
-- **Group 2:** Players possessing an average or above average amount experience within CD
-- **Group 3:** New or lesser-experienced players
+- **Group 1:** Players possessing a very high amount of experience within CD
+- **Group 2:** Players possessing a high or above average amount experience within CD
+- **Group 3:** Players possessing an average amount experience within CD
+- **Group 4:** Players possessing a low amount experience within CD
+- **Group 5:** Players who are brand new to CD
 
 These groups exist to better ensure a more even balance between teams and become relevant when the teams are actually filled out with players.
 
 #### 5.2.5 - Player Draft
-When all Mentor and Co-Mentor pairs have been established, the **Player Draft** phase will begin. In this phase, the remaining players are selected by the Mentors using the previously-formed Player Groups.
+When all Mentor and Co-Mentor pairs have been established and the Player Groups have been formed, the **Player Draft** phase will begin. In this phase, the remaining players are selected by the Mentors using the previously-formed Player Groups.
 
 To start the process, all Mentors will be placed into a hat and shuffled to produce a random ordering. **This represents the order in which the Mentors will choose prospective teammates.** Random ordering is used to prevent any bias and/or favoritism in the process.
 
 Once the order has been set, actual assignment of the players will begin.
 
-To start, Mentors will take turn choosing players from **Group 3** in a Round Robin fashion as per the order established previously. For example, the first Mentor picks a player, then the second, then the third, and so on. This process continues until all of the players in the group have been selected.
+To start, Mentors will take turn choosing players from **Group 5** in a Round Robin fashion as per the order established previously. For example, the first Mentor picks a player, then the second, then the third, and so on. This process continues until all of the players in the group have been selected.
 
-The same process then repeats for the players in **Group 2.**
+The same process then repeats for the players in **Group 4.**
 
-..and finally again for **Group 1.**
+..and so on, repeating until reaching the end of **Group 1.**
 
 The result of this process is (hopefully) a set of teams which have a similar average skill level across their rosters due to the even distribution of players of varying experience.
 
