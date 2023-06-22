@@ -622,10 +622,10 @@ There must be written confirmation from both the Mentor and the prospective Co-M
 After sign-ups close, the Tournament Staff will divide the registered players into **Player Groups** based on their experience level.
 
 There are three Groups:
-- **Group 1:** Players possessing a very high amount of experience within CD
-- **Group 2:** Players possessing a high or above average amount experience within CD
-- **Group 3:** Players possessing an average amount experience within CD
-- **Group 4:** Players possessing a low amount experience within CD
+- **Group 1:** Players possessing a very high amount of experience within CD and who display a high level of mechanical skill, gamesense, and competence with multiple playstyles
+- **Group 2:** Players possessing a high or above average amount of experience within CD and who display a high level of mechanical skill, gamesense, and competence with multiple playstyles
+- **Group 3:** Players possessing an average amount of experience within CD
+- **Group 4:** Players possessing a low amount of experience within CD
 - **Group 5:** Players who are brand new to CD
 
 These groups exist to better ensure a more even balance between teams and become relevant when the teams are actually filled out with players.
