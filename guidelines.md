@@ -1050,6 +1050,18 @@ Several weapons have been modified for use in this tournament. The modifications
 #### Glock 18 & Riot Shield
 - Block damage taken reduction *decreased*:  **60% --> 40%**
 
+#### HRG Medic Missile
+- Base weight *increased*:  **7 --> 8**
+- Ammunition price (per rocket) *increased*:  **Đ 25 --> Đ 50**
+- Explosion damage *decreased*:  **700 --> 250**
+- Healing (per rocket) *decreased*:  **50 --> 40**
+- Rockets apply **two stacks** of Medic Buffs per healing instance
+- Reload time *increased*:  **1.88s --> 2.56s**
+- Base reserve ammunition *decreased*:  **6 --> 4**
+- Maximum reserve ammunition *decreased*:  **22 --> 12**
+- Ammunition collected (per ammo box) *decreased*:  **4 --> 2**
+- Minimum projectile arming range *increased*:  **2m --> 4m**
+
 ### 8.8 - Mechanics
 Several game mechanics have been modified for use in this tournament. The modifications made are as follows:
 
