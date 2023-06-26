@@ -470,7 +470,6 @@ West London                                  (KF-KF1_West_London)
 The Library (CD Edit)                        (KF-TheLibrary)
 Zed Landing                                  (KF-ZedLanding)
 Vortex (CD Edit)                             (KF-Vortex-CDEdit)
-Prison                                       (KF-Prison-TAEdit)
 Monster Ball (CD Edit)                       (KF-MonsterBall-CDEdit)
 Outpost                                      (KF-Outpost)
 Slaughterhouse (CD Edit)                     (KF-Slaughterhouse-CDEdit)
@@ -973,7 +972,6 @@ The following Weapons are **banned** and are prohibited from being used in this 
 - HMTech-501 Grenade Rifle
 - HRG Healthrower
 - HRG Incision
-- HRG Medic Missile
 
 #### Demolitionist
 - Blunderbuss
