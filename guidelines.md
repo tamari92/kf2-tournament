@@ -858,13 +858,14 @@ DisableWorldWeaponPickups=True
 
 ### 8.3 - Streaming & Casting
 All matches will be streamed primarily at any the following links:
-- http://www.twitch.tv/boristheanimalttv
-- http://www.twitch.tv/codethevoid
-- http://www.twitch.tv/illethp
-- http://www.twitch.tv/jenny_xj_9
-- http://www.twitch.tv/kusu_
-- http://www.twitch.tv/tamari92
-- http://www.twitch.tv/zeelmo
+- https://www.twitch.tv/boristheanimalttv
+- https://www.twitch.tv/codethevoid
+- https://www.twitch.tv/illethp
+- https://www.twitch.tv/jenny_xj_9
+- https://www.twitch.tv/kusu_
+- https://www.twitch.tv/mrm1me420
+- https://www.twitch.tv/tamari92
+- https://www.twitch.tv/zeelmo
 
 **Teams are NOT permitted to decline their match(es) being streamed.**
 
