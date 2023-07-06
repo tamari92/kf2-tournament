@@ -70,7 +70,7 @@ Regardless, it is highly recommended for all participants and staff to review th
   - [6.7 - Servers](#67---servers)
   - [6.8 - Tardiness](#68---tardiness)
   - [6.9 - No-shows](#69---no-shows)
-  - [6.10 - Ringers & Substitutes](#610---ringers--substitutes)
+  - [6.10 - Ringers & Substitutions](#610---ringers--substitutions)
   - [6.11 - Mentor Participation](#611---mentor-participation)
   - [6.12 - Proof of Play](#612---proof-of-play)
   - [6.13 - Multiple Attempts](#613---multiple-attempts)
