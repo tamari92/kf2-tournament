@@ -68,7 +68,7 @@ When it's time to end the stream:
 ## I. Game Settings
 Please ensure the following game settings:
 - All Graphics options set to the highest value(s) whenever possible. If nothing else, please make sure that at least Texture and Model Quality are set to **HIGH**.
-- Game Music volume set to 0%. Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself.
+- Game Music volume set to 0%. Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself. Ensure your game sounds are not too loud so that they don't drown out the commentary.
 
 ## II. Game Modifications
 Please remove/disable **any and all** visual, sound, or effect modifications (for example custom sounds) from your game before streaming matches.
