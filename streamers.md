@@ -34,6 +34,8 @@ As the streamer, you should ensure the following:
 1.  Your microphone is muted and/or set to Push to Talk.
 2.  You have switched to the proper **Discord Voice Chat Overlay** so that the viewers can see who is speaking in the War Room. See the dedicated #streamers channel in the tournament Discord, where a guide can be found on how to properly achieve this.
 
+**You should avoid minimizing your game to enter the War Room.** This will cause the game audio to cut out, which can be jarring for the viewers. To combat this, the Lead Commentator will manually move you in and out of the team's War Room.
+
 ### Replays
 Throughout the match, highlights can be shown in the form of **Replays.** Replays allow us to save the coolest moments of a match and show them to the viewers to generate some hype and highlight a specific moment. See the dedicated #streamers channel in the tournament Discord, where a guide can be found on how to properly set up Replays.
 
