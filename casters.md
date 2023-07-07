@@ -37,7 +37,7 @@ See below for some examples of good times to enter the team's War Room.
 
 **At the end of the match...**
 1. Lead Commentator asks the team if they'd like to interview, and if so, moves the specified players into the voice chat room 
-(keep interviews no more than 10 minutes long).
+(keep interviews no more than 10-15 minutes long).
 2. Lead Commentator thanks the viewers for watching and reminds them to tune into the next matches / check out previous matches 
 that have already happened.
 
@@ -82,22 +82,19 @@ The streams' viewers are purely spectators and should have no bearing on the gam
 Following the game's conclusion, **interviews** may be conducted with players from the match. These sessions allow both the staff and the viewers to gain more insight about the team's experience in the match and also allow the players to decompress. Interviews are generally very entertaining and are usually a great conclusion to a cast.
 
 Interviews are subject to the following guidelines:
-1.  Interviews shall only be conducted if the Tournament Streamer in attendance has time to stream the full interview. Please 
-ask the streamer in attendance before the match starts if you know you'd like to conduct interviews.
-2.  For matches where two teams are playing, interviews shall only be conducted **after both teams have played** to avoid 
-delaying the subsequent matches.
-3.  For matches where a team plays multiple games in a row, interviews shall only be conducted **after all games are complete** 
-to avoid delays.
+1.  Interviews shall only be conducted if the Tournament Streamer in attendance has time to stream the full interview. Please ask the streamer in attendance before the match starts if you know you'd like to conduct interviews.
+2.  For matches where two teams are playing, interviews shall only be conducted **after both teams have played** to avoid delaying the subsequent matches.
+3.  For matches where a team plays multiple games in a row, interviews shall only be conducted **after all games are complete** to avoid delays.
 4.  Interviews shall extend no longer than 20 minutes per team.
-5.  Interview questions shall not be framed in any way which is derogatory, inflammatory, and otherwise negative or contains 
-strict bias against the players, the team, and the team's performance. In other words, do not ask questions which belittle or 
-make players feel uncomfortable. Always give players the benefit of the doubt by giving them the opportunity to decline answering 
-the question(s) should they desire.
-6.  Players and teams are allowed to decline an interview entirely. Following the conclusion of the match, either ask directly in 
-the in-game chat or DM the team's Captain (via Steam or Discord) to ask them if they'd like to participate in an interview. 
+5.  Players and teams are allowed to decline an interview entirely. Following the conclusion of the match, either ask directly in the in-game chat or DM the team's Captain (via Steam or Discord) to ask them if they'd like to participate in an interview. 
 
 Should a team decline the interview, do not pressure them.
 
+### Tips for Interviews
+1.  Introduce the interviewees. It's more welcoming and it gives the audience some more context for who is actually joining the interview. It also gives the interviewees a chance to say hello and for people to hear their voice.
+2.  Avoid asking open-ended questions (e.g. "how did the game go?") in favor of more **direct** questions. This allows the interviewees to give a more directed answer, and prevents the interview from dragging on too long. Additionally, addressing the players directly when asking questions is a good way to ensure that no one accidentally interrupts one another. For example, to both players: "what did you think about XYZ?", versus, to Player A: "Player A, what did you think about XYZ?".
+3.  Don't frame questions in any way which is derogatory, inflammatory, and otherwise negative or contains strict bias against the players, the team, and the team's performance. In other words, don't ask questions which might come off as belittling or put players on the spot (e.g. "Why didn't you do this? Why didn't you do that?"). Always give players the benefit of the doubt by giving them the opportunity to decline answering the question(s) should they desire.
+4.  Keep in mind that the schedule is usually pretty tight with matches. The streamer and/or some of the commentary staff may have other matches to attend, so it's a good idea to occasionally remind everyone of the amount of time remaining (e.g. "We have time for one more question"). Try to avoid doing this too often as it can make people feel rushed.
 
 ## V. Media & Ownership
 As tournament commentators you are more than welcome to **record, stream, and archive** your casts. Tamari's KF2 Tournaments does not own the content you produce related to our tournament(s).
