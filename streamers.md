@@ -66,9 +66,9 @@ When it's time to end the stream:
 3.  After a few minutes, end the stream
 
 ## I. Game Settings
-Please set all KF2 Graphics options to the highest value(s) whenever possible to ensure the best quality image for the viewers. If nothing else, please make sure that at least Texture and Model Quality are set to **HIGH**.
-
-Please turn off all in-game music. Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself.
+Please ensure the following game settings:
+- All Graphics options set to the highest value(s) whenever possible. If nothing else, please make sure that at least Texture and Model Quality are set to **HIGH**.
+- Game Music volume set to 0%. Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself.
 
 ## II. Game Modifications
 Please remove/disable **any and all** visual, sound, or effect modifications (for example custom sounds) from your game before streaming matches.
