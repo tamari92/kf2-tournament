@@ -31,7 +31,7 @@ to have the Lead Commentator pass this off to someone else (e.g. "So and so, wan
 4. Quick discussion about the match (state of the tournament, talk about possible strategies, and so on)
 
 **During the match...**
-1. Commentators come to a general agreement on times to enter the team's War Room. **The Lead Commentator moves the Streamer over to the War Room.** 
+1. Commentators come to a general agreement on times to enter the team's War Room. **The Lead Commentator moves the Streamer over to the War Room and brings them back to the caster voice channel (via dragging their Discord user).** 
 See below for some examples of good times to enter the team's War Room.
 2. Commentators discuss the match state and give detailed insight into the occurring events
 
