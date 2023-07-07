@@ -7,7 +7,6 @@ First off, **thank you for volunteering to help with streaming matches!** As tou
 
 The following guidelines are intended to establish a set of standards designed to normalize all tournament-related streams. **These guidelines are required to be followed.** Feel free to ask the Tournament Director if you have any questions.
 
-
 ## Requirements
 Every Tournament Streamer at minimum should:
 ```
@@ -15,24 +14,64 @@ Every Tournament Streamer at minimum should:
 2. Have enough internet bandwidth and good enough hardware to stream at at least 1080p (1920x1080 or 1920x1200) resolution.
 ```
 
+## Streamer Content
+We're using a customized set of OBS scenes and Stinger Transitions for this tournament. Please see the dedicated streamers channel in the tournament Discord for a link to the files as well as a guide explaining how to set everything up.
+
+## Procedure
+The general procedure of a stream goes as follows:
+
+**Starting the Stream**
+1.  Plan to be early. It's best to start the stream about **15-20 minutes** before the match's start time to avoid delays (ie: if a match is scheduled for 2 PM, start the stream at 1:45 PM at the latest). This gives plenty of time for the casters to introduce the match, give a roster rundown, talk about the map, explain the scoring system, and so on, all while letting the match start on time
+2.  Mute your microphone and desktop audio in OBS so that you can freely coordinate with the casters without the streams viewers being able to hear
+3.  Let the timer on the Starting Soon Scene reach zero, or at least 5 minutes. This gives the audience a chance to join the stream
+4.  When everyone is ready, swap to the in-game scene. Then, give the commentators a countdown before you unmute your Desktop Audio in OBS. This allows them to know when they are on the air and when it's appropriate to start speaking
+5.  Upon reaching the match's designed Start Time, double-check that the commentators are ready and let the team that is playing know that you are ready to go. **Note that in the event that the players are ready before the match's scheduled Start Time, you are NOT required to end the introduction segment early**
+
+**War Rooms**
+War Rooms refer to the streaming/casting staff dropping into the team's voice chat to listen in on their comms, and they are a great way of giving the viewers a more personalized account of the action. It is the attending casters'/commentators' responsibility to determine when to enter the team's War Room.
+
+As the streamer, you should ensure the following:
+1.  Your microphone is muted and/or set to Push to Talk
+2.  You have switched to the proper **Discord Voice Chat Overlay** so that the viewers can see who is speaking in the War Room. See the dedicated #streamers channel in the tournament Discord, where a guide can be found on how to properly achieve this
+
+**Replays**
+Throughout the match, highlights can be shown in the form of **Replays.** Replays allow us to save the coolest moments of a match and show them to the viewers to generate some hype and highlight a specific moment. See the dedicated #streamers channel in the tournament Discord, where a guide can be found on how to properly set up Replays.
+
+In general, the best times to save a replay are:
+1.  During "clutch" scenarios where one player makes a game-changing play
+2.  During the Boss Wave
+3.  During situations where multiple players die from a Zed attack, environmental hazard, or otherwise
+4.  During a moment of high-performance from a specific player, such as a player achieving multiple Large Zed takedowns in a short time, an impressive Zed Time Extension combination from a Commando, and so on
+
+The best times to **show** the replay to the viewers are:
+1.  During the Trader period
+2.  During the Postgame Interview session
+
+Refrain from showing too many replays during the match, as they can take away from the viewer's ability to see what's going on. This is especially true during the Trader period, where some important/game-changing strategies might come to fruition from the team. In general, a fair amount of replays to show per match is around **5.**
+
+**Postgame Interviews**
+Typically, after the match concludes, the commentators will pull one or two of the players from the team into the caster war room to conduct **Postgame Interviews**. During this time, you are welcome to unmute your microphone and ask questions to the players if desired. Otherwise, there is not much to be done. If desired, you are welcome to fly the camera around the map and give the viewers some nice scenery while they listen to the interview.
+
+**Ending the Stream**
+When it's time to end the stream:
+1.  Mute your Desktop Audio in OBS
+2.  Switch to the "Stream Ending" scene
+3.  After a few minutes, end the stream
 
 ## I. Game Settings
 Please set all KF2 Graphics options to the highest value(s) whenever possible to ensure the best quality image for the viewers. If nothing else, please make sure that at least Texture and Model Quality are set to **HIGH**.
 
 Please turn off all in-game music. Some of the game's soundtrack is copyrighted material, which can lead to the stream's VOD being muted. Additionally, it can distract the viewers from being able to hear the commentators and the game itself.
 
-
 ## II. Game Modifications
 Please remove/disable **any and all** visual, sound, or effect modifications (for example custom sounds) from your game before streaming matches.
 
 The presence of these mods can detract from the production value / professionalism of the stream and in the case of some mods, can potentially hamper the viewer experience.
 
-
 ## III. Stream Resolution & Framerate
 Please stream at *at least* **1080p** (`1920x1080` or `1920x1200`) resolution.
 
 60 Frames per Second is strongly preferred, but not required.
-
 
 ## IV. Overlays, Stream Elements, & Audio
 Please disable/hide any non-essential stream elements so that as much of the game is viewable as possible.
@@ -99,7 +138,6 @@ Damage Boost Status Color              #FFFF44
 Resistance Boost Status Color          #FF4444
 ```
 
-
 ## VI. Required Keybinds
 ### Camera Descent
 An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera.
@@ -133,7 +171,6 @@ LALT + RightMouseButton     Paint ZED
 Please keep it professional. Your behavior directly reflects on the tournament organization as a whole.
 
 In the event that a Tournament Streamer also functions as a **Commentator**, they should be as professional as possible and avoid using excessive foul language and/or behaving in a crude or immature manner.
-
 
 ## IX. Ownership
 Tamari's KF2 Tournaments does not own the content you produce related to our tournament(s).
