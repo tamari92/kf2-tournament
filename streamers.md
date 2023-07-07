@@ -15,12 +15,12 @@ Every Tournament Streamer at minimum should:
 ```
 
 ## Videos on Demand (VODs)
-Please ensure that your Twitch channel is set to archive Past Broadcasts.
+Please ensure that your Twitch channel is set to archive Past Broadcasts. You can find information on how to achieve this here: https://help.twitch.tv/s/article/video-on-demand?language=en_US
 
-This ensures that the broadcasts can be downloaded and uploaded onto the official tournament YouTube channel.
+Enabling stream archiving ensures that the broadcasts can be downloaded and uploaded onto the official tournament YouTube channel.
 
 ## Streamer Content
-We're using a customized set of OBS scenes and Stinger Transitions for this tournament. Please see the dedicated #streamers channel in the tournament Discord for a link to the files as well as a guide explaining how to set everything up.
+We'll be using a customized set of OBS scenes and Stinger Transitions for this tournament. Please see the dedicated #streamers channel in the tournament Discord for a link to the files as well as a guide explaining how to set everything up.
 
 ## Procedure
 The general procedure of a stream goes as follows:
@@ -93,7 +93,7 @@ This includes:
 
 Additionally, **please do not use copyrighted music** during the stream. This typically results in the stream's VOD being muted, which impacts the ability to rewatch the matches down the line.
 
-A set of official tournament graphics, overlays, and transitions are available.
+A set of official tournament graphics, overlays, and transitions are available. See (https://github.com/tamari92/kf2-tournament/blob/summer23/streamers.md#streamer-content)[above] for more information.
 
 Please contact Tamari or ZeElmo for more information and directions on how to set everything up.
 
