@@ -14,6 +14,11 @@ Every Tournament Streamer at minimum should:
 2. Have enough internet bandwidth and good enough hardware to stream at at least 1080p (1920x1080 or 1920x1200) resolution.
 ```
 
+## Videos on Demand (VODs)
+Please ensure that your Twitch channel is set to archive Past Broadcasts.
+
+This ensures that the broadcasts can be downloaded and uploaded onto the official tournament YouTube channel.
+
 ## Streamer Content
 We're using a customized set of OBS scenes and Stinger Transitions for this tournament. Please see the dedicated #streamers channel in the tournament Discord for a link to the files as well as a guide explaining how to set everything up.
 
