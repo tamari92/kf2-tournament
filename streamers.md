@@ -15,24 +15,24 @@ Every Tournament Streamer at minimum should:
 ```
 
 ## Streamer Content
-We're using a customized set of OBS scenes and Stinger Transitions for this tournament. Please see the dedicated streamers channel in the tournament Discord for a link to the files as well as a guide explaining how to set everything up.
+We're using a customized set of OBS scenes and Stinger Transitions for this tournament. Please see the dedicated #streamers channel in the tournament Discord for a link to the files as well as a guide explaining how to set everything up.
 
 ## Procedure
 The general procedure of a stream goes as follows:
 
 ### Starting the Stream
-1.  Plan to be early. It's best to start the stream about **15-20 minutes** before the match's start time to avoid delays (ie: if a match is scheduled for 2 PM, start the stream at 1:45 PM at the latest). This gives plenty of time for the casters to introduce the match, give a roster rundown, talk about the map, explain the scoring system, and so on, all while letting the match start on time
-2.  Mute your Microphone and Desktop Audio in OBS so that you can freely coordinate with the casters without the streams viewers being able to hear
-3.  Allow the timer on the Starting Soon Scene reach zero, or at least 5 minutes remaining. This gives the audience a chance to join the stream
-4.  After the timer expires, and when the casters are ready, swap to the in-game "Main" scene. Then, give the commentators a countdown before you unmute your Desktop Audio in OBS. This allows them to know when they are on the air and when it's appropriate to start speaking
-5.  Upon reaching the match's designed Start Time, double-check that the commentators are ready and let the team that is playing know that you are ready to go. **Note that in the event that the players are ready before the match's scheduled Start Time, you are NOT required to end the introduction segment early**
+1.  Plan to be early. It's best to start the stream about **15-20 minutes** before the match's start time to avoid delays (ie: if a match is scheduled for 2 PM, start the stream at 1:45 PM at the latest). This gives plenty of time for the casters to introduce the match, give a roster rundown, talk about the map, explain the scoring system, and so on, all while letting the match start on time.
+2.  Mute your Microphone and Desktop Audio in OBS so that you can freely coordinate with the casters without the streams viewers being able to hear.
+3.  Allow the timer on the Starting Soon Scene to reach zero, or at least 5 minutes remaining. This gives the audience a chance to join the stream.
+4.  After the timer expires, and when the casters are ready, swap to the in-game "Main" scene. Then, give the commentators a countdown before you unmute your Desktop Audio in OBS. This allows them to know when they are on the air and when it's appropriate to start speaking.
+5.  Upon reaching the match's designed Start Time, double-check that the commentators are ready and let the team that is playing know that you are ready to go. **Note that in the event that the players are ready before the match's scheduled Start Time, you are NOT required to end the introduction segment early.**
 
 ### War Rooms
 War Rooms refer to the streaming/casting staff dropping into the team's voice chat to listen in on their comms, and they are a great way of giving the viewers a more personalized account of the action. It is the attending casters'/commentators' responsibility to determine when to enter the team's War Room.
 
 As the streamer, you should ensure the following:
-1.  Your microphone is muted and/or set to Push to Talk
-2.  You have switched to the proper **Discord Voice Chat Overlay** so that the viewers can see who is speaking in the War Room. See the dedicated #streamers channel in the tournament Discord, where a guide can be found on how to properly achieve this
+1.  Your microphone is muted and/or set to Push to Talk.
+2.  You have switched to the proper **Discord Voice Chat Overlay** so that the viewers can see who is speaking in the War Room. See the dedicated #streamers channel in the tournament Discord, where a guide can be found on how to properly achieve this.
 
 ### Replays
 Throughout the match, highlights can be shown in the form of **Replays.** Replays allow us to save the coolest moments of a match and show them to the viewers to generate some hype and highlight a specific moment. See the dedicated #streamers channel in the tournament Discord, where a guide can be found on how to properly set up Replays.
