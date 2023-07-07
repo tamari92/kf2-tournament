@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=YhYblPS91PA&list=PLuyPJLvrLKbQI5ywhaxACsHvw1tYZC
 
 
 ## V. Server Specific Settings
-By typing the `!settings` command into the **Chat Box** (T), the server's custom settings menu can be accessed.
+There are some server-specific settings that you'll need to set for this tournament. To access them, join any of Tamari's servers and type the `!settings` command into the **Chat Box** (T).
 
 Please make sure the following are in use for the stream:
 
@@ -149,10 +149,9 @@ Resistance Boost Status Color          #FF4444
 ### Camera Descent
 An additional keybind is required to facilitate better control of the camera, namely, **allowing you to descend the camera without having to turn the view.** Currently, the JUMP key ascends the camera, but there is no default key for *descending* the camera.
 
-To set the bind, simply enter one of the Match or Practice servers, and enter the following console command:
+To set the bind, simply enter any of Tamari's servers, and enter the following console command:
 
 `setbind LeftControl "Button bDuck | Axis aUp Speed=-1.0 AbsoluteAxis=100"`
-
 
 ## VII. Camera Controls
 This tournament uses a customized spectate system with enhanced features, enabling much more complex and precise control over the camera as well as providing additional information about the status of zeds, players, and the environment in order to communicate as much information to the viewer as possible.
@@ -165,7 +164,7 @@ This tournament uses a customized spectate system with enhanced features, enabli
 6                           Jump to Player 6
 7                           Jump to Next Boss
 8                           Jump to Next Painted Target
-9                           Jump to Objective Zone
+9                           Jump to active Objective Zone
 LSHIFT (Hold)               Enable real-time movement during ZED Time (while in free camera)
 LALT (Hold)                 Enable mouse cursor (see below for more info)
 LALT + LeftMouseButton      Jump to Target (when hovering over ZED or player)
