@@ -19,7 +19,7 @@ of reflecting on the entire event, both negatively and positively.
 ## Procedure
 The general procedure of a cast goes as follows:
 
-Before starting, determine which caster is going to be the leader. The **Lead Commentator** is responsible for giving the introduction and also moving the casters and streamers into and out of War Rooms during the match.
+Before starting, determine which caster is going to be the leader. The **Lead Commentator** is responsible for giving the introduction and also moving the Streamer into and out of War Room(s) during the match.
 
 **At the start of the match...**
 1. Lead Commentator greets the viewers and introduces the match (what team is playing, what the map is, what stage of the 
