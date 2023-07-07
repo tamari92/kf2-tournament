@@ -93,7 +93,7 @@ This includes:
 
 Additionally, **please do not use copyrighted music** during the stream. This typically results in the stream's VOD being muted, which impacts the ability to rewatch the matches down the line.
 
-A set of official tournament graphics, overlays, and transitions are available. See (above)[https://github.com/tamari92/kf2-tournament/blob/summer23/streamers.md#streamer-content] for more information.
+A set of official tournament graphics, overlays, and transitions are available. See [above](https://github.com/tamari92/kf2-tournament/blob/summer23/streamers.md#streamer-content) for more information.
 
 Please contact Tamari or ZeElmo for more information and directions on how to set everything up.
 
