@@ -99,18 +99,18 @@ For a given map, Dosh Hold Zones will appear at a static location on each wave t
 
 Unlike the previous bonuses, NMB acts as a **multiplier to the total score** of the match. Specifically, NMB multiplies the Total Score by a factor of **1.50x (150%).** This multiplier is applied *AFTER* all previous bonuses are added to and all penalties subtracted from the current score.
 
-NMB exists to reward teams that manage to overcome the innate difficulty increase brought on by not having a dedicated healer present on the team. In the event that a player should switch to or spawn into the game as a **Field Medic**, the bonus is immediately marked as **Void** and a message is printed to the chat box.
+NMB exists to reward teams that manage to overcome the innate difficulty increase brought on by not having a dedicated healer present on the team. In the event that a player should switch to or spawn into the game as a **Field Medic**, the bonus is immediately marked as **"fully void"** and a message is printed to the chat box.
 
-**It is NOT possible to revert this state once obtained.** Switching off of Field Medic will not restore the original bonus multiplier.
+**It is NOT possible to revert the full void state once obtained.** Switching off of Field Medic will not restore the original bonus multiplier.
 
 #### Survivalist Penalty
 There is one special case with the NMB, seen in the instance that a **Survivalist** is present on the team during the run.
 
-This is referred to as "Partial" No-Medic Bonus. In a partial NMB run, the score multiplier is reduced to **1.25x (125%)**.
+In this case, a penalty is applied to the NMB score multiplier that reduces it to **1.25x (125%)**. At this point, the bonus is said to be **"partially void".**
 
 The purpose of this penalty is to address Survivalist's nature as a generalist and the presence of specific Perk Skills and passive bonuses that inherently make them a *much* more viable non-Medic alternative than the rest of the Perks in the game on average. This penalty allows alternative No-Medic strategies to remain competitive and allows those strategies to be rewarded through the earning of additional bonus points.
 
-As with a *"full"* No-Medic run (described above), **it is NOT possible to revert this state once obtained.** Switching off of Survivalist will not restore the original bonus multiplier.
+As with a *"full"* No-Medic run (described above), **it is NOT possible to revert the partial void state once obtained.** Switching off of Survivalist will not restore the original bonus multiplier.
 
 #### Example
 As an example, consider the following Completion Score (CS), Health Bonus (HB), Time Bonus (TB), and Objective Bonus (OB) values:
@@ -120,7 +120,7 @@ HB: 200
 TB: 1275
 OB: 200
 ```
-The calculation of the Total Score as a result of a *full* and successful NMB run would go as follows:
+The calculation of the Total Score as a result of a full and non-void NMB run would go as follows:
 ```
 TotalScore = (CS + HB + TB + OB) x NMB
 = (1000 + 200 + 1275 + 200) x 1.50
@@ -128,7 +128,7 @@ TotalScore = (CS + HB + TB + OB) x NMB
 = 4012.5 Points
 = 4012 Points
 ```
-The calculation of the Total Score as a result of a *partial* NMB run (with Survivalist) would go as follows:
+The calculation of the Total Score as a result of a partially void NMB run (with Survivalist) would go as follows:
 ```
 TotalScore = (CS + HB + TB + OB) x NMB
 = (1000 + 200 + 1275 + 150) x 1.25
