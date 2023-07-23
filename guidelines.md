@@ -501,8 +501,8 @@ For the **Playoffs** phase of the tournament, a smaller sub pool of maps (taken 
 
 At the beginning of each round, the Mentors of teams participating in a given matchup will be contacted via a private Discord Thread (that only the involved teams can see) where they will be required to cast their bans. Both the order that bans are made and the number of maps to ban depends on the round in question (see below).
 
-- There is a grace period of **8 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
-- There is an initial deadline of **24 hours** for the first team (determined by the rules below) to make their ban after the initial call.
+- There is a grace period of **12 hours** between bans cast. Once the first team (determined by the rules below) makes their ban, the other must make their choice within that timeframe to avoid penalties.
+- There is an initial deadline of **12 hours** for the first team (determined by the rules below) to make their ban after the initial call.
 
 #### 3.3.1a - One Map To Play
 When there is **one map** to be played, the following procedures are in effect:
@@ -515,13 +515,13 @@ When there are **two maps** to be played, the following procedures are in effect
 - 4 Maps in round Map Pool
 - Each Mentor bans 1 Map, leaving 2 Maps to be played
 - Ban order is determined by a coin toss, with the higher/stronger seed calling the toss
-- The order to play the two maps is determined by a coin toss
+- The order to play the two maps is determined by a coin toss, with the higher/stronger seed calling the toss
 
 #### 3.3.1c - Penalties
 There are various penalties in place on Map Bans, as follows:
-- If the first team to ban is unavailable or does not respond to the initial call *within 24 hours*, **the second team shall choose the map(s) to play.** The second team does not get to recast their initial ban, but rather, make the first team's choice for them.
+- If the first team to ban is unavailable or does not respond to the initial call *within 12 hours*, **the second team shall choose the map(s) to play.** The second team does not get to recast their initial ban, but rather, make the first team's choice for them.
 - If the first ban is made, but the second team does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play.** The first team does not get to recast their initial ban, but rather, make the second team's choice for them.
-- If both teams fail to make their bans or respond to the initial call *within 24 hours*, **the Tournament Directors shall choose the map(s) to play**
+- If both teams fail to make their bans or respond to the initial call *within 12 hours*, **the Tournament Directors shall choose the map(s) to play**
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
 
