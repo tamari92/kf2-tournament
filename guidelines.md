@@ -929,8 +929,8 @@ All player Perks will be temporarily forced to Level 25 using serverside modific
 
 #### 8.6.2 - Perk Limits
 There are limits in place on the Perk composition the team can possess at any given time:
-- Maximum **ONE of each:** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist
-- Maximum **TWO of each:** Sharpshooter, Gunslinger
+- Maximum **ONE of each:** Berserker, Field Medic, Commando, SWAT, Support, Demolitionist, Firebug, Survivalist, Sharpshooter
+- Maximum **TWO of each:** Gunslinger
 - Maximum **TWO total** from the group:
   - Berserker
   - Demolitionist
