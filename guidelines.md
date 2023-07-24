@@ -37,11 +37,11 @@ Regardless, it is highly recommended for all participants and staff to review th
   - [3.3 - Map Pool](#33---map-pool)
     - [3.3.1 - Map Bans](#331---map-bans)
       - [3.3.1a - Arbitration](#331a---arbitration)
-      - [3.3.1b - Two Maps To Play](#331b---two-maps-to-play)
-      - [3.3.1c - One Map To Play](#331c---one-map-to-play)
-      - [3.3.1d - Time Limits](#331d---time-limits)
-      - [3.3.1e - Penalties](#331e---penalties)
-      - [3.3.1f - Equality](#331f---equality)
+      - [3.3.1b - Equality](#331b---equality)
+      - [3.3.1c - Two Maps To Play](#331c---two-maps-to-play)
+      - [3.3.1d - One Map To Play](#331d---one-map-to-play)
+      - [3.3.1e - Time Limits](#331e---time-limits)
+      - [3.3.1f - Penalties](#331f---penalties)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -514,34 +514,34 @@ The conditions for determining the arbitrating team are as follows:
 - Grand Finals: Same as Winners Semifinals
 - All other phases: The team that earned the **lowest total score in their previous match** is the arbiter
 
-After the ban order has been determined by the arbiter, both teams then follow the procedures outlined in [3.3.1b](#331b---two-maps-to-play)) and [3.3.1c](#331c---one-map-to-play)), depending on the round in question.
+After the ban order has been determined by the arbiter, both teams then follow the procedures outlined in [3.3.1c](#331c---two-maps-to-play)) and [3.3.1d](#331d---one-map-to-play)), depending on the round in question.
 
-#### 3.3.1b - Two Maps To Play
+#### 3.3.1b - Equality
+To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
+
+#### 3.3.1c - Two Maps To Play
 When there are **two maps** to be played, the following procedures are in effect:
 - 4 Maps in round Map Pool
 - Each Mentor bans 1 Map, leaving 2 Maps to be played
 - The order to play the two maps is determined by a coin toss
 
-#### 3.3.1c - One Map To Play
+#### 3.3.1d - One Map To Play
 When there is **one map** to be played, the following procedures are in effect:
 - 3 Maps in round Map Pool
 - Each Mentor bans 1 Map, leaving 1 Map to be played
 
-#### 3.3.1d - Time Limits
+#### 3.3.1e - Time Limits
 To avoid delays, there are time restrictions set on casting bans.
 - The first team (determined by the arbiter) has **12 hours** to cast their ban from the time the ban order is determined
 - The second team (determined by the arbiter) has **12 hours** to cast their ban from the moment the first team makes their choice
 
-#### 3.3.1e - Penalties
+#### 3.3.1f - Penalties
 There are various penalties in place on Map Bans, as follows:
 - If the first team to ban (determined by the arbiter) is unavailable or does not cast their ban *within 12 hours*, **the second team shall choose the map(s) to play.** The second team does not get to recast their own ban, but rather, make the first team's choice for them.
 - If the first ban is made, but the second team (determined by the arbiter) does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play.** The first team does not get to recast their own ban, but rather, make the second team's choice for them.
 - If both teams fail to make their bans or respond to the initial call *within 12 hours*, **the Tournament Directors shall choose the map(s) to play**
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
-
-#### 3.3.1f - Equality
-To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
 
 
 # Section 4: Registration Process
