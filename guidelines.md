@@ -39,8 +39,9 @@ Regardless, it is highly recommended for all participants and staff to review th
       - [3.3.1a - Arbitration](#331a---arbitration)
       - [3.3.1b - Two Maps To Play](#331b---two-maps-to-play)
       - [3.3.1c - One Map To Play](#331c---one-map-to-play)
-      - [3.3.1d - Penalties](#331d---penalties)
-      - [3.3.1e - Equality](#331e---equality)
+      - [3.3.1d - Time Limits](#331d---time-limits)
+      - [3.3.1e - Penalties](#331e---penalties)
+      - [3.3.1f - Equality](#331f---equality)
 - [Section 4: Registration Process](#section-4-registration-process)
   - [4.1 - Registration](#41---registration)
   - [4.2 - Double Registration](#42---double-registration)
@@ -250,6 +251,7 @@ Gladiateor            76561198133021250
 indynick              76561197979820467
 Jenny XJ-9            76561198058237584
 Melon                 76561198065021843
+MeowTea               76561199083752989
 Rey                   76561198002762666
 Tamari                76561197960854627
 Tibbs                 76561198399708504
@@ -538,7 +540,7 @@ There are various penalties in place on Map Bans, as follows:
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
 
-#### 3.3.1d - Equality
+#### 3.3.1f - Equality
 To establish an equally competitive setting, **all teams playing in a given round will be given the same subpool of maps.**
 
 
