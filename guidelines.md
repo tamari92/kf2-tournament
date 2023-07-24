@@ -510,8 +510,8 @@ One important aspect of Map Bans is who chooses first. The order of bans context
 
 The conditions for determining the arbitrating team are as follows:
 - Winners Quarterfinals: The lower seeded team is the arbiter
-- Winners Semifinals: 
-- Grand Finals: Same as Winners Semifinals
+- Winners Semifinals: The team who did **not** receive a bye is the arbiter
+- Grand Finals: The losers bracket team is the arbiter
 - All other phases: The team that earned the **lowest total score in their previous match** is the arbiter
 
 After the ban order has been determined by the arbiter, both teams then follow the procedures outlined in [3.3.1c](#331c---two-maps-to-play)) and [3.3.1d](#331d---one-map-to-play)), depending on the round in question.
