@@ -389,7 +389,7 @@ The Playoffs utilize a **6-Team Double Elimination Bracket** structure. To creat
 
 The pairings for each round are then made according to the following diagram:
 
-![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/Azs94pC.png)
+![Summer Showdown 2023 Playoffs Bracket](https://i.imgur.com/snvPQ0M.png)
 (sourced from https://www.baberuthleague.org/media/11192/6team.pdf)
 
 #### 3.2.2a - Winners Quarterfinals
