@@ -508,7 +508,7 @@ At the beginning of each round, the Mentors of teams participating in a given ma
 One important aspect of Map Bans is who chooses first. The order of bans contextually makes a difference depending on the teams goal, and isn't guaranteed to be fair to both teams in most cases. The solution put forth in this tournament is to designate one of the two teams as the "arbiter".
 **The arbitrating team is granted the ability to choose who bans first**.
 
-The conditions for determining the arbitrating team are as follows:
+The conditions for determining the arbiter are as follows:
 - Winners Quarterfinals: The lower seeded team is the arbiter
 - Winners Semifinals: The team who did **not** receive a bye is the arbiter
 - Grand Finals: The losers bracket team is the arbiter
@@ -529,17 +529,17 @@ When there are **two maps** to be played, the following procedures are in effect
 When there is **one map** to be played, the following procedures are in effect:
 - 3 Maps in round Map Pool
 - Each Mentor bans 1 Map, leaving 1 Map to be played
+- Teams play Scenario A, and then Scenario B
 
 #### 3.3.1e - Time Limits
-To avoid delays, there are time restrictions set on casting bans.
-- The first team (determined by the arbiter) has **12 hours** to cast their ban from the time the ban order is determined
-- The second team (determined by the arbiter) has **12 hours** to cast their ban from the moment the first team makes their choice
+To avoid delays, there are time restrictions set on casting bans. The Tournament Directors shall reveal the map pool in private to the mentors **24 hours** before the beginning of the upcoming round. Mentors are then required to fill out a flowchart-style form that designates their ban choices for each of their possible opponents, their opponents' ban choices (all possibilities), and also whether or not they are the *arbiter*.
+
+This form is due by the beginning of the round in question. Being late or incorrectly filling out the form is subject to penalties.
 
 #### 3.3.1f - Penalties
 There are various penalties in place on Map Bans, as follows:
-- If the first team to ban (determined by the arbiter) is unavailable or does not cast their ban *within 12 hours*, **the second team shall choose the map(s) to play.** The second team does not get to recast their own ban, but rather, make the first team's choice for them.
-- If the first ban is made, but the second team (determined by the arbiter) does not make their ban *within the grace period or is unavailable*, **the first team shall choose the map(s) to play.** The first team does not get to recast their own ban, but rather, make the second team's choice for them.
-- If both teams fail to make their bans or respond to the initial call *within 12 hours*, **the Tournament Directors shall choose the map(s) to play**
+- If one team does not cast their ban or the information is unusable (either inputted wrong or simply unavailable), the other team shall be allowed to make their choice for them. Note that this does not give that team the ability to recast their own ban. They **must** abide by the flowchart they established through the form for their own pick.
+- If both teams fail to cast their bans in time or the information is unusable (either inputted wrong or simply unavailable), **the Tournament Directors shall choose the map(s) to play**
 
 **Note:**  The Tournament Directors shall reserve the right to overrule these penalties or enact alternative solutions as deemed necessary to achieve the fairest outcome for all parties. This will only be exercised in extreme cases.
 
