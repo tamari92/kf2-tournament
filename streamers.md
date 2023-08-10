@@ -57,7 +57,7 @@ The best times to **show** the replay to the viewers are:
 Refrain from showing too many replays during the match, as they can take away from the viewer's ability to see what's going on. This is especially true during the Trader period, where some important/game-changing strategies might come to fruition from the team. In general, a fair amount of replays to show per match is around **5.**
 
 ### Postgame Interviews
-Typically, after the match concludes, the commentators will pull one or two of the players from the team into the caster war room to conduct **Postgame Interviews**. During this time, you are welcome to unmute your microphone and ask questions to the players if desired. Otherwise, there is not much to be done. If desired, you are welcome to fly the camera around the map and give the viewers some nice scenery while they listen to the interview.
+Typically, after the match concludes, the commentators will pull one or two of the players from the team into the caster war room to conduct **Postgame Interviews**. During this time, you are welcome to unmute your microphone and ask questions to the players if desired. Otherwise, there is not much to be done. If desired, you are welcome to fly the camera around the map and give the viewers some nice scenery while they listen to the interview. A pro-tip is to use the `togglehud` console command to turn off the tournament HUD, allowing for a more cinematic view.
 
 ### Ending the Stream
 When it's time to end the stream:
